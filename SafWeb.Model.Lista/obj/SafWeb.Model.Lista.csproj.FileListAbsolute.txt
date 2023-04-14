@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Lista\bin\Release\SafWeb.Model.Lista.dll
+C:\Projetos\SafWeb\SafWeb.Model.Lista\bin\Release\SafWeb.Model.Lista.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Release\SafWeb.Model.Lista.dll
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Release\SafWeb.Model.Lista.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+C:\Projetos\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+C:\Projetos\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb

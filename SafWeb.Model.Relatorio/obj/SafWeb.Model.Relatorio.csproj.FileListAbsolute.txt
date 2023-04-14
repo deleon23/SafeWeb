@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\bin\Release\SafWeb.Model.Relatorio.dll
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\bin\Release\SafWeb.Model.Relatorio.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Release\SafWeb.Model.Relatorio.dll
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Release\SafWeb.Model.Relatorio.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+C:\Projetos\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb

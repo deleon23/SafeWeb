@@ -1,0 +1,919 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.Model.Menu
+</name>
+</assembly>
+<members>
+<member name="F:FrameWork.Model.Menu.ConfPadraoMenu.decId">
+	<summary>Id do Padrão de Estilo Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strTitulo">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intTop">
+	<summary>Top</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intLeft">
+	<summary>Left</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intPadding">
+	<summary>Padding</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intWidth">
+	<summary>Width</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intHeight">
+	<summary>Height</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strOrientacao">
+	<summary>Orientacao</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strAlinhamento">
+	<summary>Alinhamento</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strTransicao">
+	<summary>Transicao</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strBorderColor">
+	<summary>Border Color</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strBorderWidth">
+	<summary>Border Width</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strFontSize">
+	<summary>Font Size</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strFontStyle">
+	<summary>Font Style</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strFontBold">
+	<summary>Font Bold</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strFontName">
+	<summary>Font Name</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strFontDecoration">
+	<summary>Font Decoration</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strSubImage">
+	<summary>Sub Image</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intSubImagePadding">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strSubImagePosition">
+	<summary>Sub Image Position</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strSeparatorColor">
+	<summary>Separator Color</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.strSeparatorSize">
+	<summary>Separator Size</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intSeparatorPadding">
+	<summary>Separator Padding</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intMouseOn">
+	<summary>Comportamento Padrao Menu - Mouse On</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfPadraoMenu.intMouseOff">
+	<summary>Comportamento Padrao Menu - Mouse Off</summary>
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Titulo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_TITULO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Top">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_TOP
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Left">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_LEFT
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Padding">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_PADDING
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Width">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_WIDTH
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Height">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_HEIGHT
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Orientacao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ORIENTACAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Alinhamento">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ALINHAMENTO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.Transicao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_TRANSICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.BorderColor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_BD_COLOR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.BorderWidth">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_BD_WIDTH
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.FontSize">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_FNT_SIZE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.FontStyle">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_FNT_STYLE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.FontBold">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_FNT_BOLD
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.FontName">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_FNT_NAME
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.FontDecoration">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_FNT_DECORATION
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SubImage">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_SUBIMAGE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SubImagePadding">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_SUBIMAGEPADDING
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SubImagePosition">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_SUBIMAGEPOSITION
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SeparatorColor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_SEPCOLOR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SeparatorSize">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_SEPSIZE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.SeparatorPadding">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_N_SEPPADDING
+ </summary>
+	<value>Int16</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.MouseOn">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_CODIGO
+ </summary>
+	<value>Enum ComportamentoPadraoMenu</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfPadraoMenu.MouseOff">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_CODIGO
+ </summary>
+	<value>Enum ComportamentoPadraoMenu</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.ConfPadraoMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.ConfPadraoMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Padrão de Estilos de Menu
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.MenuParams.decMenuId">
+	<summary>Id do Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuParams.intMenuName">
+	<summary>Nome Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuParams.decMenuEstilo">
+	<summary>Id do Estilo Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuParams.intNavAtivo">
+	<summary>Navegação Ativa do Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuParams.intMenuAtivo">
+	<summary>Item do Menu Ativo</summary>
+</member><member name="P:FrameWork.Model.Menu.MenuParams.MenuId">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuParams.EstiloId">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuParams.MenuName">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_C_DESCRICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuParams.NavAtivo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_CODIGO
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuParams.MenuAtivo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_CODIGO
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.MenuParams">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.MenuParams
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model para montagem do Menu 
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.MenuTranslation.decId">
+	<summary>Id da Tradução Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuTranslation.decMenuId">
+	<summary>Id do Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuTranslation.strLanguage">
+	<summary>Idioma</summary>
+</member><member name="F:FrameWork.Model.Menu.MenuTranslation.strTranslation">
+	<summary>Tradução</summary>
+</member><member name="P:FrameWork.Model.Menu.MenuTranslation.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MET_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuTranslation.Language">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MET_C_LANGUAGE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuTranslation.MenuId">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MET_MEN_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.MenuTranslation.Translation">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MET_T_TRANSLATION
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.MenuTranslation">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.MenuTranslation
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Tradução do Menu
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.Menus.decId">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.Menus.strDescricao">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.Menus.strIcone">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.Menus.blnContentManager">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.Menus.blnOwner">
+	<summary>Id do Item Menu</summary>
+</member><member name="P:FrameWork.Model.Menu.Menus.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.Menus.Descricao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_C_DESCRICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.Menus.Icone">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_C_ICONE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/03/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.Menus.ContentManager">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_B_CONTENT_MANAGER
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	21/03/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.Menus.Owner">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEN_B_OWNER
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	21/03/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.Menus">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.Menus
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Menu
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.decId">
+	<summary>Id do Estilo Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.strTitulo">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.intAbertura">
+	<summary>Forma de Abertura</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.objPadraoRaiz">
+	<summary>Objeto PadroMenu para a raiz</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.objPadraoSubMenu">
+	<summary>Objeto PadroMenu para o submenu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfEstiloMenu.objPadraoSelected">
+	<summary>Objeto PadroMenu para o menu selecionado</summary>
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_N_CODIGO
+ </summary>
+	<value></value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.Titulo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_C_TITULO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.Abertura">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_N_CLICK
+ </summary>
+	<value>Enum AberturaMenu</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.PadraoRaiz">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_C_PADRAORAIZ
+ </summary>
+	<value>Objeto ConfPadraoMenu</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.PadraoSubMenu">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_C_PADRAOSUB
+ </summary>
+	<value>Objeto ConfPadraoMenu</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfEstiloMenu.PadraoSelected">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MST_C_PADRAOSELECTED
+ </summary>
+	<value>Objeto ConfPadraoMenu</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.ConfEstiloMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.ConfEstiloMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Estilo Menu
+ </summary>
+	<history>
+ 	[eneves]	23/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.MenuAberturaLink">
+ -----------------------------------------------------------------------------
+ <summary>
+ Menu Abertura Link
+ </summary>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.MenuTipoLink">
+ -----------------------------------------------------------------------------
+ <summary>
+     Enum que armazena os tipos de link
+ </summary>
+	<history>
+ 	[eneves]	23/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.AberturaMenu">
+ -----------------------------------------------------------------------------
+ <summary>
+ Abertura Menu
+ </summary>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.decCodigo">
+	<summary>Id do Item Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.intAbertura">
+	<summary>Forma de Abertura</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strParametro">
+	<summary>Parametro na URL</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.decHierarquia">
+	<summary>Hierarquia de Montagem</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strImagem">
+	<summary>Imagem de Background</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.intLinkPagina">
+	<summary>Link para Página do CMS</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strListaAcesso">
+	<summary>String com os Grupos que Acessam</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.intMenuid">
+	<summary>Id do Menu</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strTexto">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strTextoStatusBar">
+	<summary>Descrição Status Bar</summary>
+</member><member name="F:FrameWork.Model.Menu.ConfItemMenu.strURL">
+	<summary>URL</summary>
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Codigo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Abertura">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_ABERTURA
+ </summary>
+	<value>Enum MenuAberturaLink</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Parametro">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_PARAMETRO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.HierarquiaPai">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_MEI_N_CODIGO_PAI
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Imagem">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_IMAGEM
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.LinkPagina">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_N_LNKPAGINA
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.ListaAcesso">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_LISTAACESSO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Menuid">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_MEN_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.Texto">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_TEXTO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.TextoStatusBar">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_STATUSBAR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ConfItemMenu.URL">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MEI_C_URL
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.ConfItemMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.ConfMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Item do Menu
+ </summary>
+	<history>
+ 	[eneves]	23/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Menu.ComportamentoPadraoMenu.strForeColor">
+	<summary>Fore Color</summary>
+</member><member name="F:FrameWork.Model.Menu.ComportamentoPadraoMenu.strBackColor">
+	<summary>Back Color</summary>
+</member><member name="F:FrameWork.Model.Menu.ComportamentoPadraoMenu.strBorderColor">
+	<summary>Border Color</summary>
+</member><member name="F:FrameWork.Model.Menu.ComportamentoPadraoMenu.strBackImage">
+	<summary>Back Image</summary>
+</member><member name="P:FrameWork.Model.Menu.ComportamentoPadraoMenu.ForeColor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ON_FNCOLOR ou MPD_C_OFF_FNCOLOR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ComportamentoPadraoMenu.BackColor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ON_BGCOLOR ou MPD_C_OFF_BGCOLOR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ComportamentoPadraoMenu.BorderColor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ON_BDCOLOR ou MPD_C_OFF_BDCOLOR
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Menu.ComportamentoPadraoMenu.BackImage">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de MPD_C_ON_BKIMAGE ou MPD_C_OFF_BKIMAGE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Menu.ComportamentoPadraoMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Menu
+ Class	 : Model.Menu.ComportamentoPadraoMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Padrão de Estilos de Menu
+ </summary>
+	<history>
+ 	[eneves]	21/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

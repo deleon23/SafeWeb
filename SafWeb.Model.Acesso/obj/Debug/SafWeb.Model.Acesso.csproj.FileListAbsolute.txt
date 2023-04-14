@@ -1,0 +1,39 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb

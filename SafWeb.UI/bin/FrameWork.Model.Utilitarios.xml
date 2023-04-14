@@ -1,0 +1,577 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.Model.Utilitarios
+</name>
+</assembly>
+<members>
+<member name="F:FrameWork.Model.Utilitarios.Acessos.decId">
+	<summary>Id do Acesso</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Acessos.decCodigoMenuItem">
+	<summary>Id do Menu Item</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Acessos.strTituloPagina">
+	<summary>Tttulo da Página</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Acessos.datDataReferencia">
+	<summary>Data</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Acessos.decCounter">
+	<summary>counter</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Acessos.decCodigoPagina">
+	<summary>Id da Página CMS</summary>
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.CodigoMenuItem">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_N_MEI_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.TituloPagina">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_C_PAG_C_TITULO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.DataReferencia">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_D_DATAREF
+ </summary>
+	<value>Date</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.Counter">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_N_COUNTER
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Acessos.CodigoPagina">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACC_PAG_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Acessos">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.Acessos
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Acessos
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.strTituloSite">
+	<summary>Titulo do site</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.intTipoLogin">
+	<summary>Tipo Login</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.blnExpiraSenha">
+	<summary>Expira Senha</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.intQtdeDiasSenha">
+	<summary>Qtde de dias para expirar a senha</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.strQtdeDigito">
+	<summary>Qtde de Dígitos</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.strSmtpServer">
+	<summary>SMTP Server</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.strRemetente">
+	<summary>Remetente</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.blnGravalogerro">
+	<summary>Grava Log de Erro</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.blnLogAcesso">
+	<summary>Grava Log de Acesso</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.blnAutoCadastramento">
+	<summary>Auto Cadastramento de Usuário</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.dttPermissoes">
+	<summary>Permissões</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ParametroSistema.strDiretorioRaiz">
+	<summary>Diretório Raiz - CMS</summary>
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.TituloSite">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_C_TITULO_SITE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.TipoLogin">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_N_TIPO_LOGIN
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.ExpiraSenha">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_B_EXPIRA_SENHA
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.QtdeDiasSenha">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_N_QTDE_DIAS_SENHA
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.QtdeDigito">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_N_QTDE_DIGITO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.SmtpServer">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_C_SMTP_SERVER
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.Remetente">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_C_REMETENTE
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.Gravalogerro">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_B_GRAVALOGERRO
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.LogAcesso">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_B_LOG_ACESSO
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.AutoCadastramento">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de PAS_B_AUTOCADASTRAMENTO
+ </summary>
+	<value>Boolean</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ParametroSistema.Permissoes">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor do WebConfig da tag FW.Permissoes
+ </summary>
+	<value>DataSet</value>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.ParametroSistema">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.ParametroSistema
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Parametro Sistema
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.BrowserType">
+ -----------------------------------------------------------------------------
+ <summary>
+ Browser Type
+ </summary>
+	<history>
+ 	[eneves]	28/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoTransacao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo Transação de Dados na WebPage
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoBind">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo Bind de Busca de Dados
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoPainel">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo de Painéis
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoInterfaceGropuBy">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo de Interface GroupBy
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoInterfaceExportacao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo de Interface Exportação Word/Excel
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoGrafico">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo de Tipos de Gráficos
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoLogin">
+ -----------------------------------------------------------------------------
+ <summary>
+ Tipo Login
+ </summary>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums.TipoAuthentication">
+ -----------------------------------------------------------------------------
+ <summary>
+ Tipo Authentication
+ </summary>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Enums">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.Enums
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model de Enums
+ </summary>
+	<history>
+ 	[eneves]	14/7/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Utilitarios.Log.decCodigo">
+	<summary>Id do Usuário</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Log.datData">
+	<summary>Data</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Log.strDescricao">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.Log.strAcao">
+	<summary>Ação</summary>
+</member><member name="P:FrameWork.Model.Utilitarios.Log.CodigoUsuario">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de LOG_N_USU_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Log.Acao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de LOG_C_ACAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Log.Data">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de LOG_D_DATA
+ </summary>
+	<value>Date</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.Log.Descricao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de LOG_C_DESCRICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.Log">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.Log
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Log de Erros
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strCodigo">
+	<summary>Código do Erro</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strMensagem">
+	<summary>Mensagem</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strSolucao">
+	<summary>Soluçao</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strMensagemOriginal">
+	<summary>Mensagem Original</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strStackTrace">
+	<summary>Stack Trace</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.ErroDescricao.strTipo">
+	<summary>Tipo de Erro</summary>
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.Codigo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ERR_C_CODIGO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.Mensagem">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ERR_C_MENSAGEM
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.Solucao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ERR_C_SOLUCAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.MensagemOriginal">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ex
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.StackTrace">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de Stack Trace
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.ErroDescricao.Tipo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ERR_C_TIPO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.ErroDescricao">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.ErroDescricao
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Erro Descrição
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Utilitarios.AcessosTrace.decCodigoUsuario">
+	<summary>Id do Usuário Logado</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.AcessosTrace.datDataReferencia">
+	<summary>Data</summary>
+</member><member name="F:FrameWork.Model.Utilitarios.AcessosTrace.decCodigoMenuItem">
+	<summary>Id do Item Menu</summary>
+</member><member name="P:FrameWork.Model.Utilitarios.AcessosTrace.CodigoUsuario">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACT_USU_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.AcessosTrace.DataReferencia">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACT_D_DATAREF
+ </summary>
+	<value>Date</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Utilitarios.AcessosTrace.CodigoMenuItem">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de ACT_MEI_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Utilitarios.AcessosTrace">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Utilitarios
+ Class	 : Model.Utilitarios.AcessosTrace
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Acessos Trace
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

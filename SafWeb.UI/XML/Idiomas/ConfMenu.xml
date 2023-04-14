@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<ConfMenu>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Itens de Menu]]></lblTitulo>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+		<btnCancela><![CDATA[Cancela]]></btnCancela>
+		<lblModulos><![CDATA[<u>M</u>odulos:]]></lblModulos>
+		<lblTituloCadastro><![CDATA[<u>T</u>ítulo:]]></lblTituloCadastro>
+		<lblimagem><![CDATA[<u>I</u>magem:]]></lblimagem>
+		<lblFormaAbertura><![CDATA[<u>F</u>orma de Abertura:]]></lblFormaAbertura>
+		<lblGrupos><![CDATA[Grupo que acessam:]]></lblGrupos>
+		<lbllink><![CDATA[Tipo de <u>L</u>ink:]]></lbllink>
+		<lblURL><![CDATA[<u>U</u>RL:]]></lblURL>
+		<lblParametro><![CDATA[<u>P</u>arâmetros:]]></lblParametro>
+		<btnOK><![CDATA[OK]]></btnOK>
+	</ConfMenu>
+	<ConfMenu>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Itens de Menu]]></lblTitulo>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+		<btnCancela><![CDATA[Cancela]]></btnCancela>
+		<lblModulos><![CDATA[<u>M</u>odulos:]]></lblModulos>
+		<lblTituloCadastro><![CDATA[<u>T</u>ítulo:]]></lblTituloCadastro>
+		<lblimagem><![CDATA[<u>I</u>magem:]]></lblimagem>
+		<lblFormaAbertura><![CDATA[<u>F</u>orma de Abertura:]]></lblFormaAbertura>
+		<lblGrupos><![CDATA[Grupo que acessam:]]></lblGrupos>
+		<lbllink><![CDATA[Tipo de <u>L</u>ink:]]></lbllink>
+		<lblURL><![CDATA[<u>U</u>RL:]]></lblURL>
+		<lblParametro><![CDATA[<u>P</u>arâmetros:]]></lblParametro>
+		<btnOK><![CDATA[OK]]></btnOK>
+	</ConfMenu>
+	<ConfMenu>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Itens de Menu - en-US]]></lblTitulo>
+		<lblDescricao><![CDATA[<u>D</u>escrição: - en-US]]></lblDescricao>
+		<btnVoltar><![CDATA[Voltar - en-US]]></btnVoltar>
+		<btnCancela><![CDATA[Cancela - en-US]]></btnCancela>
+		<lblModulos><![CDATA[<u>M</u>odulos: - en-US]]></lblModulos>
+		<lblTituloCadastro><![CDATA[<u>T</u>ítulo: - en-US]]></lblTituloCadastro>
+		<lblimagem><![CDATA[<u>I</u>magem: - en-US]]></lblimagem>
+		<lblFormaAbertura><![CDATA[<u>F</u>orma de Abertura: - en-US]]></lblFormaAbertura>
+		<lblGrupos><![CDATA[Grupo que acessam: - en-US]]></lblGrupos>
+		<lbllink><![CDATA[Tipo de <u>L</u>ink: - en-US]]></lbllink>
+		<lblURL><![CDATA[<u>U</u>RL: - en-US]]></lblURL>
+		<lblParametro><![CDATA[<u>P</u>arâmetros: - en-US]]></lblParametro>
+		<btnOK><![CDATA[OK - en-US]]></btnOK>
+	</ConfMenu>
+</Pages>

@@ -1,0 +1,432 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.DataLayer.Utilitarios
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.DataLayer.Utilitarios.DALSequencia.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Constructor
+ </summary>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALSequencia.Obter(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Obter proximo registro
+ </summary>
+	<param name="pstrTabela">Nome Tabela</param>
+	<returns>Retorna um inteiro com o proximo registro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALSequencia">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Utilitarios
+ Class	 : DataLayer.Utilitarios.DALSequencia
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Sequencia
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALParametroSistema.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Constructor
+ </summary>
+	<history>
+ 	[eneves]	08/04/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALParametroSistema.Obter">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALParametroSistema.Alterar(FrameWork.Model.Utilitarios.ParametroSistema)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjParametroSistema">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALParametroSistema.Listar(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista uma tabela de configurações de qualquer banco de dados que for passado
+ pelo parametro de connection string
+ </summary>
+	<param name="pstrConnectionString">Connection String</param>
+	<param name="pstrTableName">Nome da Tabela</param>
+	<returns>DataTable</returns>
+	<history>
+ 	[cveber]	4/7/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALParametroSistema.Listar(System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista uma tabela de configurações de qualquer banco de dados que for passado
+ pelo parametro de connection string
+ </summary>
+	<param name="pstrConnectionString">Connection String</param>
+	<param name="pstrTableName">Nome da Tabela</param>
+	<returns>DataTable</returns>
+	<history>
+ 	[cveber]	4/7/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALParametroSistema">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Utilitarios
+ Class	 : DataLayer.Utilitarios.DALParametroSistema
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Parametros Sistema
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Constructor
+ </summary>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.Inserir(FrameWork.Model.Utilitarios.Acessos,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjAcessos">Objeto com dados para inserir</param>
+	<param name="pdecCodigoUsuario">Código do Usuário</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.Listar(System.Decimal,System.DateTime,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecMenuItem">Codigo Menu Item</param>
+	<param name="pdatDataInicial">Data Final</param>
+	<param name="pdatDataFinal">Data Inicial</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.ExcluirTrace(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigoUsuario">Codigo do Usuário</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.ListarTrace(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="decCodigoUsuario">Codigo Usuário</param>
+	<param name="pdatData">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.GerarRelatorioPaginasGrupo(System.Decimal,System.DateTime,System.DateTime,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<param name="pdecIdGrupo">Código Grupo</param>
+	<param name="pdatDataInicial">Data Inicial</param>
+	<param name="pdatDataFinal">Data Final</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.GerarRelatorioPaginasUsuario(System.Decimal,System.DateTime,System.DateTime,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<param name="pdecIdUsuario">Código Usuário</param>
+	<param name="pdatDataInicial">Data Inicial</param>
+	<param name="pdatDataFinal">Data Final</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.GerarRelatorioHorarios(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<param name="pdecIdUsuario">Código Usuário</param>
+	<param name="pdatData">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALAcessos.GerarRelatorioHorariosGrupo(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<param name="pdecIdGrupo">Código Grupo</param>
+	<param name="pdatData">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALAcessos">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Utilitarios
+ Class	 : DataLayer.Utilitarios.DALAcessos
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Log de Acessos
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALLog.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Constructor
+ </summary>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALLog.Listar(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigoUsuario">Codigo</param>
+	<param name="pdatDataCadastro">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALLog.Excluir">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALLog">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Utilitarios
+ Class	 : DataLayer.Utilitarios.DALLog
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Log de Erros
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALUtilitarios.ConexoesDisponiveis">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Conexoes Disponiveis
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.GetStringConnection(FrameWork.DataLayer.Utilitarios.DALUtilitarios.ConexoesDisponiveis)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna uma string de conexão de algum dos banco de dados disponíveis
+ </summary>
+	<param name="pintFonte">Um tipo de dado Enum com a informação de qual fonte de dados</param>
+	<returns>String de conexão</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.DecString(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para decriptacao basica de String
+ </summary>
+	<param name="pstrTexto">String Criptografada</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.ObterCommandTimeOut">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém o timeout para execução do command
+ </summary>
+	<returns>Integer</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.MensagemErro(FrameWork.Model.Utilitarios.ErroDescricao@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém a mensagem de erro amigável
+ </summary>
+	<param name="pobjErroDescricao">ErroDescricao</param>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.GravaLog(System.String,System.String,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ GravaLog de Erro
+ </summary>
+	<param name="pstrAcao">Classe e Metodo que deu Erro</param>
+	<param name="pstrMensagem">Mensagem de Erro</param>
+	<param name="pdecCodigoUsuario">Codigo do Usuario</param>
+	<history>
+ 	[eneves]	7/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.VerificaDB">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica Banco de Dados
+ </summary>
+	<returns>True/False - Banco ativo</returns>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.Hash2String(System.Collections.Hashtable)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Hash to String
+ </summary>
+	<param name="pobjHashItems">HashTable</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	25/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Utilitarios.DALUtilitarios.String2Hash(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ String to Hash
+ </summary>
+	<param name="pstrStringItems">String</param>
+	<returns>HashTable</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	25/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Utilitarios.DALUtilitarios">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Utilitarios
+ Class	 : DataLayer.Utilitarios.DALUtilitarios
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Utilitários
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

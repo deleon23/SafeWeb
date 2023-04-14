@@ -1,0 +1,11 @@
+<ContextMenus>
+	<Menu Name="1" Width="100">
+		<Item Text="Novo Menu" PostBack="True" />
+	</Menu>
+	<Menu Name="2" Width="100">
+		<Item Text="Novo SubMenu" PostBack="True" />
+		<Item Text="Editar" PostBack="True" />
+		<Item Text="Renomear" />
+		<Item Text="Excluir" PostBack="True" />
+	</Menu>
+</ContextMenus>

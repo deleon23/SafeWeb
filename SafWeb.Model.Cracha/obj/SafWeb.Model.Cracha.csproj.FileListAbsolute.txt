@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\bin\Release\SafWeb.Model.Cracha.dll
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\bin\Release\SafWeb.Model.Cracha.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Release\SafWeb.Model.Cracha.dll
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Release\SafWeb.Model.Cracha.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+C:\Projetos\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb

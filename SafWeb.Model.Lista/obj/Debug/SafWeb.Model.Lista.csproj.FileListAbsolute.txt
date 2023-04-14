@@ -1,0 +1,36 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Lista\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.csprojResolveAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Lista\obj\Debug\SafWeb.Model.Lista.pdb

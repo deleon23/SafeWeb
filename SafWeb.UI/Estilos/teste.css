@@ -1,0 +1,150 @@
+/***************************** DATAGRID **************************/
+.dtgHeaderStyle			{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #154E7A; padding: 2px 2px 2px 2px; text-align:center; font-weight: bold;}				
+.dtgItemStyle			{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #666666; height: 15px; padding: 2px 2px 2px 2px; background:#FFFFFF;}
+.dtgItemStyleAlternate	{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #666666; height: 15px; padding: 2px 2px 2px 2px; background:#EFF2F7;} 	 
+table.dtg 				{border-collapse: collapse; background:#ACC6DF; }
+table.dtg tr td 		{border:1px solid #A9BECD; padding: 2px 2px 2px 2px;}
+.dtgTitulo				{font-size: 14px; font-family: Verdana, Arial, sans-serif; color: #ffffff; padding: 4px 4px 4px 8px; font-weight: bold; background: #ff9900; border-bottom: 3px Solid #999999;}				
+.dtgLink				{font: 10px Verdana, Tahoma; color: #526CA1; text-decoration: underline;}
+.dtgLink:hover			{font: 10px Verdana, Tahoma; color: #666666; text-decoration: none;}
+
+
+/**************** DATAGRID - VERSÃO PARA IMPRESSÃO ***************/
+.dtgHeaderStylePrint		{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #ffffff; padding: 2px 2px 2px 2px; text-align:center; font-weight: bold;}				
+.dtgItemStylePrint			{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #000000; height: 15px; padding: 2px 2px 2px 2px; background:#FFFFFF;}
+.dtgItemStyleAlternatePrint	{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #000000; height: 15px; padding: 2px 2px 2px 2px; background:#FFFFFF;} 	 
+table.dtgPrint 				{margin-top: 10px; margin-bottom: 5px; border-collapse: collapse; background:#000000;}
+table.dtgPrint tr td 		{border:1px solid #000000; padding: 2px 2px 2px 2px;}
+.dtgPrintTitulo				{font-size: 14px; font-family: Verdana, Arial, sans-serif; color: #ffffff; padding: 4px 4px 4px 8px; font-weight: bold; background: #ff9900; border-bottom: 3px Solid #999999;}				
+
+/***************************** DATAGRID OPCIONAL **************************/
+.dtgHeaderStyleOpc			{font-size: 12px; font-family: Tahoma, Verdana, sans-serif; color: #154E7A; text-align:center; font-weight: bold;}				
+.dtgItemStyleOpc			{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #333333; height: 18px; padding: 2px 2px 2px 2px; background:#FFFFFF;}
+.dtgItemStyleOpcTotal		{font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #ffffff; height: 18px; padding: 2px 2px 2px 2px; background:#999999;}
+.dtgItemStyleOpcTotalGeral	{font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #ffffff; height: 18px; padding: 2px 2px 2px 2px; background:#154E7A;}
+.dtgItemStyleOpcIdent		{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #336699; height: 18px; text-indent: 25px; background:#FFFFFF;}
+.dtgItemStyleAlternateOpc	{font-size: 10px; font-family: Tahoma, Verdana, sans-serif; color: #666666; height: 18px; padding: 2px 2px 2px 2px; background:#f0f0f0; font-weight: bold;} 	 
+table.dtgOpc 				{margin-top: 10px; margin-bottom: 5px; border-collapse: collapse; background:#C7E1EF;}
+table.dtgOpc tr td 			{border:1px solid #A9BECD; padding: 2px 2px 2px 2px;}
+.dtgTituloOpc				{font: 13px Verdana, Tahoma; color: #666666; font-weight: bold;}
+.dtgTituloOpc2				{font: 12px Verdana, Tahoma; color: #336699; font-weight: bold;}
+.dtgLinkOpc					{font: 10px Verdana, Tahoma; color: #333333; text-decoration: underline;}
+.dtgLinkOpc:hover			{font: 10px Verdana, Tahoma; color: #FF6600; text-decoration: none;}
+
+/************************* FORMULÁRIO ****************************/
+.cadlinkbutton       {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #154E7A; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;  text-decoration: none;}
+.cadlinkbutton:hover {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #154E7A; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;  text-decoration: none;}
+
+.cadlblBlack	 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: Black; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+.cadlbl			 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #154E7A; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+.cadlblSilver	 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #999999; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+.cadlblWhite	 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #FFFFFF; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+.cadtxt			 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #526CA1; padding: 2px 2px 2px 3px; border: 1px solid #526CA1;height: 19px; background-image:url(../imagens/comum/backInputForms.jpg)}
+.cadddl			 {font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #526CA1; padding: 2px 2px 2px 2px; border: 1px solid #526CA1; background-color:#E5E9F1}
+.cadlstBox		 {font: 11px Tahoma, Verdana; color: #154E7A; border: 1px solid #526CA1; background-color:#E5E9F1}
+.cadrad			 {font: 11px Tahoma, Verdana; color: #154E7A; padding: 2px 0px 2px 0px;}
+.cadchk			 {font: 11px Tahoma, Verdana; color: #666666; padding: 2px 0px 2px 0px;}
+.cadalert		 {font: 11px Tahoma, Verdana; color: #CC0000; font-weight: bold;}
+.cadobser		 {font: 11px Tahoma, Verdana; color: #08588B; font-weight: bold;} 
+.cadbutton80	 {font: 9px Verdana, Arial, Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button80px.jpg); width: 80px; height:20px; cursor:hand; text-transform:uppercase; font-weight: bold;}
+.cadbutton100	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px.jpg); width: 100px; height: 20px;cursor: hand;}
+.cadbutton100Vermelho	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px_vermelho.jpg); width: 100px; height: 20px;cursor: hand;}
+.cadbutton100Verde	     {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px_verde.jpg); width: 100px; height: 20px;cursor: hand;}
+.cadbutton100left	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px.jpg); width: 100px; height: 20px;cursor: hand; float:left;}
+.cadbutton100right	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px.jpg); width: 100px; height: 20px;cursor: hand; float:right;}
+.cadbutton120	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button120px.jpg); width: 120px; height: 20px;cursor: hand;}
+.cadbuttonfiltro {font: 11px Tahoma, Verdana; color: #FFFFFF; border: 0px solid #333333; background-color: #526CA1; height: 19px; cursor:hand;}
+.cadbuttonList	 {font: 11px Tahoma, Verdana; color: #ffffff; border: 1px solid #336699; background-color: #526CA1; height: 19px;cursor:hand;}
+.cadMsgErro		 {font: 11px Tahoma, Verdana; color: #C5D5E5; font-weight: bold; background-color: #C5D5E5; border-bottom: 1px dotted #FF0000; border-top: 1px dotted #FF0000; text-align:center; height: 25px;}
+.cadMsgOk		 {font: 11px Tahoma, Verdana; color: #C5D5E5; font-weight: bold; background-color: #C5D5E5; border-bottom: 1px dotted #009900; border-top: 1px dotted #009900; text-align:center; height: 25px;}
+.cadBarraTitulo	 {font: 11px Tahoma, arial; color: #ffffff; font-weight: bold; background-color: #526CA1;}
+.backBarraBotoes {background-color: #C5D5E5; border-bottom: 0px Solid #ffffff; height: 30px; padding-right: 5px;}	
+.backBarraBotoesWizard {background-color: #C7E1EF;border-bottom: 1px Solid #9DCBE3;height: 30px;}		
+.cadDiv			 {BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid;}
+
+.divLoadFactor		{border: 1px Solid #154E7A;  background:#ACC6DF;font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #154E7A; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+.divLoadFactorError	{border: 1px Solid #9400D3;  background:#DDA0DD;font-size: 11px; font-family: Tahoma, Verdana, sans-serif; color: #551A8B; padding: 3px 2px 3px 0px; text-align: left; font-weight: bold;}
+
+.rptHeaderStyle			{font-size: 10px; background-color:#ACC6DF;BORDER-TOP:#FFFFFF 1px solid; border-left:#FFFFFF 1PX SOLID; border-RIGHT:#FFFFFF 1PX SOLID; font-family: Verdana, Tahoma, sans-serif; color: #154E7A; padding: 2px 2px 2px 2px; text-align:center; font-weight: bold;}
+.rptItemStyle			{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #666666; height: 15px; padding: 2px 2px 2px 2px; background:#FFFFFF;}
+.rptItemStyleAlternate	{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #666666; height: 15px; padding: 2px 2px 2px 2px; background:#EFF2F7;}
+
+
+/************************* TELA DE LOGIN **************************/
+.lblLogin			{font-size: 10px; font-family: Verdana, Arial, Tahoma, sans-serif; color: #154E7A; padding: 3px 2px 3px 0px; text-align: right;}
+.txtLogin			{font-size: 11px; font-family: Verdana, Arial, Tahoma, Verdana, sans-serif; color: #154E7A; padding: 2px 2px 2px 3px; border: 1px solid #536DA1; height: 13px; background-image:url(../imagens/comum/backinput.jpg)}
+.textoLogin			{font-size: 11px; font-family: Verdana, Arial, Tahoma, Verdana, sans-serif; color: #666666;}
+.LinkLogin			{font: 11px Verdana, Arial, Tahoma, Verdana; color: #154E7A; text-decoration: none;}
+.LinkLogin:hover	{font: 11px Verdana, Arial, Tahoma, Verdana; color: #154E7A; text-decoration: underline;}
+.buttonLogin80		{font: 9px Verdana, Arial, Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button80px.jpg); width: 80px; height:20px; cursor:hand; text-transform:uppercase; font-weight: bold;}
+.buttonLogin100		{font: 9px Verdana, Arial, Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button100px.jpg); width: 100px; height:20px; cursor:hand; text-transform:uppercase; font-weight: bold;}
+.buttonLogin120		{font: 9px Verdana, Arial, Tahoma, Verdana; color: #ffffff; border: 0px solid #A9BECD; background-image: url(../imagens/comum/button120px.jpg); width: 120px; height:20px; cursor:hand; text-transform:uppercase; font-weight: bold;}
+.backBoxLogin		{background-color: #E3F5F7; background-image:url(../imagens/admin/login_back.jpg); background-repeat:no-repeat; background-position:top}
+.tituloBoxLogin		{font: 11px Verdana, Arial, Verdana, Tahoma; color: #ffffff; font-weight: bold; text-indent: 15px;}
+.textoPadraoLogin	{font-size: 11px; font-family: Tahoma, Arial, Verdana, sans-serif; color: #666666;}
+
+/************************* PAGINAÇÃO ******************************/
+.paglbl			{font: 10px Tahoma, Arial; color: #666666;}
+.pagtxtbox		{font: 10px Tahoma, Arial; color: #666666; border: 1px solid  #999999; width: 40px; text-align: center; font-weight: bold;}
+.pagLink		{font: 10px Tahoma, Arial; color: #666666; text-decoration: none;}
+.pagLink:hover	{font: 10px Tahoma, Arial; color: #154E7A; text-decoration: underline;}
+
+.pagWizard		{font-size: 10px; font-family: Tahoma, Arial, sans-serif; color:#ffffff; font-weight: bold; padding: 2px 2px 2px 2px; text-decoration: none;}
+.pagWizard:hover{font-size: 10px; font-family: Tahoma, Arial, sans-serif; color:#C7E1EF; padding: 2px 2px 2px 2px; text-decoration: none;}
+
+/************************* BACKGROUNDS ****************************/
+.backPadrao		 	{background-color: #ffffff;}
+.backbox			{background-color: #DAE4EE; background-image:url(../imagens/comum/backBoxConteudo.jpg);background-repeat:repeat-x;}
+.backboxconteudo	{background-color: #FFFFFF;}
+
+/********************* COMUM A TODAS AS PÁGINAS *******************/
+a					{font: 11px Tahoma, Tahoma; color: #154E7A; text-decoration: none; }
+a:hover				{font: 11px Tahoma, Tahoma; color: #154E7A; text-decoration: underline;}
+
+.textoPadrao		{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color: #154E7A;}
+.textoRodape		{font-size: 10px; font-family: Tahoma, Arial, sans-serif; color: #ffffff; background-color:#526CA1}
+.DivisorImg  		{background-image: url(../imagens/comum/divisor.gif); background-position: center; background-repeat:repeat-x; height: 10px;}
+.LinkPadrao			{font: 11px Tahoma, Tahoma; color: #336699; text-decoration: none;}
+.LinkPadrao:hover	{font: 11px Tahoma, Tahoma; color: #666666; text-decoration: underline;}
+.LinkLogoff			{font: 11px Tahoma, Verdana; color: #526CA1; text-decoration: none;}
+.LinkLogoff:hover	{font: 11px Tahoma, Verdana; color: #999999; text-decoration: underline;}
+.LinkUser			{font: 11px Tahoma, Verdana; color: #154E7A; text-decoration: none;}
+.LinkUser:hover		{font: 11px Tahoma, Verdana; color: #0099CC; text-decoration: underline;}
+.LinkItens			{font: 11px Tahoma, Tahoma; color: #154E7A; text-decoration: none; font-weight: bold;}
+.LinkItens:hover	{font: 11px Tahoma, Tahoma; color: #0099CC; text-decoration: none; font-weight: bold;}
+.MarginTopBarra		{margin-top: 10px;}
+.MarginTopConteudo	{margin-top: 10px;}
+.boxSucesso			{background-color: #C5D5E5; border: 3px double #C5D5E5;}
+
+/************************* TITULOS ****************************/
+.tituloPadrao			{font: 13px Verdana, Tahoma; color: #ACC6DF; font-weight: bold;}
+.tituloPropostaCompleta	{font: 13px Verdana, Tahoma; color: #336699; font-weight: bold;}
+.tituloDivisor			{font: 13px Verdana, Tahoma; color: #ACC6DF; height: 25px; font-weight: bold; border-bottom: 2px solid #cccccc;}
+.tituloPacote			{font: 13px Verdana, Tahoma; color: #4998B7; font-weight: bold; padding-top: 10px; text-align:right;}
+.tituloball				{font: 11px Verdana, Tahoma; color: #154E7A; font-weight: bold;}
+
+
+
+/**************** SUBMENU ****************/
+.linkmenuSubitem		{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#336699; padding: 2px 2px 2px 4px; text-decoration: none;}
+.linkmenuSubitem:hover	{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#6699cc; padding: 2px 2px 2px 4px; text-decoration: none;}
+table.sub 				{margin-top: 10px; margin-bottom:5px; border-collapse: collapse; background-color:#FFFFFF}
+table.sub tr td 		{border:1px solid #ACC6DF; padding: 2px 2px 2px 2px;}
+.subItem				{font-size: 10px; font-family: Verdana, Tahoma, sans-serif; color: #666666; height: 15px; padding: 2px 2px 2px 2px;}
+
+/**************** MENU ****************/
+.linkmenu			{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#19368D; padding: 2px 2px 2px 4px; text-decoration: none;}
+.linkmenu:hover		{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#19368D; padding: 2px 2px 2px 4px; text-decoration: none;}
+.linkmenuitem		{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#666666; padding: 2px 2px 2px 4px; text-decoration: none;}
+.linkmenuitem:hover	{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color:#336699; padding: 2px 2px 2px 4px; text-decoration: none;}
+
+.DivBarra			{font-size: 11px; font-family: Tahoma, Arial, sans-serif; color: #526CA1;}
+.backMenu			{}
+.backMenu:hover		{background-color: #ffffff;}
+
+.menudhtml			{position:absolute; visibility:hidden;}
+.menusubitens		{padding:12px;}
+#dhtmltooltip		{font-family: Tahoma, Arial, sans-serif; font-size: 10px; color: #000000; position: absolute; width: 150px; border: 1px solid #000000; padding: 2px 2px 2px 4px; background-color: #FFFFCC; visibility: hidden;z-index: 100; filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);}
+
+/************************* ESCALA ****************************/
+.botaoAdicionar     {vertical-align:middle; height:15px; margin-left:5px;}

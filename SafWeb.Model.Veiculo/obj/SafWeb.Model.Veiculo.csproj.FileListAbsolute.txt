@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\bin\Release\SafWeb.Model.Veiculo.dll
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\bin\Release\SafWeb.Model.Veiculo.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Release\SafWeb.Model.Veiculo.dll
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Release\SafWeb.Model.Veiculo.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+C:\Projetos\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb

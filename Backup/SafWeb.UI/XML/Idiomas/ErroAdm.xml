@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<ErroAdm>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Erro]]></lblTitulo>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+	</ErroAdm>
+	<ErroAdm>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[Erro]]></lblTitulo>
+		<btnVoltar><![CDATA[Volver]]></btnVoltar>
+	</ErroAdm>
+	<ErroAdm>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[Error]]></lblTitulo>
+		<btnVoltar><![CDATA[Back]]></btnVoltar>
+	</ErroAdm>
+</Pages>

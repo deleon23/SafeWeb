@@ -1,0 +1,155 @@
+/* Telerik RadInput Macromedia skin */
+
+.radInput_Macromedia
+{
+	font:12px verdana,arial,sans-serif;
+	vertical-align:middle;
+}
+
+.radInput_Macromedia table,
+.radInput_Macromedia table td
+{
+	margin: 0;
+	padding: 0;
+	border: 0;	
+}
+
+.radInput_Macromedia
+{
+	_padding-bottom: 4px; /*IE hack*/	
+}
+*+html .radInput_Macromedia
+{
+	padding-bottom: 4px; /*IE hack*/	
+}
+
+.radInput_Macromedia textarea
+{
+	overflow:auto;
+}
+
+.radInput_Macromedia td.inputCell
+{
+	padding:0 6px 0 0;
+}
+
+.radEnabledCss_Macromedia,
+.radDisabledCss_Macromedia,
+.radEmptyMessageCss_Macromedia,
+.radFocusedCss_Macromedia,
+.radNegativeCss_Macromedia,
+.radInvalidCss_Macromedia,
+.radHoverCss_Macromedia
+{
+	border:2px solid;
+	padding:3px 0 3px 1px;
+	font:12px verdana,arial,sans-serif;
+	color:#000;
+}
+
+.radHoverCss_Macromedia
+{
+	background:#f7f7f7;
+	border-color:#98a0a2 #b6bdbf #dfe3e4 #aeb7b9;
+}
+
+.radEnabledCss_Macromedia,
+.radEmptyMessageCss_Macromedia,
+.radNegativeCss_Macromedia,
+.radDisabledCss_Macromedia
+{
+	background:#efefef;
+	border-color:#b5b9b9 #cbcece #e1e4e4 #c7cacb;
+}
+
+.radEmptyMessageCss_Macromedia
+{
+	color:#bfbfbf;
+}
+
+.radDisabledCss_Macromedia
+{
+	color:gray;
+}
+
+.radInvalidCss_Macromedia
+{
+	background:#fff;
+	border-color:#dcd300 #f6ec1e #f9f02f #f3ea12;
+	background:url('Img/error.gif') 99% 1px no-repeat;
+}
+
+.radFocusedCss_Macromedia
+{
+	border-color:#6ac558 #98e085 #a3ef90 #8cdb78;
+}
+
+.radNegativeCss_Macromedia
+{
+	color:#f33;
+}
+
+.radLabelCss_Macromedia
+{
+	font-family: Verdana, Arial, Tahoma, Sans-Serif;
+	color: #000000;
+	padding-right: 5px;
+	font-size: 10px;
+	white-space:nowrap;
+}
+
+/* input buttons */
+
+/* SPIN BUTTONS */
+.radInput_Macromedia  .spinImgCell
+{			
+	padding: 5px 0 0 0;	
+}
+
+.radInput_Macromedia a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 9px; 
+	line-height: 9px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;		
+}
+
+*+html .radInput_Macromedia a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Macromedia a.spinbutton.up
+{
+	background-position: center 0;
+}
+
+.radInput_Macromedia a.spinbutton.down
+{
+	background-position: center -9px;
+}
+
+.radInput_Macromedia a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_Macromedia a.gobutton
+{
+	position: static;
+}
+/* end of input buttons */

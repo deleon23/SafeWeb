@@ -1,0 +1,13 @@
+<root>
+	<modules>
+		<module name="RadEditorStatistics" dockingZone="Bottom" enabled="true" visible="true"/>		
+		<module name="RadEditorDomInspector" dockingZone="Module" enabled="true" visible="true" />
+		<module name="RadEditorNodeInspector" dockingZone="Module" enabled="true" visible="true" dockable="false" />
+		<module name="RadEditorHtmlInspector" dockingZone="Module" enabled="true" visible="false" />
+	</modules>
+	<tools name="DialogToolbar" dockingZone="Top" enabled="true" isribbon = "false">
+		<tool name="InsertTable" />	
+		<tool name="Repositorio" />
+	</tools>
+</root>
+

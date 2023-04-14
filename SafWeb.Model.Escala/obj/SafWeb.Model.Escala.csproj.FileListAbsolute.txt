@@ -1,0 +1,11 @@
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Escala.dll
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Escala.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Colaborador.dll
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Filial.dll
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Regional.dll
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Colaborador.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Filial.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Escala\bin\Debug\SafWeb.Model.Regional.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Escala\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Escala\obj\Debug\SafWeb.Model.Escala.dll
+C:\Projetos\SafWeb\SafWeb.Model.Escala\obj\Debug\SafWeb.Model.Escala.pdb

@@ -1,0 +1,66 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Model.HelpDesk.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.HelpDesk\obj\Debug\SafWeb.Model.HelpDesk.pdb

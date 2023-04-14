@@ -1,0 +1,165 @@
+﻿/* Telerik RadInput Default Skin */
+
+.radInput_Default
+{
+	font: normal 11px Arial, Verdana, Tahoma, Sans-Serif;	
+	vertical-align: middle;		
+}
+
+.radInput_Default table,
+.radInput_Default table td
+{	
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+}
+
+.radInput_Default textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+.radInput_Default .spinImgCell
+{
+	vertical-align:middle;
+}
+
+.radInput_Default td.inputCell
+{
+	padding:0 4px 0 0;
+}
+
+/* SPIN BUTTONS */
+.radInput_Default a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 16px;
+	height: 8px;
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size:1px;
+	position:relative;/*FF*/
+	z-index:2;/*Opera*/
+	_position:static;/*IE*/
+	outline:none;/*FF*/
+}
+*+html .radInput_Default a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Default a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Default a.down
+{
+	background-position: center -7px;
+}
+
+.radInput_Default a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+	z-index:2;
+}
+*+html .radInput_Default a.gobutton
+{
+	position: static; /*IE fix*/
+}
+
+/* INPUT STYLES SETTINGS */
+
+.radEnabledCss_Default,
+.radEmptyMessageCss_Default,
+.radHoverCss_Default,
+.radFocusedCss_Default,
+.radNegativeCss_Default,
+.radDisabledCss_Default,
+.radInvalidCss_Default
+{
+	font:11px arial,verdana,tahoma,sans-serif;
+	padding:2px 0 2px 1px;
+}
+
+.radEnabledCss_Default 
+{
+	color: #333;
+	border: solid 1px #626262;
+}
+
+.radHoverCss_Default 
+{
+	color: #333;
+	border: solid 1px #000;
+}
+
+.radDisabledCss_Default
+{
+	color:#ccc;
+	background:#eee;
+	border: solid 1px #aeaeae;
+}
+
+.radEmptyMessageCss_Default
+{
+	color: #333;
+	border: solid 1px #aeaeae;
+}
+
+.radFocusedCss_Default
+{
+	border: solid 1px #000;
+	color: #000;	
+}
+
+.radNegativeCss_Default 
+{
+	border: solid 1px #aeaeae;
+	color: #333;
+}
+
+.radInvalidCss_Default 
+{
+	background:url('Img/errorSign.gif') center right no-repeat;
+	border: solid 1px #f32800;
+	color: #f32800;
+}
+
+.radLabelCss_Default
+{	  
+	color: #000;
+	font-size: small;
+	white-space:nowrap;
+}
+
+.radHint_Default 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_Default a,
+.radHint_Default a:visited,
+.radHint_Default a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}

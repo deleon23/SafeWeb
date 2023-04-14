@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<Login>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[» Login]]></lblTitulo>
+		<lblSenha><![CDATA[Senha:]]></lblSenha>
+		<lblNovaSenha><![CDATA[Nova senha:]]></lblNovaSenha>
+		<lblConfirmarSenha><![CDATA[Confirmar nova senha:]]></lblConfirmarSenha>
+		<revEmail><![CDATA[O formato do e-mail está incorreto.<br>]]></revEmail>
+		<rfvSenha><![CDATA[A senha deve ser informada!]]></rfvSenha>
+		<cpvSenha><![CDATA[Para alterar a senha digite a nova e a confirmação !]]></cpvSenha>
+		<cpvConfSenha><![CDATA[A nova senha e sua confirmação devem ser idênticas !]]></cpvConfSenha>
+		<lblEsqueciSenha><![CDATA[» Para receber sua senha por e-mail digite o e-mail e]]></lblEsqueciSenha>
+		<lnkEsqueci><![CDATA[clique aqui]]></lnkEsqueci>
+		<btnLogin><![CDATA[LOGIN]]></btnLogin>
+		<btnCadastro><![CDATA[CADASTRE-SE]]></btnCadastro>
+	</Login>
+	<Login>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[» Login]]></lblTitulo>
+		<lblSenha><![CDATA[Senha:]]></lblSenha>
+		<lblNovaSenha><![CDATA[Nova senha:]]></lblNovaSenha>
+		<lblConfirmarSenha><![CDATA[Confirmar nova senha:]]></lblConfirmarSenha>
+		<revEmail><![CDATA[O formato do e-mail está incorreto.<br>]]></revEmail>
+		<rfvSenha><![CDATA[A senha deve ser informada!]]></rfvSenha>
+		<cpvSenha><![CDATA[Para alterar a senha digite a nova e a confirmação !]]></cpvSenha>
+		<cpvConfSenha><![CDATA[A nova senha e sua confirmação devem ser idênticas !]]></cpvConfSenha>
+		<lblEsqueciSenha><![CDATA[» Para receber sua senha por e-mail digite o e-mail e]]></lblEsqueciSenha>
+		<lnkEsqueci><![CDATA[clique aqui]]></lnkEsqueci>
+		<btnLogin><![CDATA[LOGIN]]></btnLogin>
+		<btnCadastro><![CDATA[CADASTRE-SE]]></btnCadastro>
+	</Login>
+	<Login>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[» Login - en-US]]></lblTitulo>
+		<lblSenha><![CDATA[Senha: - en-US]]></lblSenha>
+		<lblNovaSenha><![CDATA[Nova senha: - en-US]]></lblNovaSenha>
+		<lblConfirmarSenha><![CDATA[Confirmar nova senha: - en-US]]></lblConfirmarSenha>
+		<revEmail><![CDATA[O formato do e-mail está incorreto.<br> - en-US]]></revEmail>
+		<rfvSenha><![CDATA[A senha deve ser informada! - en-US]]></rfvSenha>
+		<cpvSenha><![CDATA[Para alterar a senha digite a nova e a confirmação ! - en-US]]></cpvSenha>
+		<cpvConfSenha><![CDATA[A nova senha e sua confirmação devem ser idênticas ! - en-US]]></cpvConfSenha>
+		<lblEsqueciSenha><![CDATA[» Para receber sua senha por e-mail digite o e-mail e - en-US]]></lblEsqueciSenha>
+		<lnkEsqueci><![CDATA[clique aqui - en-US]]></lnkEsqueci>
+		<btnLogin><![CDATA[LOGIN - en-US]]></btnLogin>
+		<btnCadastro><![CDATA[CADASTRE-SE - en-US]]></btnCadastro>
+	</Login>
+</Pages>

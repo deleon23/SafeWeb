@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<CadUsuario>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Usuários]]></lblTituloListagem>
+		<lblGrupo><![CDATA[<u>P</u>erfil de Acesso:]]></lblGrupo>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupo>
+		<lblNomeListagem><![CDATA[<u>N</u>ome:]]></lblNomeListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<radGridDados_Coluna_0><![CDATA[Usuário]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Email]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Status]]></radGridDados_Coluna_2>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblTitulo><![CDATA[Cadastro de Usuários]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome:]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail:]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto.]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin:]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto.]]></revLogin>
+		<lblWinLogon><![CDATA[<u>W</u>inLogon:]]></lblWinLogon>
+		<lblIdioma><![CDATA[<u>I</u>dioma:]]></lblIdioma>
+		<lblStatus><![CDATA[S<u>t</u>atus:]]></lblStatus>
+		<rfvStatus><![CDATA[- Seleção Obrigatória: Status]]></rfvStatus>
+		<lblGrupos><![CDATA[Perfis de Acesso:]]></lblGrupos>
+		<lblGruposSelecionados><![CDATA[Perfis Selecionados:]]></lblGruposSelecionados>
+		<rfvlstGruposAdicionados><![CDATA[- Seleção Obrigatória: Grupos Selecionados]]></rfvlstGruposAdicionados>
+		<lblSenha><![CDATA[<u>S</u>enha:]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação:]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[- A senha não confere!!!]]></cpvSenha>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadUsuario>
+	<CadUsuario>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Usuários]]></lblTituloListagem>
+		<lblGrupo><![CDATA[<u>G</u>rupo:]]></lblGrupo>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Grupo:]]></lblSuperGrupo>
+		<lblNomeListagem><![CDATA[<u>N</u>ome:]]></lblNomeListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<radGridDados_Coluna_0><![CDATA[Usuário]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Email]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Status]]></radGridDados_Coluna_2>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblTitulo><![CDATA[Cadastro de Usuários]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome:]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail:]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto.]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin:]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto.]]></revLogin>
+		<lblWinLogon><![CDATA[<u>W</u>inLogon:]]></lblWinLogon>
+		<lblIdioma><![CDATA[<u>I</u>dioma:]]></lblIdioma>
+		<lblStatus><![CDATA[S<u>t</u>atus:]]></lblStatus>
+		<rfvStatus><![CDATA[- Seleção Obrigatório: Status]]></rfvStatus>
+		<lblGrupos><![CDATA[Grupos:]]></lblGrupos>
+		<lblGruposSelecionados><![CDATA[Grupos Selecionados:]]></lblGruposSelecionados>
+		<lblSenha><![CDATA[<u>S</u>enha:]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação:]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[A senha não confere!!!]]></cpvSenha>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadUsuario>
+	<CadUsuario>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Usuários - en-US]]></lblTituloListagem>
+		<lblGrupo><![CDATA[<u>G</u>rupo: - en-US]]></lblGrupo>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Grupo: - en-US]]></lblSuperGrupo>
+		<lblNomeListagem><![CDATA[<u>N</u>ome: - en-US]]></lblNomeListagem>
+		<btnBuscar><![CDATA[Buscar - en-US]]></btnBuscar>
+		<radGridDados_Coluna_0><![CDATA[Usuário - en-US]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Email - en-US]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Status - en-US]]></radGridDados_Coluna_2>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<lblTitulo><![CDATA[Cadastro de Usuários - en-US]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome: - en-US]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome - en-US]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail: - en-US]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email - en-US]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto. - en-US]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin: - en-US]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login - en-US]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto. - en-US]]></revLogin>
+		<lblWinLogon><![CDATA[<u>W</u>inLogon: - en-US]]></lblWinLogon>
+		<lblIdioma><![CDATA[<u>I</u>dioma: - en-US]]></lblIdioma>
+		<lblStatus><![CDATA[S<u>t</u>atus: - en-US]]></lblStatus>
+		<rfvStatus><![CDATA[- Seleção Obrigatório: Status - en-US]]></rfvStatus>
+		<lblGrupos><![CDATA[Grupos: - en-US]]></lblGrupos>
+		<lblGruposSelecionados><![CDATA[Grupos Selecionados: - en-US]]></lblGruposSelecionados>
+		<lblSenha><![CDATA[<u>S</u>enha: - en-US]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha - en-US]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação: - en-US]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação - en-US]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[A senha não confere!!! - en-US]]></cpvSenha>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+	</CadUsuario>
+</Pages>

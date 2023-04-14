@@ -1,0 +1,2608 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.BusinessLayer.Utilitarios
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.#ctor">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ValidaTicketCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListLogCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirLogCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterParametroSistemaCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.AlterarParametroSistemaCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterSequenciaCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.MensagemErroCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaLogCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.VerificaDBCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaAcessoTraceCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.InserirAcessoCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirAcessoCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListAcessoCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirTraceCompleted">
+	<remarks/>
+</member><member name="E:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListTraceCompleted">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ValidaTicket(System.String)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginValidaTicket(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndValidaTicket(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ValidaTicketAsync(System.String)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ValidaTicketAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListLog(System.Decimal,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginListLog(System.Decimal,System.DateTime,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndListLog(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListLogAsync(System.Decimal,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListLogAsync(System.Decimal,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirLog">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginExcluirLog(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndExcluirLog(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirLogAsync">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirLogAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterParametroSistema">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginObterParametroSistema(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndObterParametroSistema(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterParametroSistemaAsync">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterParametroSistemaAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.AlterarParametroSistema(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginAlterarParametroSistema(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndAlterarParametroSistema(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.AlterarParametroSistemaAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.AlterarParametroSistemaAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterSequencia(System.String)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginObterSequencia(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndObterSequencia(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterSequenciaAsync(System.String)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ObterSequenciaAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.MensagemErro(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginMensagemErro(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndMensagemErro(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.MensagemErroAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.MensagemErroAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaLog(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginGravaLog(System.String,System.String,System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndGravaLog(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaLogAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaLogAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.VerificaDB">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginVerificaDB(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndVerificaDB(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.VerificaDBAsync">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.VerificaDBAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaAcessoTrace(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginGravaAcessoTrace(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.Decimal,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndGravaAcessoTrace(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaAcessoTraceAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.GravaAcessoTraceAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.Decimal,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.InserirAcesso(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginInserirAcesso(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndInserirAcesso(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.InserirAcessoAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.InserirAcessoAsync(FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirAcesso(System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginExcluirAcesso(System.Decimal,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndExcluirAcesso(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirAcessoAsync(System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirAcessoAsync(System.Decimal,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListAcesso(System.Decimal,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginListAcesso(System.Decimal,System.DateTime,System.DateTime,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndListAcesso(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListAcessoAsync(System.Decimal,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListAcessoAsync(System.Decimal,System.DateTime,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirTrace(System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginExcluirTrace(System.Decimal,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndExcluirTrace(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirTraceAsync(System.Decimal)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ExcluirTraceAsync(System.Decimal,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListTrace(System.Decimal,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.BeginListTrace(System.Decimal,System.DateTime,System.DateTime,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.EndListTrace(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListTraceAsync(System.Decimal,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.ListTraceAsync(System.Decimal,System.DateTime,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.WSUtilitarios">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.TituloSite">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.TipoLogin">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.ExpiraSenha">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.QtdeDiasSenha">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.QtdeDigito">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.SmtpServer">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.Remetente">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.Gravalogerro">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.LogAcesso">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.AutoCadastramento">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema.Permissoes">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ParametroSistema">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos.Id">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos.CodigoMenuItem">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos.TituloPagina">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos.DataReferencia">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos.Counter">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.Acessos">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.Codigo">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.Mensagem">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.Solucao">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.MensagemOriginal">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.StackTrace">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao.Tipo">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ErroDescricao">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ValidaTicketCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ValidaTicketCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ValidaTicketCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListLogCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListLogCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListLogCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirLogCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirLogCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirLogCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterParametroSistemaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterParametroSistemaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterParametroSistemaCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.AlterarParametroSistemaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.AlterarParametroSistemaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.AlterarParametroSistemaCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterSequenciaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterSequenciaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ObterSequenciaCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.MensagemErroCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.MensagemErroCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.MensagemErroCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.GravaLogCompletedEventHandler">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.VerificaDBCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.VerificaDBCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.VerificaDBCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.GravaAcessoTraceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.GravaAcessoTraceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.GravaAcessoTraceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.InserirAcessoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.InserirAcessoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.InserirAcessoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirAcessoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirAcessoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirAcessoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListAcessoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListAcessoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListAcessoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirTraceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirTraceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ExcluirTraceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListTraceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListTraceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.WSBLUtilitarios.ListTraceCompletedEventArgs">
+	<remarks/>
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLParametroSistema.Obter">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLParametroSistema.Alterar(FrameWork.Model.Utilitarios.ParametroSistema)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjParametroSistema">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLParametroSistema.ObterConfigSistema(System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obter Model Parametro Sistema do Context
+ </summary>
+	<param name="pblnVerificaApplication">Verifica variável de aplicação</param>
+	<returns>Model Parametro Sistema</returns>
+	<history>
+ 	[eneves]	7/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLParametroSistema.CreateObjectWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ CreateObjectWebService
+ </summary>
+	<returns>WSUtilitarios</returns>
+	<history>
+ 	[eneves]	4/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLParametroSistema">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLParametroSistema
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Parametro Sistemas
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLLog.Listar(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigoUsuario">Codigo</param>
+	<param name="pdatDataCadastro">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLLog.Excluir">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLLog.CreateObjectWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ CreateObjectWebService
+ </summary>
+	<returns>WSUtilitarios</returns>
+	<history>
+ 	[eneves]	4/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLLog">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLLog
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Log de Erros
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.GravaArquivo(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Grava conteudo no Arquivo
+ </summary>
+	<param name="pstrNomeArq">Nome do Arquivo</param>
+	<param name="pstrConteudo">Conteudo a ser Gravado no Arquivo</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.AppPath">
+ -----------------------------------------------------------------------------
+ <summary>
+ Path da aplicação WEB
+ </summary>
+	<returns>String URL</returns>
+	<remarks>trata a existencia de um endereco de aplicação na raiz ou então em um diretório virtual
+ </remarks>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.PathFisico(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Path da aplicação WEB - Física
+ </summary>
+	<param name="pstrDiretorio">Nome do Diretorio</param>
+	<returns>Retorna path físico da aplicação WEB</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.CriarDiretorio(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Criar Diretório Físico no Servidor
+ </summary>
+	<param name="pstrNomeDir">Nome do Diretório</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.ExcluirDiretorio(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Deletar Diretório Físico no Servidor
+ </summary>
+	<param name="pstrNomeDir">Nome do Diretório</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.MoverDiretorio(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Mover Diretório Físico no Servidor
+ </summary>
+	<param name="pstrDirOriginal">Diretório Origem</param>
+	<param name="pstrDirDestino">Diretório Destino</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.ListarDiretorio(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Listar Diretório Físico no Servidor
+ </summary>
+	<param name="pstrPath">Diretorio a Listar</param>
+	<param name="pstrTipos">Tipos de Arquivos</param>
+	<returns>DataView dos Arquivos</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.ListarDiretorioDataTable(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Listar Diretório Físico no Servidor
+ </summary>
+	<param name="pstrPath">Diretorio a Listar</param>
+	<param name="pstrTipos">Tipos de Arquivos</param>
+	<returns>DataTable dos Arquivos</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLDiretorios.DelArquivo(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Deletar Arquivo Físico no Servidor
+ </summary>
+	<param name="pstrNomeDir">Nome do Diretório</param>
+	<param name="pstrNomeArq">Nome do Arquivo</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLDiretorios">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinnessLayer.Utilitarios
+ Class	 : BLDiretorios
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de tratamento de diretório e arquivos
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ScriptAddOpenModal(System.Boolean,System.String,System.String,System.String,System.Boolean,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ ScriptAddOpenModal
+ </summary>
+	<param name="pblnIEBrowser">True/False - se for IE</param>
+	<param name="pstrRegisterID">Nome da Função</param>
+	<param name="pstrStatusVar">Variável de Status</param>
+	<param name="pstrReturnScript">Script Retorno</param>
+	<param name="pblnReloadOnReturn">Reload on Return</param>
+	<param name="pstrReloadReturn">Reload Return</param>
+	<returns>Script Open Modal</returns>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.AddOpenModal(System.Web.UI.Page@,System.Boolean,System.String,System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Add Open Modal
+ </summary>
+	<param name="pobjPage">WebPage</param>
+	<param name="pblnReloadOnReturn">True/Fasle - Reload on Return</param>
+	<param name="pstrReturnScript">Return Script</param>
+	<param name="pstrStatusVar">Variável de Status</param>
+	<param name="pstrReloadReturn">Reload Return</param>
+	<param name="pstrRegisterID">Nome da Função</param>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.AddOpenWindow(System.Web.UI.Page@,System.Boolean,System.String,System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Add Open Window
+ </summary>
+	<param name="pobjPage">WebPage</param>
+	<param name="pblnReloadOnReturn">True/Fasle - Reload on Return</param>
+	<param name="pstrReturnScript">Return Script</param>
+	<param name="pstrStatusVar">Variável de Status</param>
+	<param name="pstrReloadReturn">Reload Return</param>
+	<param name="pstrRegisterID">Nome da Função</param>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.AddReturnModal(System.Web.UI.Page@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Add Return Modal
+ </summary>
+	<param name="pobjPage">WebPage</param>
+	<param name="pstrRegisterID">Nome da Função</param>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.AddReturnWindow(System.Web.UI.Page@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Add Return Modal
+ </summary>
+	<param name="pobjPage">WebPage</param>
+	<param name="pstrRegisterID">Nome da Função</param>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.GetBrowser">
+ -----------------------------------------------------------------------------
+ <summary>
+ Get Browser
+ </summary>
+	<returns>BrowserType</returns>
+	<history>
+ 	[eneves]	28/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.IsIE5">
+ -----------------------------------------------------------------------------
+ <summary>
+ IsIE5
+ </summary>
+	<returns>True/False</returns>
+	<history>
+ 	[eneves]	28/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ConsultarValorCombo(System.Web.UI.WebControls.DropDownList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Consulta Valor populado no DropDownList
+ </summary>
+	<param name="pddlCombo">Controle DropDownList</param>
+	<param name="pstrValue">Valor a ser procurado</param>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ConsultarTextoCombo(System.Web.UI.WebControls.DropDownList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Consulta Texto populado no DropDownList
+ </summary>
+	<param name="pddlCombo">Controle DropDownList</param>
+	<param name="pstrTexto">Texto a ser procurado</param>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ConsultarValorRadioButtonList(System.Web.UI.WebControls.RadioButtonList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Procura um valor dentro de um checkboxList com seu resperctivo valor, altera o checkboxList por refêrencia
+ </summary>
+	<param name="prblList">Controle RadioButtonList</param>
+	<param name="pstrValue">Valor</param>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ConsultarValorCheckBoxList(System.Web.UI.WebControls.CheckBoxList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Procura um valor dentro de um checkboxList com seu resperctivo valor, altera o checkboxList por refêrencia
+ </summary>
+	<param name="pcblList">Controle RadioButtonList</param>
+	<param name="pstrValue">Valor</param>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.CheckBoxListString(System.Web.UI.WebControls.CheckBoxList@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Procura um valor dentro de um checkboxList com seu resperctivo valor, altera o checkboxList por refêrencia
+ </summary>
+	<param name="pcblList">Controle RadioButtonList</param>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.RemoveItensSelecionadosDataTable(System.Web.UI.WebControls.ListBox@,System.Data.DataTable@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Remove os itens do plstListBox que estejam em um DataTable 
+ </summary>
+	<param name="plstListBox">Controle ListBox</param>
+	<param name="pdttDataTable">DataTable</param>
+	<history>
+ 	[eneves]	9/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.InseriMensagemDropDownList(System.Web.UI.WebControls.DropDownList@,System.String,System.Boolean,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Inseri Mensagem DropDownList 
+ </summary>
+	<param name="pddlDropDownList">Controle DropDownList</param>
+	<param name="pstrMensagem">Mensagem</param>
+	<param name="pblnUltimo">True/False - adiciona no final da lista</param>
+	<param name="pintValor">Item.Value da Mensagem</param>
+	<history>
+ 	[eneves]	9/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.RemoveItensSelecionadosString(System.Web.UI.WebControls.ListBox@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Remove os itens do plstListBox que estejam em um DataTable 
+ </summary>
+	<param name="plstListBox">Controle Listbox</param>
+	<param name="pstrStringAcesso">String de Acessos</param>
+	<history>
+ 	[eneves]	9/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.RemoveItensNaoSelecionadosString(System.Web.UI.WebControls.ListBox@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Remove os itens do plstListBox que estejam em um Array de String 
+ </summary>
+	<param name="plstListBox">Controle ListBox</param>
+	<param name="pstrStringAcesso">Sctring Array</param>
+	<history>
+ 	[eneves]	9/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ObterPageIndiceGrid(System.Int32,System.Int32,System.Int32,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obter Page Indice do DataGrid
+ </summary>
+	<param name="pintCurrentPageIndex">Pagina Corrente</param>
+	<param name="pintPageCount">Quantidade Total de Páginas</param>
+	<param name="pintRowsCount">Quantidade de Linhas</param>
+	<param name="pintPageSize">Registros por Paginas</param>
+	<returns>Numero da Pagina</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.TraduzAgenda(System.Web.UI.HtmlControls.HtmlGenericControl@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Agenda JavaScript
+ </summary>
+	<param name="pobjiframe">Iframe Agenda</param>
+	<param name="pstrIdioma">Idioma</param>
+	<history>
+ 	[eneves]	24/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.TraduzAgendaComp(System.Web.UI.HtmlControls.HtmlGenericControl@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Agenda JavaScript - Comp
+ </summary>
+	<param name="pobjiframe">Iframe Agenda</param>
+	<param name="pstrIdioma">Idioma</param>
+	<history>
+ 	[eneves]	24/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.Unidades(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Real por Extenso - Unidades
+ </summary>
+	<param name="pstrNumero">numero</param>
+	<returns>Unidade</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.Dezenas(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Real por Extenso - Dezenas
+ </summary>
+	<param name="pstrNumero">numero</param>
+	<returns>Dezenas</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.Centenas(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Real por Extenso - Centenas
+ </summary>
+	<param name="pstrNumero">numero</param>
+	<returns>Centenas</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.RealExtenso(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Real por Extenso - Escrita
+ </summary>
+	<param name="pstrNumero">numero</param>
+	<returns>Real por Extenso</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.TrataAlfa(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Trata Alfa
+ </summary>
+	<param name="pstrTexto">texto</param>
+	<returns>texto tratado</returns>
+	<remarks>retira todos os acentos e caracteres especiais
+ </remarks>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.HTMLEncode(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Remove os acentos do HTML
+ </summary>
+	<param name="pstrInput">String com acentos</param>
+	<returns>String codificada</returns>
+	<history>
+     [cveber]    16/5/2007   Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ValidaCPF(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Valida CPF
+ </summary>
+	<param name="pstrCPF">Numero CPF</param>
+	<returns>Boolean</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ValidaCGC(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Valida CGC
+ </summary>
+	<param name="pstrCGC">Numero CGC</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.VerificaData(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica DATA
+ </summary>
+	<param name="pstrData">Data</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.EnviaEmail(System.String,System.String,System.String,System.String,System.Net.Mail.MailPriority,System.Boolean,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Envia Email
+ </summary>
+	<param name="pstrsender">Email de Origem</param>
+	<param name="pstrdestinatarios">Emails de Destinos</param>
+	<param name="pstrTitulo">Titulo do Email</param>
+	<param name="pstrMensagem">Mensagem do Email</param>
+	<param name="pobjprioridade">Prioridade</param>
+	<param name="pblnHTML">HTML ou TEXTO</param>
+	<param name="pstrArquivoAnexo">Arquivo Anexo</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.EnviaEmail(System.String,System.String,System.String,System.String,System.Net.Mail.MailPriority,System.Boolean,System.String,System.Text.Encoding)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Envia Email
+ </summary>
+	<param name="pstrsender">Email de Origem</param>
+	<param name="pstrdestinatarios">Emails de Destinos</param>
+	<param name="pstrTitulo">Titulo do Email</param>
+	<param name="pstrMensagem">Mensagem do Email</param>
+	<param name="pobjprioridade">Prioridade</param>
+	<param name="pblnHTML">HTML ou TEXTO</param>
+	<param name="pstrArquivoAnexo">Arquivo Anexo</param>
+	<param name="pobjBodyEncoding">Codificação escolhida para email em HTML</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataDataTime">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata Data 
+ </summary>
+	<returns>Data e hora com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataData">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata Data 
+ </summary>
+	<returns>Data com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataData(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata Data 
+ </summary>
+	<param name="pstrData">Data</param>
+	<returns>Data com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataCNPJ(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata CNPJ
+ </summary>
+	<param name="pstrCNPJ">CNPJ</param>
+	<returns>CNPJ com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataCPF(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata CPF
+ </summary>
+	<param name="pstrCPF">CPF</param>
+	<returns>CPF com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.TrataNumero(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Extrai caracteres . , / -
+ </summary>
+	<param name="pstrValor"></param>
+	<returns> Retorna String sem caracteres</returns>
+	<history>
+ 	[mnogueira]	8/7/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.ExpiresPage(System.Web.UI.Page)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Expira Pagina
+ </summary>
+	<param name="pobjPage">WebPage</param>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.PrintersTable">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna Lista de Impressoras
+ </summary>
+	<returns>Datatable com as impressoras instaladas</returns>
+	<history>
+ 	[eneves]	8/4/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.GroupDataGridColumn(System.Web.UI.WebControls.DataGrid,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Esta função serve para agrupar colunas de um datagrid quando necessário
+ devemos chamar esta função depois do databind e informar o indice da coluna
+ a ser agrupada
+ </summary>
+	<param name="pobjDataGrid">Controle DataGrid</param>
+	<param name="pintColumnIndex">Indice da Coluna</param>
+	<returns>Retorna um inteiro com a quantidade de agrupamentos realizados</returns>
+	<remarks>
+   Exemplo de uso:   dtgDados.Datasource = dttDados
+			dtgDados.DataBind()
+			GroupDataGridColumn(dtgDados, 0) 'agrupa a primeira coluna do Grid
+ </remarks>
+	<history>
+ 	[eneves]	11/5/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.FormataDataExtenso(System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Formata Data Extenso
+ </summary>
+	<param name="pdatData">Data</param>
+	<returns>Data com formato correto</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.Hash2String(System.Collections.Hashtable)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Hash to String
+ </summary>
+	<param name="pobjHashItems">HashTable</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	25/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios.String2Hash(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ String to Hash
+ </summary>
+	<param name="pstrStringItems">String</param>
+	<returns>HashTable</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	25/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLUtilitarios">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinnessLayer.Utilitarios
+ Class	 : BLUtilitarios
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de utilitarios de uso em todo o sistema  
+ </summary>
+	<remarks>não tem permissão de estanciar a classe
+ </remarks>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Menus.ObterCaminhoImagens">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtem o caminho virtual de armazenamento de imagens (icones) dos menus
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna NOTHING caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Menus.ObterCaminhoMenuXML">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtem o caminho virtual do xml de tradução do treeview
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna NOTHING caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Menus.ObterNomeMenuXML">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtem o nome do template xml de tradução do treeview
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna NOTHING caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Menus.VerificaCache">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica a Utilização de Cache para o Menu
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna True caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Menus">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Menus
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtem as configuracoes dos menus
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Idiomas.VerificaIdioma">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo o modulo de Idioma
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Idiomas.ObterIdiomaDefault">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna o Idioma Default para o sistema
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna pt-BR caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Idiomas.ObterControleIdioma">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna o Tipo de Controle de Idioma que esta sendo usado
+ </summary>
+	<returns>ControleTipoIdioma</returns>
+	<remarks>
+ Retorna MISTA caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Idiomas.ObterCaminhoXMLTraducao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna Caminho XML de traduções
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna Nothing caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Idiomas">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Idiomas
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações dos Idiomas
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Email.ObterCorpoEmailEsqueciMinhaSenha">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna o Corpo Email Esqueci Minha Senha
+ </summary>
+	<returns>Integer</returns>
+	<remarks>
+ Retorna 0 caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Email.ObterDestinatario">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém o Destinatario
+ </summary>
+	<returns>Destinatario</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Email.ObterSMTP">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém o SMTP
+ </summary>
+	<returns>SMTP</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Email">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Email
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações dos Email
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.VerificaWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo o WebService
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.ObterURIEmail">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a URI de Email
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.ObterURIUsuarios">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a URI de Usuarios
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.ObterURIIdioma">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a URI de Idioma
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.ObterURIUtilitarios">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a URI de Utilitarios
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService.ObterURIMenu">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a URI de Menu
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.WebService">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.WebService
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações dos WebService
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.VerificaPassByProxy">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo o Proxy 
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.ObterNomeProxy">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Nome do Proxy
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.ObterPorta">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Porta de Conexão
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.VerificaUsesCredential">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta usando usuário para logar no Proxy
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.ObterDominioUser">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Dominio do Usuario na Rede
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.ObterUserName">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a User Name
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy.ObterPassword">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Password
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Proxy">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Proxy
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações do Proxy
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaGravaLog">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se grava log de erro em banco de dados
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaManutencao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se o site esta em manutenção
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaExibirErroOriginal">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se o vai Exibir Erro Original
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaErro">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Erro
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaAcesso">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Acesso
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaErroAdm">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Erro Adm
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaAcessoAdm">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Acesso Adm
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaErroPopup">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Erro Popup
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterUrlPaginaErroAjax">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Url Pagina Erro Ajax
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.ObterDataGridPageSize">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obter DataGrid PageSize
+ </summary>
+	<returns>integer</returns>
+	<remarks>
+ Retorna 10 caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaExibirErrosDebug">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se o vai Exibir Erro Debug
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaCompressViewState">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se vai usar Compress de ViewState
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaDB">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se DB está OK
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaInterfaceExportacao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se usa a Interface Normal / Exportação para Word / Excel
+ </summary>
+	<returns>Tipo Interface</returns>
+	<remarks>
+ Retorna Normal caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaInterfaceGropuBy">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se usa a Interface Normal / GroupBy
+ </summary>
+	<returns>Tipo Interface</returns>
+	<remarks>
+ Retorna Normal caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema.VerificaInterfaceLoadPanel">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se usa a Interface Ajax com LoadPanel
+ </summary>
+	<returns>True/False</returns>
+	<remarks>
+ Retorna True caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Sistema">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Sistema
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações dos Sistema
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaAcesso">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo a verificação de acessos
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaAcessoAdmRetornoDefault">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo a verificação de Acesso Adm Retorno Default
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaAcessoDefault">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo a verificação de acessos para a Default.aspx
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.ObterPermissoes">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna as Permissões de Acessos
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaSuperGrupo">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo o SuperGrupo
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaTipoAuthentication">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica Tipo Authentication
+ </summary>
+	<returns>TipoAuthentication</returns>
+	<remarks>
+ Retorna Form caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.VerificaImpersonate">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica se esta ativo o Impersonate
+ </summary>
+	<returns>Boolean</returns>
+	<remarks>
+ Retorna False caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.ObterImpersonateUser">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna as User do Impersonate
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.ObterImpersonatePassword">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna a Password do Impersonate
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.ObterImpersonateDominio">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna o dominio usado para o Impersonate
+ </summary>
+	<returns>String</returns>
+	<remarks>
+ Retorna "" caso não esteja definido no web.config
+ </remarks>
+	<history>
+ 	[eneves]	21/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca.Permissoes">
+ -----------------------------------------------------------------------------
+ <summary>
+ Permissoes
+ </summary>
+	<returns>DataSet</returns>
+	<history>
+ 	[eneves]	25/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao.Seguranca">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao.Seguranca
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Obtém as configurações das Seguranca
+ </summary>
+	<history>
+ 	[eneves]	17/4/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfiguracao">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfiguracao
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Configurações armazenadas no web.config
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.EncryptRSA(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Encrypt RSA
+ </summary>
+	<param name="pstrInput">String Descriptografada</param>
+	<returns>String Encriptografada</returns>
+	<history>
+ 	[eneves]	26/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.DecryptRSA(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Decrypt RSA
+ </summary>
+	<param name="pstrInput">String Encriptografada</param>
+	<returns>String Descriptografada</returns>
+	<history>
+ 	[eneves]	26/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.decryptTable(System.Data.DataTable)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Descriptografada DataTable RSA
+ </summary>
+	<param name="pdtbTable">DataTable</param>
+	<returns>Retorna DataTable Descriptografada</returns>
+	<history>
+ 	[eneves]	25/7/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.EncriptarMD5(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Criptografa um texto no padrão MD5
+ </summary>
+	<param name="pstrData">String</param>
+	<returns>String Encriptada</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.EncNumero(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para encriptacao basica de numeros
+ </summary>
+	<param name="pintNumero">Numero Inteiro</param>
+	<returns>String Criptografada</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.DecNumero(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para decriptacao basica de numeros
+ </summary>
+	<param name="pstrNumero">String Criptografada</param>
+	<returns>Numero Inteiro</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.EncString(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para encriptacao basica de String
+ </summary>
+	<param name="pstrString">String</param>
+	<returns>String Criptografada</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.DecString(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para decriptacao basica de String
+ </summary>
+	<param name="pstrTexto">String Criptografada</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.EncQueryStr(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para encriptacao basica de String para QueryString
+ </summary>
+	<param name="pstrString">String Criptografada</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+     ''' -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao.DecQueryStr(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Usado para decriptacao basica de String para QueryString
+ </summary>
+	<param name="pstrString">String Criptografada</param>
+	<returns>String</returns>
+	<history>
+ 	[eneves]	5/6/2005	Created
+ </history>
+     ''' -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLEncriptacao">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLEncriptacao
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Encriptacao de Dados
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.MensagemErro(FrameWork.Model.Utilitarios.ErroDescricao@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna Mensagem de erro tratado nas Exception
+ </summary>
+	<param name="pobjErroDescricao">Model do Erro</param>
+	<history>
+ 	[eneves]	11/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.GravaLogXml(System.String,System.String,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Grava Log em XML
+ </summary>
+	<param name="pstrAcao">Nome da Classe/Metodo/Ação</param>
+	<param name="pstrMensagem">Mensagem de Erro</param>
+	<param name="pdecUsuarioLogado">Usuario Logado</param>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.GravaLog(System.String,System.String,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Grava Log 
+ </summary>
+	<param name="pstrAcao">Nome da Classe/Metodo/Ação</param>
+	<param name="pstrMensagem">Mensagem de Erro</param>
+	<param name="pdecUsuarioLogado">Usuario Logado</param>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.GravaLog(System.String,System.Exception@,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Grava Log de Exception
+ </summary>
+	<param name="pstrAcao">Nome da Classe/Metodo/Ação</param>
+	<param name="pobjErro">Exception</param>
+	<param name="pdecUsuarioLogado">Usuario Logado</param>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.VerificaDB">
+ -----------------------------------------------------------------------------
+ <summary>
+ Verifica Banco de Dados
+ </summary>
+	<returns>True/False - Banco ativo</returns>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLFuncoes.CreateObjectWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ CreateObjectWebService
+ </summary>
+	<returns>WSUtilitarios</returns>
+	<history>
+ 	[eneves]	4/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLFuncoes">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLFuncoes
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Grava Log e Trace e Idiomas
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLZip.ZipArquivo(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Compacta Arquivos no disco, no formato ZIP
+ </summary>
+	<param name="pstrNomeArquivoZip">Nome do Arquvo Zip</param>
+	<param name="pstrDiretorioArquivo">Nome do Arquivo/Diretorio para Zipar</param>
+	<returns>Boolean</returns>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLZip.UnzipArquivo(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Descompacta Arquivos no disco, no formato ZIP
+ </summary>
+	<param name="pstrNomeArquivoZip">Nome do Arquvo Zip</param>
+	<param name="pstrDiretorioArquivo">Nome do Diretorio para UnZipar</param>
+	<returns>boolean</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLZip">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLZip
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Zip e Unzip Arquivo e Viewstate
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLRenderizacaoSite.AcertaData(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Renderiza Datas
+ </summary>
+	<param name="pstrHTML">Conteudo da Página Renderizada</param>
+	<remarks>Renderiza datas: %%DATA%% - dd/MM/yyyy
+                           %%DATAEXTENSO%% - semana, dd de mes de yyyy
+ </remarks>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLRenderizacaoSite.AcertaPath(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Renderiza Path
+ </summary>
+	<param name="pstrHTML">Conteudo da Página Renderizada</param>
+	<remarks>Renderiza caminhos relativo
+ </remarks>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLRenderizacaoSite.AcertaTituloSite(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Renderiza Site
+ </summary>
+	<param name="pstrHTML">Conteudo da Página Renderizada</param>
+	<remarks>Renderiza nome do Site, configurado no web.config
+ </remarks>
+	<history>
+ 	[eneves]	31/10/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLRenderizacaoSite">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLRenderizacao
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Renderização de Páginas
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLImpersonate.UserImpersonate">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função de Segurança do Impersonate
+ </summary>
+	<returns>WindowsImpersonationContext</returns>
+	<history>
+ 	[eneves]	24/5/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLImpersonate.ImpersonateUser(System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função de Segurança do AD
+ </summary>
+	<param name="pstrUsername">Login do Usuário</param>
+	<param name="pstrDomain">Domínio do Usuário</param>
+	<param name="pstrPassword">Password do Usuário</param>
+	<returns>WindowsImpersonationContext</returns>
+	<history>
+ 	[eneves]	24/5/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLImpersonate.UserImpersonateUndo">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função de Segurança do AD
+ </summary>
+	<history>
+ 	[eneves]	24/5/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.BusinessLayer.Utilitarios.BLImpersonate.WindowsImpersonationContext">
+ -----------------------------------------------------------------------------
+ <summary>
+ Windows Impersonation Context
+ </summary>
+	<value>WindowsImpersonationContext</value>
+	<history>
+ 	[eneves]	22/6/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLImpersonate">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLImpersonate
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Impersonate de Usuário
+ </summary>
+	<history>
+ 	[eneves]	22/6/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.GravaAcessoTrace(FrameWork.Model.Utilitarios.Acessos,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjAcessos">Objeto com dados para inserir</param>
+	<param name="pdecCodigoUsuario">Código do Usuário</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.Inserir(FrameWork.Model.Utilitarios.Acessos)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjAcessos">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	13/09/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.Listar(System.Decimal,System.DateTime,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecMenuItem">Codigo Menu Item</param>
+	<param name="pdatDataInicial">Data Final</param>
+	<param name="pdatDataFinal">Data Inicial</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.ExcluirTrace(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigoUsuario">Codigo do Usuário</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.ListarTrace(System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="decCodigoUsuario">Codigo Usuário</param>
+	<param name="pdatData">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.GerarRelatorioPaginas(System.Decimal,System.Decimal,System.DateTime,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gera a tabela com os dados para relatório
+ </summary>
+	<param name="pdecIdUsuario">Código Usuário</param>
+	<param name="pdecIdGrupo">Código Grupo</param>
+	<param name="pdatDataInicial">Data Inicial</param>
+	<param name="pdatDataFinal">Data Final</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.GerarRelatorioHorarios(System.Decimal,System.Decimal,System.DateTime)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gera a tabela com os dados para relatório
+ </summary>
+	<param name="pdecIdUsuario">Código Usuário</param>
+	<param name="pdecIdGrupo">Código Grupo</param>
+	<param name="pdatData">Data</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLAcessos.CreateObjectWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ CreateObjectWebService
+ </summary>
+	<returns>WSUtilitarios</returns>
+	<history>
+ 	[eneves]	4/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLAcessos">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLAcessos
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Log de Acessos
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.InicializaRequest">
+ -----------------------------------------------------------------------------
+ <summary>
+ Inicializa Request
+ </summary>
+	<history>
+ 	[eneves]	15/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.MontaConfiguracao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Configuração Sistema
+ </summary>
+	<history>
+ 	[eneves]	8/4/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.MontaParametroSistema">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Parametro Sistema
+ </summary>
+	<history>
+ 	[eneves]	8/4/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.MontaAcessos">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Acessos de Banco de Dados
+ </summary>
+	<history>
+ 	[eneves]	8/4/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.MontaAcesso(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Acesso
+ </summary>
+	<param name="pstrStringAcesso">Nome da String de Acesso</param>
+	<history>
+ 	[eneves]	8/4/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.GravaTraceAcesso(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Grava Trace de Acesso
+ </summary>
+	<param name="pdecCodigoUsuario">Código do Usuário</param>
+	<history>
+ 	[eneves]	11/9/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLConfig.MontaParametrosAdicionais(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Parâmetros adicionais baseado no nome de tabela definido no web.config
+ para uma connection string
+ </summary>
+	<param name="pstrChaveConnectionString">Nome da chave de connection string</param>
+	<history>
+ 	[cveber]	4/7/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLConfig">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLConfig
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Configurações
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLProxyAuthentication.WebProxy">
+ -----------------------------------------------------------------------------
+ <summary>
+ Autenticação via Proxy
+ </summary>
+	<returns>Retorna Web Proxy Autenticado</returns>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLProxyAuthentication">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLProxyAuthentication
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Autenticação via Proxy
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLSequencia.Obter(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Obter proximo registro
+ </summary>
+	<param name="pstrTabela">Nome Tabela</param>
+	<returns>Retorna um inteiro com o proximo registro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Utilitarios.BLSequencia.CreateObjectWebService">
+ -----------------------------------------------------------------------------
+ <summary>
+ CreateObjectWebService
+ </summary>
+	<returns>WSUtilitarios</returns>
+	<history>
+ 	[eneves]	4/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Utilitarios.BLSequencia">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Utilitarios
+ Class	 : BusinessLayer.Utilitarios.BLSequencia
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio para o Modulo de Sequencia
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

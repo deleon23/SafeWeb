@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="HTMLAttributes">Atributos da Pagina</string>
+	<string id="PageTitle">Titulo da Página</string>
+	<string id="Description">Descrição</string>
+	<string id="Keywords">Palavras-Chave</string>
+	<string id="Width">Largura</string>
+	<string id="BaseLocation">Posicionamento da Base</string>
+	<string id="OK">OK</string>
+	<string id="Cancel">Cancelar</string>
+	<string id="BodyAttributes">Atributos com cópia.</string>
+	<string id="BackColor">Cor de Fundo</string>
+	<string id="TopMargin">Margem de Topo</string>
+	<string id="BottomMargin">Margem Inferior</string>
+	<string id="LeftMargin">Margem da Esquerda</string>
+	<string id="RightMargin">Margem da Direita</string>
+	<string id="BGImage">Imagem de Fundo</string>
+	<string id="ClassName">Nome da Classe</string>
+</localization>

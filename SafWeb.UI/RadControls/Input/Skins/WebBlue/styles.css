@@ -1,0 +1,176 @@
+﻿/* Telerik RadInput WebBlue Skin */
+
+.radInput_WebBlue
+{
+	font:12px arial,verdana,sans-serif;
+	vertical-align:middle;
+}
+
+.radInput_WebBlue table
+{
+	vertical-align:bottom;
+}
+
+.radInput_WebBlue table,
+.radInput_WebBlue table td
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow:visible;
+}
+
+.radInput_WebBlue td.inputCell 
+{
+	padding: 0 4px 0 0;	
+}
+
+.radInput_WebBlue textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+/* SPIN BUTTONS */
+
+.radInput_WebBlue .spinImgCell
+{	
+	vertical-align:middle;
+}
+
+.radInput_WebBlue a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 8px; 
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+	z-index:2;
+}
+*+html .radInput_WebBlue a.spinbutton
+{
+	position: static;
+}
+
+.radInput_WebBlue a.up
+{
+	background-position: center 2px;
+}
+
+.radInput_WebBlue a.down
+{
+	background-position: center -6px;
+}
+
+.radInput_WebBlue a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_WebBlue a.gobutton
+{
+	position:static;
+}
+
+/* INPUT STYLES SETTINGS */
+
+.radEnabledCss_WebBlue,
+.radHoverCss_WebBlue,
+.radDisabledCss_WebBlue,
+.radEmptyMessageCss_WebBlue,
+.radFocusedCss_WebBlue,
+.radNegativeCss_WebBlue,
+.radInvalidCss_WebBlue
+{
+	font:12px arial,verdana,sans-serif;
+	padding:1px 0 1px 1px;
+}
+
+.radEnabledCss_WebBlue 
+{
+	color: #afbec5;
+	border: solid 1px #afbec5;
+	background: #f7f8f9;
+	background-color: #fff;
+}
+
+.radHoverCss_WebBlue 
+{
+	color: #899aa2;
+	border: solid 1px #899aa2;
+	background-color: #fff;
+}
+
+.radDisabledCss_WebBlue
+{
+	color: #d7d9db;
+	border: solid 1px #afbec5;
+	background: #f7f8f9;
+}
+
+.radEmptyMessageCss_WebBlue
+{
+	color: #99ccff;
+	border: solid 1px #899aa2;
+	background: #fff;
+}
+
+.radFocusedCss_WebBlue
+{
+	background-color: #f7f8f9;
+	color: #899aa2;
+	border: solid 1px #899aa2;
+}
+
+.radNegativeCss_WebBlue
+{
+	color: #003399;
+	border: solid 1px #afbec5;
+	background: #f7f8f9;
+}
+
+.radInvalidCss_WebBlue
+{
+	color: #003399;
+	border: solid 1px #afbec5;
+	background: #eaf0f1;
+}
+
+.radLabelCss_WebBlue
+{
+	color: #afbec5; 
+	padding-right: 5px;
+	white-space:nowrap;
+}
+
+.radHint_WebBlue 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_WebBlue a,
+.radHint_WebBlue a:visited,
+.radHint_WebBlue a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}

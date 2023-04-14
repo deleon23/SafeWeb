@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4E3E0B65-06E0-422D-8CC2-DB3DF42F9179}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SafWeb.BusinessLayer.Escala</RootNamespace>
+    <AssemblyName>SafWeb.BusinessLayer.Escala</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FrameWork.BusinessLayer.Usuarios">
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Usuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Utilitarios, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Utilitarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Usuarios">
+      <HintPath>..\Framework.DLL\FrameWork.Model.Usuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.ProviderBase, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.ProviderBase.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Web.UI">
+      <HintPath>..\Framework.DLL\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLEscala.cs" />
+    <Compile Include="BLEscalaDepartamental.cs" />
+    <Compile Include="BLJornada.cs" />
+    <Compile Include="BLPeriodicidade.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Filial\SafWeb.BusinessLayer.Filial.csproj">
+      <Project>{FF07E420-EF02-4C6E-B527-7DD79B4BDC17}</Project>
+      <Name>SafWeb.BusinessLayer.Filial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Regional\SafWeb.BusinessLayer.Regional.csproj">
+      <Project>{4B2648C6-D1B3-47F7-8DB1-5751F75DE9B3}</Project>
+      <Name>SafWeb.BusinessLayer.Regional</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.DataLayer.Escala\SafWeb.DataLayer.Escala.csproj">
+      <Project>{0974F196-7DE4-4986-A762-4715374E5D38}</Project>
+      <Name>SafWeb.DataLayer.Escala</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Colaborador\SafWeb.Model.Colaborador.csproj">
+      <Project>{07979E71-83D9-4503-905F-3EE8A98B2B44}</Project>
+      <Name>SafWeb.Model.Colaborador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Escala\SafWeb.Model.Escala.csproj">
+      <Project>{C8E4D077-8B5B-4604-9F4B-996B1EE0030A}</Project>
+      <Name>SafWeb.Model.Escala</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Filial\SafWeb.Model.Filial.csproj">
+      <Project>{1A233E91-37F5-4883-BD36-1DB1661E4FCF}</Project>
+      <Name>SafWeb.Model.Filial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Regional\SafWeb.Model.Regional.csproj">
+      <Project>{C6FD3F20-9DAC-4744-BF14-152F611E51D7}</Project>
+      <Name>SafWeb.Model.Regional</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Solicitacao\SafWeb.Model.Solicitacao.csproj">
+      <Project>{0B1ACD59-E458-473D-A5E5-CA9D2CF94025}</Project>
+      <Name>SafWeb.Model.Solicitacao</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

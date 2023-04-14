@@ -1,0 +1,85 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.BusinessLayer.Email
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.BusinessLayer.Email.BLCorpoEmail.Inserir(FrameWork.Model.Email.CorpoEmail)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjCorpoEmail">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Email.BLCorpoEmail.Excluir(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pintCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Email.BLCorpoEmail.Listar(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pintCodigo">Codigo</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Email.BLCorpoEmail.Alterar(FrameWork.Model.Email.CorpoEmail)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjCorpoEmail">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Email.BLCorpoEmail.Obter(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pintCodigo">Codigo</param>
+	<returns>Model Corpo Email</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Email.BLCorpoEmail">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Email
+ Class	 : BusinessLayer.Email.BLCorpoEmail
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Corpo de Email
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

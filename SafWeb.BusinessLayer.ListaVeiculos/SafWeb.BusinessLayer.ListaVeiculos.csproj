@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D37E81E2-3B97-40AE-AD88-1DE641D042ED}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SafWeb.BusinessLayer.ListaVeiculos</RootNamespace>
+    <AssemblyName>SafWeb.BusinessLayer.ListaVeiculos</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FrameWork.BusinessLayer.Utilitarios">
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Utilitarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.ProviderBase">
+      <HintPath>..\Framework.DLL\FrameWork.ProviderBase.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLListaVeiculos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SafWeb.DataLayer.ListaVeiculos\SafWeb.DataLayer.ListaVeiculos.csproj">
+      <Project>{30B9ECC0-749D-496F-9104-6200169F1495}</Project>
+      <Name>SafWeb.DataLayer.ListaVeiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.ListaVeiculos\SafWeb.Model.ListaVeiculos.csproj">
+      <Project>{728057C5-A307-4BBA-8206-6DF5E6B6B7C5}</Project>
+      <Name>SafWeb.Model.ListaVeiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Veiculo\SafWeb.Model.Veiculo.csproj">
+      <Project>{A241D411-074F-4252-8527-ABC6E0467300}</Project>
+      <Name>SafWeb.Model.Veiculo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

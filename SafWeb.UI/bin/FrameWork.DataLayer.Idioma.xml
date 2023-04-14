@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.DataLayer.Idioma
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+     Constructor
+ </summary>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.Inserir(FrameWork.Model.Idioma.Idiomas)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjIdioma">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.Obter(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.Listar(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.DataLayer.Idioma.DALIdiomas.Alterar(FrameWork.Model.Idioma.Idiomas)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjIdioma">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.DataLayer.Idioma.DALIdiomas">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.DataLayer.Idioma
+ Class	 : DataLayer.Idioma.DALIdiomas
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Acesso a Dados do Modulo de Idiomas
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

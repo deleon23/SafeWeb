@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Tab1HeaderText">Escolher Modelo</string>
+	<string id="Tab2HeaderText">Atualizar Modelo</string>
+	<string id="TemplateURL">Caminho:</string>
+	<string id="AlertFile">Por Favor , forneça o modelo para ser carregado!</string>
+	<string id="AlertExists">Este modelo ja existe no diretorio!</string>
+	<string id="MessageValid">Por Favor, forneça um modelo!</string>
+	<string id="MessageSize">O Modelo fornecido excede o tamanho máximo permitido.</string>
+	<string id="MessageNothingPost">Por Favor , forneça um modelo!</string>
+	<string id="NoTemplateSelectedToInsert">Por Favor ,escolha o modelo para ser inserido!</string>
+</localization>

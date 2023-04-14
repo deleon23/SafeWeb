@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<Cadastro>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Usuários]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome:]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail:]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto.]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin:]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto.]]></revLogin>
+		<lblIdioma><![CDATA[<u>I</u>dioma:]]></lblIdioma>
+		<rfvStatus><![CDATA[- Seleção Obrigatório: Status]]></rfvStatus>
+		<lblGruposSelecionados><![CDATA[Grupos Selecionados:]]></lblGruposSelecionados>
+		<lblSenha><![CDATA[<u>S</u>enha:]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação:]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[A senha não confere!!!]]></cpvSenha>
+		<btnSalvar><![CDATA[Salvar]]></btnSalvar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+	</Cadastro>
+	<Cadastro>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Usuários]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome:]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail:]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto.]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin:]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto.]]></revLogin>
+		<lblIdioma><![CDATA[<u>I</u>dioma:]]></lblIdioma>
+		<rfvStatus><![CDATA[- Seleção Obrigatório: Status]]></rfvStatus>
+		<lblGruposSelecionados><![CDATA[Grupos Selecionados:]]></lblGruposSelecionados>
+		<lblSenha><![CDATA[<u>S</u>enha:]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação:]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[A senha não confere!!!]]></cpvSenha>
+		<btnSalvar><![CDATA[Salvar]]></btnSalvar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+	</Cadastro>
+	<Cadastro>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Usuários - en-US]]></lblTitulo>
+		<lblNome><![CDATA[<u>N</u>ome: - en-US]]></lblNome>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome - en-US]]></rfvNome>
+		<lblEmail><![CDATA[<u>E</u>mail: - en-US]]></lblEmail>
+		<rfvEmail><![CDATA[- Campo Obrigatório: Email - en-US]]></rfvEmail>
+		<revEmail><![CDATA[- O formato do e-mail está incorreto. - en-US]]></revEmail>
+		<lblLogin><![CDATA[<u>L</u>ogin: - en-US]]></lblLogin>
+		<rfvLogin><![CDATA[- Campo Obrigatório: Login - en-US]]></rfvLogin>
+		<revLogin><![CDATA[- O formato do e-mail do Login está incorreto. - en-US]]></revLogin>
+		<lblIdioma><![CDATA[<u>I</u>dioma: - en-US]]></lblIdioma>
+		<rfvStatus><![CDATA[- Seleção Obrigatório: Status - en-US]]></rfvStatus>
+		<lblGruposSelecionados><![CDATA[Grupos Selecionados: - en-US]]></lblGruposSelecionados>
+		<lblSenha><![CDATA[<u>S</u>enha: - en-US]]></lblSenha>
+		<rfvSenha><![CDATA[- Campo Obrigatório: Senha - en-US]]></rfvSenha>
+		<lblSenhaConfirmacao><![CDATA[Senha <u>C</u>onfirmação: - en-US]]></lblSenhaConfirmacao>
+		<rfvConfirmacaoSenha><![CDATA[- Campo Obrigatório: Senha Confirmação - en-US]]></rfvConfirmacaoSenha>
+		<cpvSenha><![CDATA[A senha não confere!!! - en-US]]></cpvSenha>
+		<btnSalvar><![CDATA[Salvar - en-US]]></btnSalvar>
+		<btnVoltar><![CDATA[Voltar - en-US]]></btnVoltar>
+	</Cadastro>
+</Pages>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Title">Document Manager</string>
+	<string id="ConfirmDelete">Confirma exclusão do arquivo?\nO arquivo selecionado pode estar em uso. Se apagado, algumas paginas não serão exibidas corretamente.\nPressione \"OK\" para confirmar a exclusão.</string>
+	<string id="Alertfile">Por Favor, forneça um arquivo de documento para ser carregado!</string>
+	<string id="Alertvalid">Por Favor, forneça um documento válido para ser carregado!</string>
+	<string id="Alertexists">Este arquivo já existe neste diretório!</string>
+	<string id="MessageNothingPost">Por Favor, forneça um arquivo de documento!</string>
+	<string id="MessageValid">Por Favor, forneça um documento válido!</string>
+	<string id="MessageSize">O arquivo selecionado excede o tamanho máximo permitido.</string>
+	<string id="Tab1HeaderText">Procurar Arquivos</string>
+	<string id="Tab2HeaderText">Carregar Documento</string>
+	<string id="DocumentDirectory">Diretório do Documento:</string>
+	<string id="DocumentFile">Arquivo do Documento:</string>
+	<string id="Tooltip">Tooltip:</string>
+	<string id="Target">Destino:</string>
+	<string id="Note">Nota:</string>
+	<string id="SelectDirectory">Diretório selecionado</string>
+	<string id="ShowProperties">Mostrar Propriedades</string>
+	<string id="ChooseFileToInsert">Por Favor, escolha um arquivo para inserir</string>
+	<string id="NoDocumentSelectedToInsert">Por Favor, escolha um documento para ser inserido!</string>
+</localization>

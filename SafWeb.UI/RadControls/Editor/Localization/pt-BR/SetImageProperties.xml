@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Title">Propriedades da Imagem</string>
+	<string id="Bytes">bytes</string>
+	<string id="Customh">Personalizado - </string>
+	<string id="PromptColor">Por favor, forneça o codigo hexadecimal da cor personalizada:</string>
+	<string id="Tab1HeaderText">Propriedades da Imagem</string>
+	<string id="Tab2HeaderText">Informação da Imagem</string>
+	<string id="Tab3HeaderText">Criar Thumbnail</string>
+	<string id="BorderWidth">Largura da Borda:</string>
+	<string id="NoBorder">Sem Borda</string>
+	<string id="BorderColor">Cor da Borda:</string>
+	<string id="NoColor">Sem Cor</string>
+	<string id="Black">Preto</string>
+	<string id="Blue">Azul</string>
+	<string id="Green">Verde</string>
+	<string id="Orange">Laranja</string>
+	<string id="Red">Vermelho</string>
+	<string id="White">Branco</string>
+	<string id="Yellow">Amarelo</string>
+	<string id="Custom">Personalizado</string>
+	<string id="ImageAlign">Alinhamento da Imagem</string>
+	<string id="AbsoluteBottom">Inferior Absoluto</string>
+	<string id="AbsoluteMiddle">Meio Absoluto</string>
+	<string id="Baseline">Linha Base</string>
+	<string id="Bottom">Inferior</string>
+	<string id="Left">Esquerda</string>
+	<string id="Middle">Meio</string>
+	<string id="Right">Direita</string>
+	<string id="TextTop">Topo do Texto</string>
+	<string id="Top">Superior</string>
+	<string id="ImageWidth">Largura da Imagem:</string>
+	<string id="ImageHeight">Altura da Imagem:</string>
+	<string id="ImageSize">Tamanho da Imagem:</string>
+	<string id="FileName">Nome do Arquivo:</string>
+	<string id="Constrain">Relacionar</string>
+	<string id="Width">Largura:</string>
+	<string id="Height">Altura:</string>
+	<string id="VerticalSpacing">Espacamento vertical:</string>
+	<string id="HorizontalSpacing">Espacamento horizontal:</string>
+	<string id="OK">OK</string>
+	<string id="Cancel">Cancelar</string>
+	<string id="AddCustomColor">Adicionar cor personalizada</string>
+	<string id="ImageLongDesc">Descrição Longa</string>
+	<string id="AddHexColor">Adicionar cor Hexadecimal</string>
+	<string id="ChangeImageSrc">Endereço da Imagem:</string>
+</localization>

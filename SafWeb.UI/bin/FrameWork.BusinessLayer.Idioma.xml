@@ -1,0 +1,610 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.BusinessLayer.Idioma
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.ObterIdioma">
+ -----------------------------------------------------------------------------
+ <summary>
+ Obter Idioma 
+ </summary>
+	<returns>Retorna Idioma</returns>
+	<history>
+ 	[eneves]	15/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Inserir(FrameWork.Model.Idioma.Idiomas)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjIdioma">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Obter(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Listar(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Alterar(FrameWork.Model.Idioma.Idiomas)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjIdioma">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.PopulaComboIdiomas(System.Web.UI.WebControls.DropDownList@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Popula Combo Idiomas Sigla
+ </summary>
+	<param name="pddlIdiomas">DropDownList</param>
+	<history>
+ 	[eneves]	27/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.PopulaComboIdiomasId(System.Web.UI.WebControls.DropDownList@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Popula Combo Idiomas Id 
+ </summary>
+	<param name="pddlIdiomas">DropDownList</param>
+	<history>
+ 	[eneves]	27/8/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.ControlCollection@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.ControlCollection@,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.ControlCollection@,System.String,System.String,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<param name="pstrNomeArquivo">Nome do arquivo XML de Idiomas</param>
+	<param name="pblnVerificaIdioma">Verifica se esta ativo o multi-idiomas</param>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.ControlCollection@,System.String,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<param name="pblnVerificaIdioma">Verifica se esta ativo o multi-idiomas</param>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.Page)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela completa
+ Utilizar com moderação por ser menos performática que função onde passam
+ apenas os controles
+ </summary>
+	<param name="pPage">Coleção de controles da página</param>
+	<history>
+ 	[cveber]	7/8/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Traduzir(System.Web.UI.Page,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução da tela completa
+ Utilizar com moderação por ser menos performática que função onde passam
+ apenas os controles
+ </summary>
+	<param name="pPage">Coleção de controles da página</param>
+	<param name="pLanguage">Língua</param>
+	<history>
+ 	[cveber]	7/8/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.ControlCollection@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.ControlCollection@,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.ControlCollection@,System.String,System.String,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<param name="pstrNomeArquivo">Nome do arquivo XML de Idiomas</param>
+	<param name="pblnVerificaIdioma">Verifica se esta ativo o multi-idiomas</param>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.ControlCollection@,System.String,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<param name="pblnVerificaIdioma">Verifica se esta ativo o multi-idiomas</param>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.UserControl)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControl">Controle</param>
+	<history>
+ 	[cveber]	12/8/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirASCX(System.Web.UI.UserControl,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução dos controles ASCX
+ </summary>
+	<param name="pControl">Controle</param>
+	<history>
+ 	[cveber]	12/8/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirMensagens(System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução das mensagens utilizas na tela
+ </summary>
+	<param name="pintMensagem">Código da Mensagem a traduzir</param>
+	<returns>Mensagem Traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirMensagens(System.String,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução das mensagens utilizas na tela
+ </summary>
+	<param name="pintMensagem">Código da Mensagem a traduzir</param>
+	<returns>Mensagem Traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirMensagens(FrameWork.Model.Idioma.Mensagens)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução das mensagens utilizas na tela
+ </summary>
+	<param name="pobjMensagem">Código da Mensagem a traduzir</param>
+	<returns>Mensagem Traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirMensagens(System.Int32,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução das mensagens utilizas na tela
+ </summary>
+	<param name="pintMensagem">Código da Mensagem a traduzir</param>
+	<param name="pstrArquivoMensagens">Caminho do arquivo XML de Idiomas</param>
+	<returns>Mensagem Traduzida</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirMensagens(System.String,System.Int32,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução das mensagens utilizas na tela
+ </summary>
+	<param name="pintMensagem">Código da Mensagem a traduzir</param>
+	<param name="pstrArquivoMensagens">Caminho do arquivo XML de Idiomas</param>
+	<returns>Mensagem Traduzida</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TraduzirRadGrid(Telerik.WebControls.RadGrid@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função para efetuar a tradução do controle RadGrid
+ </summary>
+	<param name="pControls">Coleção de controles da página</param>
+	<history>
+ 	[eneves]	14/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.#ctor(System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Construtor da Classe
+ </summary>
+	<param name="pstrNomePagina">Nome da página que será traduzida</param>
+	<param name="pstrCaminhoXML">Caminho do arquivo XML de Idiomas</param>
+	<param name="pstrNomeArquivo">Nome do Arquivo XML de tradução</param>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.ReadXML(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função privada que faz a leitura do XML que contém os nomes dos objetos
+ </summary>
+	<param name="pstrControlID">Id do Controle</param>
+	<param name="pLanguage">Idioma para tradução</param>
+	<returns>String Traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.Render(System.Web.UI.Control@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função utilizada para renderizar a página com os nomes dos 
+ objetos traduzidos para o idioma definido no arquivo XML de idiomas 
+ </summary>
+	<param name="pControls">A coleção de controles da página</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.RenderASCX(System.Web.UI.ControlCollection@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função utilizada para renderizar os controle ASCX com os nomes dos 
+ objetos traduzidos para o idioma definido no arquivo XML de idiomas 
+ </summary>
+	<param name="pControls">A coleção de controles da página</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzRecursivo(System.Web.UI.Control@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Recursivo dentro dos controles
+ </summary>
+	<param name="myControl">Controles</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzRecursivoASCX(System.Web.UI.ControlCollection@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Recursivo dentro dos controles ASCX
+ </summary>
+	<param name="myControl">Controles</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzDataGrid(System.Web.UI.WebControls.DataGrid@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Controle Data Grid
+ </summary>
+	<param name="myControl">DataGrid Control</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzRadGridToolTip(Telerik.WebControls.RadGrid@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Controle ToolTip Rad Grid
+ </summary>
+	<param name="myControl">DataGrid Control</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzRadGrid(Telerik.WebControls.RadGrid@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Controle Rad Grid
+ </summary>
+	<param name="myControl">DataGrid Control</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzCheckBoxList(System.Web.UI.WebControls.CheckBoxList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Controle CheckBoxList
+ </summary>
+	<param name="myControl">CheckBoxList Control</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate.TraduzRadioButtonList(System.Web.UI.WebControls.RadioButtonList@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz Controle CheckBoxList
+ </summary>
+	<param name="myControl">CheckBoxList Control</param>
+	<param name="pLanguage">Idioma</param>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Idioma.BLIdiomas.Translate">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Idioma
+ Class	 : BusinessLayer.Idioma.BLIdiomas.Translate
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Tradução de controles
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TranslateMensagens.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+ Construtor da Classe
+ </summary>
+	<remarks>Abre o Arquivo default de Mensagens "Mensagens.XML"
+ </remarks>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TranslateMensagens.#ctor(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Construtor da Classe 
+ </summary>
+	<param name="pstrArquivoMensagem">Arquivo de Mensagens</param>
+	<remarks>Abre o Arquivo de Mensagens específico do Sistema
+ </remarks>
+	<history>
+ 	[eneves]	12/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TranslateMensagens.Traduz(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Traduz a mensagem 
+ </summary>
+	<returns>Mensagem traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLIdiomas.TranslateMensagens.ReadXML(System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Função privada que faz a leitura do XML que contém os nomes dos objetos
+ </summary>
+	<param name="pstrMensagem">Nome do Controle</param>
+	<param name="pLanguage">Idioma</param>
+	<returns>String traduzida</returns>
+	<history>
+ 	[eneves]	7/3/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Idioma.BLIdiomas.TranslateMensagens">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Idioma
+ Class	 : BusinessLayer.Idioma.BLIdiomas.TranslateMensagens
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Tradução de mensagens
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Idioma.BLIdiomas">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Idioma
+ Class	 : BusinessLayer.Idioma.BLIdiomas
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Idiomas
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLTraducoes.Gravar(System.Web.UI.WebControls.DataGrid@,System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para gravar XML de Tradução
+ </summary>
+	<param name="pobjDtg">Datagrid</param>
+	<param name="pstrNomePagina">Nome da Página</param>
+	<param name="pstrIdioma">Idioma</param>
+	<param name="pstrCaminhoXML">Caminho XML de Tradução</param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Idioma.BLTraducoes.Obter(System.String,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para leitura do arquivo XML de Tradução
+ </summary>
+	<param name="pstrNomePagina">Nome da Página</param>
+	<param name="pstrIdioma">Idioma</param>
+	<param name="pstrCaminhoXML">Caminho XML de Tradução</param>
+	<returns>DataTable</returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Idioma.BLTraducoes">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Idioma
+ Class	 : BusinessLayer.Idioma.BLTraducoes
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Tradução de Páginas 
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

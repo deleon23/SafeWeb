@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<RelatorioHorarios>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Relatório de Páginas]]></lblTitulo>
+		<lblGrupos><![CDATA[<u>G</u>rupo:]]></lblGrupos>
+		<lblUsuario><![CDATA[<u>U</u>suário:]]></lblUsuario>
+		<lblDataInicial><![CDATA[Data <u>I</u>nicial:]]></lblDataInicial>
+		<lblDataFinal><![CDATA[Data <u>F</u>inal:]]></lblDataFinal>
+		<lblGrafico><![CDATA[G<u>r</u>áfico:]]></lblGrafico>
+		<btnGerar><![CDATA[Gerar Relatório]]></btnGerar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+    <txtDataInicial><![CDATA[- Campo Obrigatório: Data Inicial]]></txtDataInicial>
+    <rfvDataFinal><![CDATA[- Campo Obrigatório: Data Final]]></rfvDataFinal>
+    <rgvtxtInicioPeriodo><![CDATA[- Data inválida: A data deve estar entre 01/01/1900 e 31/12/2099: Data Inicial]]></rgvtxtInicioPeriodo>
+    <rgvtxtFimPeriodo><![CDATA[- Data inválida: A data deve estar entre 01/01/1900 e 31/12/2099: Data Final]]></rgvtxtFimPeriodo>
+    <cpvtxtInicioPeriodo><![CDATA[- Data Inválida: Data Inicial]]></cpvtxtInicioPeriodo>
+    <cpvtxtInicioXFinal><![CDATA[- A data inicial deve ser menor que a data final.]]></cpvtxtInicioXFinal>
+    <cpvtxtFimPeriodo><![CDATA[- Data Inválida: Data Final]]></cpvtxtFimPeriodo>
+  </RelatorioHorarios>
+</Pages>

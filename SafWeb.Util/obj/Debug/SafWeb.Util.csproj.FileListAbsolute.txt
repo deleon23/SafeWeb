@@ -1,0 +1,44 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Util\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Util\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Util\obj\Debug\SafWeb.Util.pdb

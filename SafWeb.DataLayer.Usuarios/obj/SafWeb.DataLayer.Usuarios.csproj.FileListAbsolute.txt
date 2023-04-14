@@ -1,0 +1,15 @@
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\SafWeb.DataLayer.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\SafWeb.DataLayer.Usuarios.pdb
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.Provider.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.ProviderBase.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.DataAccess.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\Oracle.DataAccess.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.Model.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\obj\Debug\SafWeb.DataLayer.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Usuarios\obj\Debug\SafWeb.DataLayer.Usuarios.pdb

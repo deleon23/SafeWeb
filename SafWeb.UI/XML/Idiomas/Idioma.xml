@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Pages>
+	<Idioma>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblIdioma><![CDATA[Idioma:]]></lblIdioma>
+	</Idioma>
+	<Idioma>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblIdioma><![CDATA[Idioma:]]></lblIdioma>
+	</Idioma>
+	<Idioma>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblIdioma><![CDATA[Language:]]></lblIdioma>
+	</Idioma>
+</Pages>

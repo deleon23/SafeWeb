@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<ListaLog>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Log de Erro]]></lblTituloListagem>
+		<lblUsuario><![CDATA[Usuário:]]></lblUsuario>
+		<lblDataCadastro><![CDATA[<u>D</u>ata Cadastro:]]></lblDataCadastro>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+		<btnLimparLog><![CDATA[Limpar Log]]></btnLimparLog>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Data Cadastro]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Método]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Erro]]></radGridDados_Coluna_2>
+		<radGridDados_Coluna_3><![CDATA[Usuário]]></radGridDados_Coluna_3>
+	</ListaLog>
+	<ListaLog>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Log]]></lblTituloListagem>
+		<lblUsuario><![CDATA[Usuário:]]></lblUsuario>
+		<lblDataCadastro><![CDATA[<u>D</u>ata Cadastro:]]></lblDataCadastro>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+		<btnLimparLog><![CDATA[Limpar Log]]></btnLimparLog>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Data Cadastro]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Método]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Erro]]></radGridDados_Coluna_2>
+		<radGridDados_Coluna_3><![CDATA[Usuário]]></radGridDados_Coluna_3>
+	</ListaLog>
+	<ListaLog>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem Log - en-US]]></lblTituloListagem>
+		<lblUsuario><![CDATA[Usuário: - en-US]]></lblUsuario>
+		<lblDataCadastro><![CDATA[<u>D</u>ata Cadastro: - en-US]]></lblDataCadastro>
+		<btnBuscar><![CDATA[Buscar - en-US]]></btnBuscar>
+		<btnVoltar><![CDATA[Voltar - en-US]]></btnVoltar>
+		<btnLimparLog><![CDATA[Limpar Log - en-US]]></btnLimparLog>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Data Cadastro - en-US]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Método - en-US]]></radGridDados_Coluna_1>
+		<radGridDados_Coluna_2><![CDATA[Erro - en-US]]></radGridDados_Coluna_2>
+		<radGridDados_Coluna_3><![CDATA[Usuário - en-US]]></radGridDados_Coluna_3>
+	</ListaLog>
+</Pages>

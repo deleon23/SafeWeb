@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Pages>
+	<RodapeAdm>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblDireitos><![CDATA[Makesys | 2008 | Todos direitos reservados © ]]></lblDireitos>
+		<lblDescricaoVersao><![CDATA[Versão]]></lblDescricaoVersao>
+	</RodapeAdm>
+	<RodapeAdm>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblDireitos><![CDATA[Makesys | 2008 | Todos direitos reservados © ]]></lblDireitos>
+		<lblDescricaoVersao><![CDATA[Versión]]></lblDescricaoVersao>
+	</RodapeAdm>
+	<RodapeAdm>		
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblDireitos><![CDATA[Makesys | 2008 | All Rights Reserved © ]]></lblDireitos>
+		<lblDescricaoVersao><![CDATA[Version]]></lblDescricaoVersao>
+	</RodapeAdm>
+</Pages>

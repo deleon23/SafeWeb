@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<CadSuperGrupo>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloCadastro><![CDATA[Cadastro de Super Perfis]]></lblTituloCadastro>
+		<lblTituloListagem><![CDATA[Listagem de Super Perfis]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Perfil:]]></lblNomeListagem>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<radGridDados_Coluna_0><![CDATA[Descrição]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Grupo Admin]]></radGridDados_Coluna_1>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblGrupos><![CDATA[Perfis:]]></lblGrupos>
+		<rfvNome><![CDATA[- Campo Obrigatório: Descrição]]></rfvNome>
+		<lblGrupoAdministrador><![CDATA[Grupo Administrador:]]></lblGrupoAdministrador>
+		<rfvGrupo><![CDATA[- Seleção Obrigatório: Perfil Administrador]]></rfvGrupo>
+		<lblGruposSelecionados><![CDATA[Perfis Associados:]]></lblGruposSelecionados>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadSuperGrupo>
+	
+</Pages>

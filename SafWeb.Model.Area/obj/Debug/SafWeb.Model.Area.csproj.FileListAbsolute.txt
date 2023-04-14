@@ -1,0 +1,66 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Title">Gerenciador de Imagem</string>
+	<string id="ConfirmLink">Direcionar thumbnail para a imagem original?</string>
+	<string id="ConfirmDelete">Confirma exclusão do arquivo?\nO arquivo selecionado pode estar em uso. Se apagado, algumas paginas não serão exibidas corretamente.\nPressione \"OK\" para confirmar a exclusão.</string>
+	<string id="AlertImage">Por Favor, forneça uma imagem para ser carregada!</string>
+	<string id="AlertExists">Esta Imagem já existe no diretório!</string>
+	<string id="AlertDimensions">Por favor, forneça a largura ou altura do thumbnail</string>
+	<string id="AlertWidth">Por Favor, forneça uma largura de imagem válida!</string>
+	<string id="AlertHeight">Por Favor, forneça uma altura de imagem válida!</string>
+	<string id="MessageNothingPost">Por Favor, forneça uma imagem !</string>
+	<string id="MessageValid">Por Favor, forneça uma imagem válida !</string>
+	<string id="MessageSize">A imagem fornecida excede o tamanho máximo permitido.</string>
+	<string id="MessagePermission">Você nao tem permissão para acessar esta pagina ou sua sessã expirou!Por favor, atualize a página!</string>
+	<string id="Tab1HeaderText">Procurar Arquivos</string>
+	<string id="Tab2HeaderText">Carregar Imagem</string>
+	<string id="ImageFile">Arquivo de Imagem:</string>
+	<string id="ImageURL">Caminho da Imagem:</string>
+	<string id="Preview">Visualizar</string>
+	<string id="Loading">Carregando...</string>
+	<string id="CreateThumbnail">Criar Thumbnail:</string>
+	<string id="Yes">Sim</string>
+	<string id="No">Não</string>
+	<string id="Width">Largura:</string>
+	<string id="Height">Altura:</string>
+	<string id="Constrain">Relacionar</string>
+	<string id="KeepOriginalImage">Manter Imagem Original:</string>
+	<string id="LoadingImagePrompt">Carregando Imagem. Por Favor aguarde...</string>
+	<string id="BestFit">Best Fit</string>
+	<string id="ActualSize">Tamanho atual</string>
+	<string id="ZoomIn">Zoom +</string>
+	<string id="ZoomOut">Zoom -</string>
+	<string id="ChooseFileToInsert">Por Favor, escolha o arquivo que deseja inserir</string>
+	<string id="CreateThumbnailIconTitle">Criar Thumbnail</string>
+	<string id="LinkToOriginal">Direcionar para o original</string>
+	<string id="OpenOriginalInBlank">Abra a imagem original em uma outra janela</string>
+	<string id="NoImageSelectedToInsert">Por Favor, escolha a imagem que deseja inserir</string>
+</localization>

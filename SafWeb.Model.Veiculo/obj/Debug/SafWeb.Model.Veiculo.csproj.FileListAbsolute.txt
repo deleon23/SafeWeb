@@ -1,0 +1,66 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Veiculo\obj\Debug\SafWeb.Model.Veiculo.pdb

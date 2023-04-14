@@ -1,0 +1,217 @@
+.RadPanelbar_Inox
+{
+	background: #4f4f4f url('PanelBar/background.gif') repeat-x top center;
+	width: 200px;
+}
+
+.RadPanelbar_Inox .rootGroup
+{
+	border: 1px solid #626262;
+	margin-top: 15px;
+	padding-bottom: 6px;
+	background: #4f4f4f url('PanelBar/background.gif') repeat-x bottom center;
+}
+
+.RadPanelbar_Inox_rtl .rootGroup
+{
+	text-align: right;
+}
+
+.RadPanelbar_Inox .item
+{
+	background: transparent url('PanelBar/item-bg.gif') no-repeat bottom left;
+	padding-bottom: 2px;
+}
+
+.RadPanelbar_Inox .link
+{
+	background: transparent url('PanelBar/item-bg.gif') no-repeat top left;
+	overflow-x: hidden;
+}
+
+.RadPanelbar_Inox .selected
+{
+	background: transparent url('PanelBar/selected-bg.gif') no-repeat top left;
+}
+
+.RadPanelbar_Inox_rtl .item
+{
+	background-position: bottom right;
+}
+
+.RadPanelbar_Inox_rtl .item .link
+{
+	background-position: top right;
+}
+
+.RadPanelbar_Inox .text
+{
+	margin-right: 7px;
+	overflow-x: hidden;
+	
+	font: normal 12px Arial, Verdana, Sans-serif;
+	line-height: 22px;
+	color: #5b5959;
+	padding: 7px 7px 3px 22px;
+}
+
+.RadPanelbar_Inox_rtl .text
+{
+	margin-left: 7px;
+	margin-right: 22px;
+}
+
+.RadPanelbar_Inox .expandable .text
+{
+	background: transparent url('PanelBar/arrow-right.gif')no-repeat right 15px;
+}
+
+.RadPanelbar_Inox .expanded .text
+{
+	background: transparent url('PanelBar/arrow-down.gif')no-repeat right 15px;
+}
+
+.RadPanelbar_Inox .group .expanded .text,
+.RadPanelbar_Inox .group .expandable .text
+{
+	background-position: right 10px;
+}
+
+.RadPanelbar_Inox_rtl .expandable .text
+{
+	background: transparent url('PanelBar/arrow-right.gif') no-repeat left 15px;
+}
+
+.RadPanelbar_Inox_rtl .expanded .text
+{
+	background: transparent url('PanelBar/arrow-down.gif') no-repeat left 15px;
+}
+
+.RadPanelbar_Inox_rtl .group .expanded .text,
+.RadPanelbar_Inox_rtl .group .expandable .text
+{
+	background-position: left 10px;
+}
+
+.RadPanelbar_Inox .group /* should be moved to common skin*/
+{
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.RadPanelbar_Inox .slide
+{
+	background: transparent url('PanelBar/submenu-bg-repeat.gif') repeat top left;
+}
+
+.RadPanelbar_Inox .slide .slide
+{
+	background: transparent;
+}
+
+.RadPanelbar_Inox .level1
+{
+	background: transparent url('PanelBar/submenu-bg.gif') repeat-x top left;
+}
+
+.RadPanelbar_Inox .group .item,
+.RadPanelbar_Inox .group .link
+{
+	background: transparent;
+}
+
+.RadPanelbar_Inox .group .text
+{
+	color: #224152;
+	font-weight: bold;
+	padding: 2px 7px 2px 3px;
+	line-height: 20px;
+}
+
+.RadPanelbar_Inox .group .first .text
+{
+	padding-top: 4px;
+}
+
+.RadPanelbar_Inox .group .last .text
+{
+	padding-bottom: 4px;
+}
+
+.RadPanelbar_Inox_rtl .text
+{
+	padding: 5px 3px 5px 7px;
+}
+
+.RadPanelbar_Inox .group .text
+{
+	font-size: 11px;
+}
+
+.RadPanelbar_Inox .level1 .text
+{
+	padding-left: 10px;
+}
+
+.RadPanelbar_Inox .level2 .text
+{
+	padding-left: 20px;
+}
+
+.RadPanelbar_Inox .level3 .text
+{
+	padding-left: 30px;
+}
+
+.RadPanelbar_Inox_rtl .level1 .text
+{
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+.RadPanelbar_Inox_rtl .level2 .text
+{
+	padding-right: 20px;
+	padding-left: 0;
+}
+
+.RadPanelbar_Inox_rtl .level3 .text
+{
+	padding-right: 30px;
+	padding-left: 0;
+}
+
+/* these should be checked */
+
+.RadPanelbar_Inox .selected .text
+{
+	font-weight: bold;
+}
+
+.RadPanelbar_Inox .group .selected .text
+{
+	text-decoration: underline;
+}
+
+.RadPanelbar_Inox .disabled .text
+{
+	cursor: default;
+	color: #888;
+}
+
+.RadPanelbar_Inox .group .disabled .text
+{
+	color: #bbb;
+}
+
+.RadPanelbar_Inox .rootGroup .disabled:hover
+{
+	cursor: default;
+	text-decoration: none;
+}
+
+.RadPanelbar_Inox .group .disabled:hover
+{
+	cursor: default;
+	text-decoration: none;
+}

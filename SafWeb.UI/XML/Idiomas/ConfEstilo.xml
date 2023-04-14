@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<ConfEstilo>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Listagem de Estilos]]></lblTitulo>
+		<btnVoltar><![CDATA[Buscar]]></btnVoltar>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Código]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Estilo]]></radGridDados_Coluna_1>
+		<lblDescricao><![CDATA[<u>T</u>ítulo:]]></lblDescricao>
+		<lblpadraoraiz><![CDATA[Padrão de ítens <u>r</u>aiz:]]></lblpadraoraiz>
+		<lblpadraosub><![CDATA[Padrão de <u>s</u>ubmenus:]]></lblpadraosub>
+		<lblpadraosel><![CDATA[Padrão do ítem s<u>e</u>lecionado:]]></lblpadraosel>
+		<lblmodosub><![CDATA[Modo de <u>a</u>bertura do submenu:]]></lblmodosub>
+		<chkClick_Item_0><![CDATA[MouseOver]]></chkClick_Item_0>
+		<chkClick_Item_1><![CDATA[Click]]></chkClick_Item_1>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título]]></rfvTitulo>
+		<rfvPadraoRaiz><![CDATA[- Seleção Obrigatória: Padrão de ítens raiz]]></rfvPadraoRaiz>
+		<rfvPadraoSub><![CDATA[- Seleção Obrigatória: Padrão de submenus]]></rfvPadraoSub>
+		<rfvPadraoSel><![CDATA[- Seleção Obrigatória: Padrão do ítem selecionado]]></rfvPadraoSel>
+	</ConfEstilo>
+	<ConfEstilo>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Estilos]]></lblTitulo>
+		<btnVoltar><![CDATA[Buscar]]></btnVoltar>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Código]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Estilo]]></radGridDados_Coluna_1>
+		<lblDescricao><![CDATA[<u>T</u>ítulo:]]></lblDescricao>
+		<lblpadraoraiz><![CDATA[Padrão de ítens <u>r</u>aiz:]]></lblpadraoraiz>
+		<lblpadraosub><![CDATA[Padrão de <u>s</u>ubmenus:]]></lblpadraosub>
+		<lblpadraosel><![CDATA[Padrão do ítem s<u>e</u>lecionado:]]></lblpadraosel>
+		<lblmodosub><![CDATA[Modo de <u>a</u>bertura do submenu:]]></lblmodosub>
+		<chkClick_Item_0><![CDATA[MouseOver]]></chkClick_Item_0>
+		<chkClick_Item_1><![CDATA[Click]]></chkClick_Item_1>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título]]></rfvTitulo>
+		<rfvPadraoRaiz><![CDATA[- Seleção Obrigatória: Padrão de ítens raiz]]></rfvPadraoRaiz>
+		<rfvPadraoSub><![CDATA[- Seleção Obrigatória: Padrão de submenus]]></rfvPadraoSub>
+		<rfvPadraoSel><![CDATA[- Seleção Obrigatória: Padrão do ítem selecionado]]></rfvPadraoSel>
+	</ConfEstilo>
+	<ConfEstilo>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[Cadastro de Estilos - en-US]]></lblTitulo>
+		<btnVoltar><![CDATA[Buscar - en-US]]></btnVoltar>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<radGridDados_Coluna_0><![CDATA[Código - en-US]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Estilo - en-US]]></radGridDados_Coluna_1>
+		<lblDescricao><![CDATA[<u>T</u>ítulo: - en-US]]></lblDescricao>
+		<lblpadraoraiz><![CDATA[Padrão de ítens <u>r</u>aiz: - en-US]]></lblpadraoraiz>
+		<lblpadraosub><![CDATA[Padrão de <u>s</u>ubmenus: - en-US]]></lblpadraosub>
+		<lblpadraosel><![CDATA[Padrão do ítem s<u>e</u>lecionado: - en-US]]></lblpadraosel>
+		<lblmodosub><![CDATA[Modo de <u>a</u>bertura do submenu: - en-US]]></lblmodosub>
+		<chkClick_Item_0><![CDATA[MouseOver - en-US]]></chkClick_Item_0>
+		<chkClick_Item_1><![CDATA[Click - en-US]]></chkClick_Item_1>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título]]></rfvTitulo>
+		<rfvPadraoRaiz><![CDATA[- Seleção Obrigatória: Padrão de ítens raiz]]></rfvPadraoRaiz>
+		<rfvPadraoSub><![CDATA[- Seleção Obrigatória: Padrão de submenus]]></rfvPadraoSub>
+		<rfvPadraoSel><![CDATA[- Seleção Obrigatória: Padrão do ítem selecionado]]></rfvPadraoSel>
+	</ConfEstilo>
+</Pages>

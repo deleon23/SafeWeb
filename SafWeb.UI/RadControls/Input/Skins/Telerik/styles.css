@@ -1,0 +1,170 @@
+/* Telerik RadInput Telerik skin */
+
+.radInput_Telerik
+{
+	font:12px arial,verdana,sans-serif;
+	vertical-align:middle;
+}
+
+.radInput_Telerik table,
+.radInput_Telerik table td
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow:visible;
+}
+
+.radInput_Telerik table
+{
+	vertical-align:bottom;
+}
+
+.radInput_Telerik td.inputCell 
+{
+	padding: 0 5px 0 0;
+}
+
+.radInput_Telerik input.inputCell,
+.radInput_Telerik td.inputCell input,
+.radInput_Telerik textarea
+{
+	padding:1px 0 1px 1px;
+}
+
+.radInput_Telerik textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+.radInput_Telerik .spinImgCell
+{
+	vertical-align:middle;
+}
+
+/* SPIN BUTTONS */
+
+.radInput_Telerik a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 8px; 
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+	z-index:2;
+}
+*+html .radInput_Telerik a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Telerik a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Telerik a.down
+{
+	background-position: center -8px;
+}
+
+.radInput_Telerik a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_Telerik a.gobutton
+{
+	position: static;
+}
+
+/* INPUT STYLES SETTINGS */
+
+.radEnabledCss_Telerik 
+{
+	border: solid 1px #e7e7e7; 
+	background-color: #fff;
+	color:#000;
+}
+
+.radHoverCss_Telerik 
+{
+	color: #000;
+	border: solid 1px #d6d6d6;
+	background-color: #fff;	
+}
+
+.radDisabledCss_Telerik
+{
+	color: #ccc;
+	border: solid 1px #e4e4e4; 
+	background-color: #e3e3e3;
+}
+
+.radEmptyMessageCss_Telerik
+{
+	color: #000;
+	border: solid 1px #d6d6d6;
+	background-color: #fff;	
+}
+
+.radFocusedCss_Telerik
+{
+	color: #000;
+	border: solid 1px #d6d6d6;
+	background-color: #fff;	
+}
+
+.radNegativeCss_Telerik
+{
+	color:  #ff9900;
+	border: solid 1px #e7e7e7; 
+	background-color: #fff;	
+}
+
+.radInvalidCss_Telerik
+{
+	color: #f00;
+	border: solid 1px #e7e7e7; 
+	background: #f4f3e7 url('Img/error-sign.gif') no-repeat center right;
+}
+
+.radLabelCss_Telerik
+{
+	color: #000000; 
+	padding-right: 5px; 	
+	white-space:nowrap;
+}
+
+.radHint_Telerik 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_Telerik a,
+.radHint_Telerik a:visited,
+.radHint_Telerik a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+  <ParametroSistema>
+    <idioma><![CDATA[pt-BR]]></idioma>
+    <lblTitulo><![CDATA[Configuração Sistema]]></lblTitulo>
+    <lblSite><![CDATA[Titulo <u>S</u>ite:]]></lblSite>
+    <lblLogErro><![CDATA[Grava Log <u>E</u>rro:]]></lblLogErro>
+    <rblGravaLogErro_Item_0><![CDATA[Sim]]></rblGravaLogErro_Item_0>
+    <rblGravaLogErro_Item_1><![CDATA[Não]]></rblGravaLogErro_Item_1>
+    <lblLogAcesso><![CDATA[Grava Log <u>A</u>cesso:]]></lblLogAcesso>
+    <rblGravaLogAcesso_Item_0><![CDATA[Sim]]></rblGravaLogAcesso_Item_0>
+    <rblGravaLogAcesso_Item_1><![CDATA[Não]]></rblGravaLogAcesso_Item_1>
+    <lblAutoCadastramento><![CDATA[Auto <u>C</u>adastramento:]]></lblAutoCadastramento>
+    <rblAutoCadastramento_Item_0><![CDATA[Sim]]></rblAutoCadastramento_Item_0>
+    <rblAutoCadastramento_Item_1><![CDATA[Não]]></rblAutoCadastramento_Item_1>
+    <lblCampoLogin><![CDATA[Campo para <u>L</u>ogin:]]></lblCampoLogin>
+    <rblCampoLogin_Item_0><![CDATA[Email]]></rblCampoLogin_Item_0>
+    <rblCampoLogin_Item_1><![CDATA[Login]]></rblCampoLogin_Item_1>
+    <lblExpiraSenha><![CDATA[E<u>x</u>pira Senha:]]></lblExpiraSenha>
+    <rblExpiraSenha_Item_0><![CDATA[Sim]]></rblExpiraSenha_Item_0>
+    <rblExpiraSenha_Item_1><![CDATA[Não]]></rblExpiraSenha_Item_1>
+    <lblQuantDias><![CDATA[Quantidade <u>d</u>ias:]]></lblQuantDias>
+    <lblConfSenha><![CDATA[Configuração Senha:]]></lblConfSenha>
+    <lblTamanhoSenha><![CDATA[<u>T</u>amanho:]]></lblTamanhoSenha>
+    <lblQuantNumeros><![CDATA[<u>Q</u>tde Numeros:]]></lblQuantNumeros>
+    <lblQuantLetras><![CDATA[Qtde Letr<u>a</u>s:]]></lblQuantLetras>
+    <lblCaracterEspecial><![CDATA[Ca<u>r</u>acter Especial:]]></lblCaracterEspecial>
+    <rblEspecial_Item_0><![CDATA[Sim]]></rblEspecial_Item_0>
+    <rblEspecial_Item_1><![CDATA[Não]]></rblEspecial_Item_1>
+    <lblOrigemEmail><![CDATA[<u>O</u>rigem email:]]></lblOrigemEmail>
+    <lblSMTP><![CDATA[Servidor S<u>M</u>TP:]]></lblSMTP>
+    <btnSalvar><![CDATA[Salvar]]></btnSalvar>
+    <btnVoltar><![CDATA[Voltar]]></btnVoltar>
+  </ParametroSistema>
+  <ParametroSistema>
+    <idioma><![CDATA[es-ES]]></idioma>
+    <lblTitulo><![CDATA[Configuração Sistema]]></lblTitulo>
+    <lblSite><![CDATA[Titulo <u>S</u>ite:]]></lblSite>
+    <lblLogErro><![CDATA[Grava Log <u>E</u>rro:]]></lblLogErro>
+    <rblGravaLogErro_Item_0><![CDATA[Sim]]></rblGravaLogErro_Item_0>
+    <rblGravaLogErro_Item_1><![CDATA[Não]]></rblGravaLogErro_Item_1>
+    <lblLogAcesso><![CDATA[Grava Log <u>A</u>cesso:]]></lblLogAcesso>
+    <rblGravaLogAcesso_Item_0><![CDATA[Sim]]></rblGravaLogAcesso_Item_0>
+    <rblGravaLogAcesso_Item_1><![CDATA[Não]]></rblGravaLogAcesso_Item_1>
+    <lblAutoCadastramento><![CDATA[Auto <u>C</u>adastramento:]]></lblAutoCadastramento>
+    <rblAutoCadastramento_Item_0><![CDATA[Sim]]></rblAutoCadastramento_Item_0>
+    <rblAutoCadastramento_Item_1><![CDATA[Não]]></rblAutoCadastramento_Item_1>
+    <lblCampoLogin><![CDATA[Campo para <u>L</u>ogin:]]></lblCampoLogin>
+    <rblCampoLogin_Item_0><![CDATA[Email]]></rblCampoLogin_Item_0>
+    <rblCampoLogin_Item_1><![CDATA[Login]]></rblCampoLogin_Item_1>
+    <lblExpiraSenha><![CDATA[E<u>x</u>pira Senha:]]></lblExpiraSenha>
+    <rblExpiraSenha_Item_0><![CDATA[Sim]]></rblExpiraSenha_Item_0>
+    <rblExpiraSenha_Item_1><![CDATA[Não]]></rblExpiraSenha_Item_1>
+    <lblQuantDias><![CDATA[Quantidade <u>d</u>ias:]]></lblQuantDias>
+    <lblConfSenha><![CDATA[Configuração Senha:]]></lblConfSenha>
+    <lblTamanhoSenha><![CDATA[<u>T</u>amanho:]]></lblTamanhoSenha>
+    <lblQuantNumeros><![CDATA[<u>Q</u>tde Numeros:]]></lblQuantNumeros>
+    <lblQuantLetras><![CDATA[Qtde Letr<u>a</u>s:]]></lblQuantLetras>
+    <lblCaracterEspecial><![CDATA[Ca<u>r</u>acter Especial:]]></lblCaracterEspecial>
+    <rblEspecial_Item_0><![CDATA[Sim]]></rblEspecial_Item_0>
+    <rblEspecial_Item_1><![CDATA[Não]]></rblEspecial_Item_1>
+    <lblOrigemEmail><![CDATA[<u>O</u>rigem email:]]></lblOrigemEmail>
+    <lblSMTP><![CDATA[Servidor S<u>M</u>TP:]]></lblSMTP>
+    <btnSalvar><![CDATA[Salvar]]></btnSalvar>
+    <btnVoltar><![CDATA[Voltar]]></btnVoltar>
+  </ParametroSistema>
+  <ParametroSistema>
+    <idioma><![CDATA[en-US]]></idioma>
+    <lblTitulo><![CDATA[System Configuration - en-US]]></lblTitulo>
+    <lblSite><![CDATA[Titulo <u>S</u>ite: - en-US]]></lblSite>
+    <lblLogErro><![CDATA[Grava Log <u>E</u>rro: - en-US]]></lblLogErro>
+    <rblGravaLogErro_Item_0><![CDATA[Yes - en-US]]></rblGravaLogErro_Item_0>
+    <rblGravaLogErro_Item_1><![CDATA[No - en-US]]></rblGravaLogErro_Item_1>
+    <lblLogAcesso><![CDATA[Grava Log <u>A</u>cesso: - en-US]]></lblLogAcesso>
+    <rblGravaLogAcesso_Item_0><![CDATA[Yes - en-US]]></rblGravaLogAcesso_Item_0>
+    <rblGravaLogAcesso_Item_1><![CDATA[No - en-US]]></rblGravaLogAcesso_Item_1>
+    <lblAutoCadastramento><![CDATA[Auto <u>C</u>adastramento: - en-US]]></lblAutoCadastramento>
+    <rblAutoCadastramento_Item_0><![CDATA[Yes - en-US]]></rblAutoCadastramento_Item_0>
+    <rblAutoCadastramento_Item_1><![CDATA[No - en-US]]></rblAutoCadastramento_Item_1>
+    <lblCampoLogin><![CDATA[Campo para <u>L</u>ogin: - en-US]]></lblCampoLogin>
+    <rblCampoLogin_Item_0><![CDATA[Email - en-US]]></rblCampoLogin_Item_0>
+    <rblCampoLogin_Item_1><![CDATA[Login - en-US]]></rblCampoLogin_Item_1>
+    <lblExpiraSenha><![CDATA[E<u>x</u>pira Senha: - en-US]]></lblExpiraSenha>
+    <rblExpiraSenha_Item_0><![CDATA[Yes - en-US]]></rblExpiraSenha_Item_0>
+    <rblExpiraSenha_Item_1><![CDATA[No - en-US]]></rblExpiraSenha_Item_1>
+    <lblQuantDias><![CDATA[Quantidade <u>d</u>ias: - en-US]]></lblQuantDias>
+    <lblConfSenha><![CDATA[Configuração Senha: - en-US]]></lblConfSenha>
+    <lblTamanhoSenha><![CDATA[<u>T</u>amanho: - en-US]]></lblTamanhoSenha>
+    <lblQuantNumeros><![CDATA[<u>Q</u>tde Numeros: - en-US]]></lblQuantNumeros>
+    <lblQuantLetras><![CDATA[Qtde Letr<u>a</u>s: - en-US]]></lblQuantLetras>
+    <lblCaracterEspecial><![CDATA[Ca<u>r</u>acter Especial: - en-US]]></lblCaracterEspecial>
+    <rblEspecial_Item_0><![CDATA[Yes - en-US]]></rblEspecial_Item_0>
+    <rblEspecial_Item_1><![CDATA[No - en-US]]></rblEspecial_Item_1>
+    <lblOrigemEmail><![CDATA[<u>O</u>rigem email: - en-US]]></lblOrigemEmail>
+    <lblSMTP><![CDATA[Servidor S<u>M</u>TP: - en-US]]></lblSMTP>
+    <btnSalvar><![CDATA[Salvar - en-US]]></btnSalvar>
+    <btnVoltar><![CDATA[Voltar - en-US]]></btnVoltar>
+  </ParametroSistema>
+</Pages>

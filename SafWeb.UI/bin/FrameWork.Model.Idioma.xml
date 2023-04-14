@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.Model.Idioma
+</name>
+</assembly>
+<members>
+<member name="T:FrameWork.Model.Idioma.Mensagens">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Mensagens
+ </summary>
+	<history>
+ 	[eneves]	28/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Idioma.ControleTipoIdioma">
+ -----------------------------------------------------------------------------
+ <summary>
+ Enum Tipo de Painéis
+ </summary>
+	<history>
+ 	[eneves]	10/5/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.Model.Idioma.Idiomas.decId">
+	<summary>Id do Idioma</summary>
+</member><member name="F:FrameWork.Model.Idioma.Idiomas.strDescricao">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Idioma.Idiomas.strSigla">
+	<summary>Sigla</summary>
+</member><member name="P:FrameWork.Model.Idioma.Idiomas.Id">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de IDI_N_CODIGO
+ </summary>
+	<value>Decimal</value>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Idioma.Idiomas.Descricao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de IDI_C_DESCRICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Idioma.Idiomas.Sigla">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de IDI_C_SIGLA
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Idioma.Idiomas">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Idioma
+ Class	 : Model.Idioma.Idiomas
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Idiomas
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

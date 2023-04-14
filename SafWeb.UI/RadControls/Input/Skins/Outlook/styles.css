@@ -1,0 +1,169 @@
+/* Telerik RadInput Outlook skin */
+
+.radInput_Outlook
+{
+	font:12px arial,verdana,sans-serif;
+	vertical-align: middle;
+}
+
+.radInput_Outlook table
+{
+	vertical-align:bottom;
+}
+
+.radInput_Outlook table,
+.radInput_Outlook table td
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow:visible;
+}
+
+.radInput_Outlook td.inputCell 
+{
+	padding:0 4px 0 0;		
+}
+
+.radInput_Outlook input.inputCell,
+.radInput_Outlook td.inputCell input,
+.radInput_Outlook textarea
+{
+	padding:1px 0 1px 1px;
+}
+
+.radInput_Outlook textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+.radInput_Outlook .spinImgCell
+{
+	vertical-align:middle;
+}
+
+/* SPIN BUTTONS */
+
+.radInput_Outlook a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 8px; 
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+	z-index:2;
+}
+
+*+html .radInput_Outlook a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Outlook a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Outlook a.down
+{
+	background-position: center -7px;
+}
+
+.radInput_Outlook a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_Outlook a.gobutton
+{
+	position: static;
+}
+
+/* INPUT STYLES SETTINGS */
+
+.radEnabledCss_Outlook 
+{
+	color: #000;
+	border: solid 1px #c4dbf9;
+	background-color: #e0eeff;
+}
+
+.radHoverCss_Outlook 
+{
+	color: #242424;
+	border: solid 1px #c6c6c6;
+}
+
+.radDisabledCss_Outlook
+{
+	color: Gray;
+	border: solid 1px Grey; 
+	background-color: #e3e3e3;
+}
+
+.radEmptyMessageCss_Outlook
+{
+	color: #000000;
+	border: solid 1px #c4dbf9; 
+	background-color: #e0eeff;
+}
+
+.radFocusedCss_Outlook
+{
+	color: #000000;
+	background-color: #fff;
+	border: solid 1px #000080;
+}
+
+.radNegativeCss_Outlook
+{
+	color:  #000000;
+	border: solid 1px #990000; 
+}
+
+.radInvalidCss_Outlook
+{
+	color: red;
+	border: solid 1px #ffad55;
+	background-color: #ffffff;
+}
+
+.radLabelCss_Outlook
+{
+	color: #000000; 
+	padding-right: 5px; 
+	white-space:nowrap;
+}
+
+.radHint_Outlook 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_Outlook a,
+.radHint_Outlook a:visited,
+.radHint_Outlook a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}

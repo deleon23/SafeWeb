@@ -1,0 +1,171 @@
+﻿/* Telerik RadInput Default2006 Skin */
+
+.radInput_Default2006
+{
+	font:11px arial,verdana,sans-serif;
+	vertical-align: middle;
+}
+
+.radInput_Default2006 table,
+.radInput_Default2006 table td
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+}
+
+.radInput_Default2006 table
+{
+	vertical-align: bottom;
+}
+
+.radInput_Default2006 textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+.radInput_Default2006 .spinImgCell
+{
+	vertical-align:middle;
+}
+
+.radInput_Default2006 td.inputCell
+{
+	padding:0 4px 0 0;
+}
+
+/* SPIN BUTTONS */
+.radInput_Default2006 a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 17px;
+	height: 8px; 
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static;
+	outline: none;
+	z-index:2;
+}
+
+*+html .radInput_Default2006 a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Default2006 a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Default2006 a.down
+{
+	background-position: center -7px;
+}
+
+.radInput_Default2006 a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+
+*+html .radInput_Default2006 a.gobutton
+{
+	position: static; /*IE fix*/
+}
+
+/* INPUT STYLES SETTINGS */
+
+.radEnabledCss_Default2006,
+.radEmptyMessageCss_Default2006,
+.radHoverCss_Default2006,
+.radFocusedCss_Default2006,
+.radNegativeCss_Default2006,
+.radDisabledCss_Default2006,
+.radInvalidCss_Default2006
+{
+	font:11px arial,verdana,sans-serif;
+	padding:2px 0 2px 1px;
+}
+
+.radEnabledCss_Default2006 
+{
+	color: #424242;
+	border: solid 1px #aeaeae;
+}
+
+.radHoverCss_Default2006 
+{
+	color: #242424;
+	border: solid 1px #c6c6c6;
+}
+
+.radDisabledCss_Default2006
+{
+	color:#ccc;
+	background:#eee;
+	border: solid 1px #aeaeae;
+}
+
+.radEmptyMessageCss_Default2006
+{
+	color: #424242;
+	border: solid 1px #aeaeae;
+}
+
+.radFocusedCss_Default2006
+{
+	border: solid 1px #777;
+	color: #242424;	
+}
+
+.radNegativeCss_Default2006 
+{
+	border: solid 1px #aeaeae;
+	color: #424242;
+}
+
+.radInvalidCss_Default2006 
+{
+	background:url('Img/error-sign.gif') center right no-repeat;
+	border: solid 1px #ff9000;
+	color: #ff9000;
+}
+
+.radLabelCss_Default2006
+{	  
+	font-size: small;
+	white-space:nowrap;
+}
+
+.radHint_Default2006 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_Default2006 a,
+.radHint_Default2006 a:visited,
+.radHint_Default2006 a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}
+

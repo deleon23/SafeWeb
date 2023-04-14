@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Regional\bin\Release\SafWeb.Model.Regional.dll
+C:\Projetos\SafWeb\SafWeb.Model.Regional\bin\Release\SafWeb.Model.Regional.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Release\SafWeb.Model.Regional.dll
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Release\SafWeb.Model.Regional.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Regional\bin\Debug\SafWeb.Model.Regional.dll
+C:\Projetos\SafWeb\SafWeb.Model.Regional\bin\Debug\SafWeb.Model.Regional.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Debug\SafWeb.Model.Regional.dll
+C:\Projetos\SafWeb\SafWeb.Model.Regional\obj\Debug\SafWeb.Model.Regional.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.Model.Email
+</name>
+</assembly>
+<members>
+<member name="F:FrameWork.Model.Email.CorpoEmail.intCodigo">
+	<summary>Id do Corpo de Email</summary>
+</member><member name="F:FrameWork.Model.Email.CorpoEmail.strDescricao">
+	<summary>Descrição</summary>
+</member><member name="F:FrameWork.Model.Email.CorpoEmail.strCorpo">
+	<summary>Corpo do Email</summary>
+</member><member name="P:FrameWork.Model.Email.CorpoEmail.Codigo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de CEM_N_CODIGO
+ </summary>
+	<value>Integer</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Email.CorpoEmail.Descricao">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de CEM_C_DESCRICAO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.Model.Email.CorpoEmail.Corpo">
+ -----------------------------------------------------------------------------
+ <summary>
+     Recebe o valor de CEM_C_CORPO
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	07/08/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.Model.Email.CorpoEmail">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.Model.Email
+ Class	 : Model.Email.CorpoEmail
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Model da Tabela de Corpo Email
+ </summary>
+	<history>
+ 	[eneves]	22/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

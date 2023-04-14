@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<ConfPadrao>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lbltitulo><![CDATA[Listagem de Padrões de Estilos]]></lbltitulo>
+		<radGridDados_Coluna_0><![CDATA[Código]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Padrões]]></radGridDados_Coluna_1>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<lblTitpad><![CDATA[<u>T</u>ítulo:]]></lblTitpad>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título]]></rfvTitulo>
+		<lblPosiciona><![CDATA[Posicionamento:]]></lblPosiciona>
+		<lblTop><![CDATA[T<u>o</u>p:]]></lblTop>
+		<lblLeft><![CDATA[L<u>e</u>ft:]]></lblLeft>
+		<lblDimensao><![CDATA[Dimensões:]]></lblDimensao>
+		<lblWidth><![CDATA[<u>L</u>argura:]]></lblWidth>
+		<lblHeight><![CDATA[<u>A</u>ltura:]]></lblHeight>
+		<lblPadding><![CDATA[<u>E</u>spaçamento:]]></lblPadding>
+		<lblOrienta><![CDATA[Orientação:]]></lblOrienta>
+		<rblOrientacao_Item_0><![CDATA[Horizontal]]></rblOrientacao_Item_0>
+		<rblOrientacao_Item_1><![CDATA[Vertical]]></rblOrientacao_Item_1>
+		<lblAlinha><![CDATA[<u>I</u>magem:]]></lblAlinha>
+		<rblAlinhamento_Item_0><![CDATA[esquerda]]></rblAlinhamento_Item_0>
+		<rblAlinhamento_Item_1><![CDATA[centralizado]]></rblAlinhamento_Item_1>
+		<rblAlinhamento_Item_2><![CDATA[direita]]></rblAlinhamento_Item_2>
+		<lblTransicao><![CDATA[T<u>r</u>ansição:]]></lblTransicao>
+		<lblEfeitos><![CDATA[Efeitos:]]></lblEfeitos>
+		<chkSombra><![CDATA[<u>S</u>ombra]]></chkSombra>
+		<lblTransp><![CDATA[Tra<u>n</u>sparência:]]></lblTransp>
+		<lblMouse><![CDATA[Mouse:]]></lblMouse>
+		<lblOn><![CDATA[ON]]></lblOn>
+		<lblOncorfonte><![CDATA[Cor font<u>e</u>:]]></lblOncorfonte>
+		<lblOncorfundo><![CDATA[Cor f<u>u</u>ndo:]]></lblOncorfundo>
+		<lblOnitem><![CDATA[ÍTEM:]]></lblOnitem>
+		<lblOncorborda><![CDATA[Cor <u>b</u>orda:]]></lblOncorborda>
+		<lblOnimg><![CDATA[Imagem <u>f</u>undo:]]></lblOnimg>
+		<lblOff><![CDATA[OFF]]></lblOff>
+		<lblOffcorfonte><![CDATA[Cor font<u>e</u>:]]></lblOffcorfonte>
+		<lblOffcorfundo><![CDATA[Cor f<u>u</u>ndo:]]></lblOffcorfundo>
+		<lblOffitem><![CDATA[ÍTEM:]]></lblOffitem>
+		<lblOffcorborda><![CDATA[Cor <u>b</u>orda:]]></lblOffcorborda>
+		<lblOffimg><![CDATA[Imagem <u>f</u>undo:]]></lblOffimg>
+		<lblBorda><![CDATA[Borda:]]></lblBorda>
+		<lblCorborda><![CDATA[<u>C</u>or:]]></lblCorborda>
+		<lblLarguraborda><![CDATA[<u>L</u>argura:]]></lblLarguraborda>
+		<lblFonte><![CDATA[Fonte:]]></lblFonte>
+		<lblTamanho><![CDATA[<u>T</u>amanho:]]></lblTamanho>
+		<chkFntStyle><![CDATA[Itálico]]></chkFntStyle>
+		<chkFntBold><![CDATA[Negrito]]></chkFntBold>
+		<chkFntDecoration><![CDATA[Sublinhado]]></chkFntDecoration>
+		<lblImg><![CDATA[Imagem SUB:]]></lblImg>
+		<lblImagem><![CDATA[<u>I</u>magem:]]></lblImagem>
+		<lblImgpadding><![CDATA[<u>E</u>spaçamento:]]></lblImgpadding>
+		<rblSubAlign_Item_0><![CDATA[topo]]></rblSubAlign_Item_0>
+		<rblSubAlign_Item_1><![CDATA[meio]]></rblSubAlign_Item_1>
+		<rblSubAlign_Item_2><![CDATA[baixo]]></rblSubAlign_Item_2>
+		<lblSeparador><![CDATA[Separador:]]></lblSeparador>
+		<lblCorSep><![CDATA[<u>C</u>or:]]></lblCorSep>
+		<lblLarguraSep><![CDATA[<u>L</u>argura:]]></lblLarguraSep>
+		<lblPaddingSep><![CDATA[<u>E</u>spaçamento:]]></lblPaddingSep>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+	</ConfPadrao>
+	<ConfPadrao>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lbltitulo><![CDATA[ Cadastro de Estilos]]></lbltitulo>
+		<radGridDados_Coluna_0><![CDATA[Código]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Padrões]]></radGridDados_Coluna_1>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<lblTitpad><![CDATA[<u>T</u>ítulo:]]></lblTitpad>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título]]></rfvTitulo>
+		<lblPosiciona><![CDATA[Posicionamento:]]></lblPosiciona>
+		<lblTop><![CDATA[T<u>o</u>p:]]></lblTop>
+		<lblLeft><![CDATA[L<u>e</u>ft:]]></lblLeft>
+		<lblDimensao><![CDATA[Dimensões:]]></lblDimensao>
+		<lblWidth><![CDATA[<u>L</u>argura:]]></lblWidth>
+		<lblHeight><![CDATA[<u>A</u>ltura:]]></lblHeight>
+		<lblPadding><![CDATA[<u>E</u>spaçamento:]]></lblPadding>
+		<lblOrienta><![CDATA[Orientação:]]></lblOrienta>
+		<rblOrientacao_Item_0><![CDATA[Horizontal]]></rblOrientacao_Item_0>
+		<rblOrientacao_Item_1><![CDATA[Vertical]]></rblOrientacao_Item_1>
+		<lblAlinha><![CDATA[<u>I</u>magem:]]></lblAlinha>
+		<rblAlinhamento_Item_0><![CDATA[esquerda]]></rblAlinhamento_Item_0>
+		<rblAlinhamento_Item_1><![CDATA[centralizado]]></rblAlinhamento_Item_1>
+		<rblAlinhamento_Item_2><![CDATA[direita]]></rblAlinhamento_Item_2>
+		<lblTransicao><![CDATA[T<u>r</u>ansição:]]></lblTransicao>
+		<lblEfeitos><![CDATA[Efeitos:]]></lblEfeitos>
+		<chkSombra><![CDATA[<u>S</u>ombra]]></chkSombra>
+		<lblTransp><![CDATA[Tra<u>n</u>sparência:]]></lblTransp>
+		<lblMouse><![CDATA[Mouse:]]></lblMouse>
+		<lblOn><![CDATA[ON]]></lblOn>
+		<lblOncorfonte><![CDATA[Cor font<u>e</u>:]]></lblOncorfonte>
+		<lblOncorfundo><![CDATA[Cor f<u>u</u>ndo:]]></lblOncorfundo>
+		<lblOnitem><![CDATA[ÍTEM:]]></lblOnitem>
+		<lblOncorborda><![CDATA[Cor <u>b</u>orda:]]></lblOncorborda>
+		<lblOnimg><![CDATA[Imagem <u>f</u>undo:]]></lblOnimg>
+		<lblOff><![CDATA[OFF]]></lblOff>
+		<lblOffcorfonte><![CDATA[Cor font<u>e</u>:]]></lblOffcorfonte>
+		<lblOffcorfundo><![CDATA[Cor f<u>u</u>ndo:]]></lblOffcorfundo>
+		<lblOffitem><![CDATA[ÍTEM:]]></lblOffitem>
+		<lblOffcorborda><![CDATA[Cor <u>b</u>orda:]]></lblOffcorborda>
+		<lblOffimg><![CDATA[Imagem <u>f</u>undo:]]></lblOffimg>
+		<lblBorda><![CDATA[Borda:]]></lblBorda>
+		<lblCorborda><![CDATA[<u>C</u>or:]]></lblCorborda>
+		<lblLarguraborda><![CDATA[<u>L</u>argura:]]></lblLarguraborda>
+		<lblFonte><![CDATA[Fonte:]]></lblFonte>
+		<lblTamanho><![CDATA[<u>T</u>amanho:]]></lblTamanho>
+		<chkFntStyle><![CDATA[Itálico]]></chkFntStyle>
+		<chkFntBold><![CDATA[Negrito]]></chkFntBold>
+		<chkFntDecoration><![CDATA[Sublinhado]]></chkFntDecoration>
+		<lblImg><![CDATA[Imagem SUB:]]></lblImg>
+		<lblImagem><![CDATA[<u>I</u>magem:]]></lblImagem>
+		<lblImgpadding><![CDATA[<u>E</u>spaçamento:]]></lblImgpadding>
+		<rblSubAlign_Item_0><![CDATA[topo]]></rblSubAlign_Item_0>
+		<rblSubAlign_Item_1><![CDATA[meio]]></rblSubAlign_Item_1>
+		<rblSubAlign_Item_2><![CDATA[baixo]]></rblSubAlign_Item_2>
+		<lblSeparador><![CDATA[Separador:]]></lblSeparador>
+		<lblCorSep><![CDATA[<u>C</u>or:]]></lblCorSep>
+		<lblLarguraSep><![CDATA[<u>L</u>argura:]]></lblLarguraSep>
+		<lblPaddingSep><![CDATA[<u>E</u>spaçamento:]]></lblPaddingSep>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+	</ConfPadrao>
+	<ConfPadrao>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lbltitulo><![CDATA[ Cadastro de Estilos - en-US]]></lbltitulo>
+		<radGridDados_Coluna_0><![CDATA[Código - en-US]]></radGridDados_Coluna_0>
+		<radGridDados_Coluna_1><![CDATA[Padrões - en-US]]></radGridDados_Coluna_1>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<lblTitpad><![CDATA[<u>T</u>ítulo: - en-US]]></lblTitpad>
+		<rfvTitulo><![CDATA[- Campo Obrigatório: Título - en-US]]></rfvTitulo>
+		<lblPosiciona><![CDATA[Posicionamento: - en-US]]></lblPosiciona>
+		<lblTop><![CDATA[T<u>o</u>p: - en-US]]></lblTop>
+		<lblLeft><![CDATA[L<u>e</u>ft: - en-US]]></lblLeft>
+		<lblDimensao><![CDATA[Dimensões: - en-US]]></lblDimensao>
+		<lblWidth><![CDATA[<u>L</u>argura: - en-US]]></lblWidth>
+		<lblHeight><![CDATA[<u>A</u>ltura: - en-US]]></lblHeight>
+		<lblPadding><![CDATA[<u>E</u>spaçamento: - en-US]]></lblPadding>
+		<lblOrienta><![CDATA[Orientação: - en-US]]></lblOrienta>
+		<rblOrientacao_Item_0><![CDATA[Horizontal - en-US]]></rblOrientacao_Item_0>
+		<rblOrientacao_Item_1><![CDATA[Vertical - en-US]]></rblOrientacao_Item_1>
+		<lblAlinha><![CDATA[<u>I</u>magem: - en-US]]></lblAlinha>
+		<rblAlinhamento_Item_0><![CDATA[esquerda - en-US]]></rblAlinhamento_Item_0>
+		<rblAlinhamento_Item_1><![CDATA[centralizado - en-US]]></rblAlinhamento_Item_1>
+		<rblAlinhamento_Item_2><![CDATA[direita - en-US]]></rblAlinhamento_Item_2>
+		<lblTransicao><![CDATA[T<u>r</u>ansição: - en-US]]></lblTransicao>
+		<lblEfeitos><![CDATA[Efeitos: - en-US]]></lblEfeitos>
+		<chkSombra><![CDATA[<u>S</u>ombra - en-US]]></chkSombra>
+		<lblTransp><![CDATA[Tra<u>n</u>sparência: - en-US]]></lblTransp>
+		<lblMouse><![CDATA[Mouse: - en-US]]></lblMouse>
+		<lblOn><![CDATA[ON - en-US]]></lblOn>
+		<lblOncorfonte><![CDATA[Cor font<u>e</u>: - en-US]]></lblOncorfonte>
+		<lblOncorfundo><![CDATA[Cor f<u>u</u>ndo: - en-US]]></lblOncorfundo>
+		<lblOnitem><![CDATA[ÍTEM: - en-US]]></lblOnitem>
+		<lblOncorborda><![CDATA[Cor <u>b</u>orda: - en-US]]></lblOncorborda>
+		<lblOnimg><![CDATA[Imagem <u>f</u>undo: - en-US]]></lblOnimg>
+		<lblOff><![CDATA[OFF - en-US]]></lblOff>
+		<lblOffcorfonte><![CDATA[Cor font<u>e</u>: - en-US]]></lblOffcorfonte>
+		<lblOffcorfundo><![CDATA[Cor f<u>u</u>ndo: - en-US]]></lblOffcorfundo>
+		<lblOffitem><![CDATA[ÍTEM: - en-US]]></lblOffitem>
+		<lblOffcorborda><![CDATA[Cor <u>b</u>orda: - en-US]]></lblOffcorborda>
+		<lblOffimg><![CDATA[Imagem <u>f</u>undo: - en-US]]></lblOffimg>
+		<lblBorda><![CDATA[Borda: - en-US]]></lblBorda>
+		<lblCorborda><![CDATA[<u>C</u>or: - en-US]]></lblCorborda>
+		<lblLarguraborda><![CDATA[<u>L</u>argura: - en-US]]></lblLarguraborda>
+		<lblFonte><![CDATA[Fonte: - en-US]]></lblFonte>
+		<lblTamanho><![CDATA[<u>T</u>amanho: - en-US]]></lblTamanho>
+		<chkFntStyle><![CDATA[Itálico - en-US]]></chkFntStyle>
+		<chkFntBold><![CDATA[Negrito - en-US]]></chkFntBold>
+		<chkFntDecoration><![CDATA[Sublinhado - en-US]]></chkFntDecoration>
+		<lblImg><![CDATA[Imagem SUB: - en-US]]></lblImg>
+		<lblImagem><![CDATA[<u>I</u>magem: - en-US]]></lblImagem>
+		<lblImgpadding><![CDATA[<u>E</u>spaçamento: - en-US]]></lblImgpadding>
+		<rblSubAlign_Item_0><![CDATA[topo - en-US]]></rblSubAlign_Item_0>
+		<rblSubAlign_Item_1><![CDATA[meio - en-US]]></rblSubAlign_Item_1>
+		<rblSubAlign_Item_2><![CDATA[baixo - en-US]]></rblSubAlign_Item_2>
+		<lblSeparador><![CDATA[Separador: - en-US]]></lblSeparador>
+		<lblCorSep><![CDATA[<u>C</u>or: - en-US]]></lblCorSep>
+		<lblLarguraSep><![CDATA[<u>L</u>argura: - en-US]]></lblLarguraSep>
+		<lblPaddingSep><![CDATA[<u>E</u>spaçamento: - en-US]]></lblPaddingSep>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+	</ConfPadrao>
+</Pages>

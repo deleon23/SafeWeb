@@ -1,0 +1,14 @@
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+C:\Projetos\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb

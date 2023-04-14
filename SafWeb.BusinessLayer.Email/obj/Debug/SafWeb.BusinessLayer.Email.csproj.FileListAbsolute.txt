@@ -1,0 +1,156 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csprojResolveAssemblyReference.cache
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.BusinessLayer.Email.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.ProviderBase.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\SafWeb.DataLayer.Email.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.Email\obj\Debug\SafWeb.BusinessLayer.Email.pdb

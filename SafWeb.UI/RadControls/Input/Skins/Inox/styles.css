@@ -1,0 +1,145 @@
+﻿/* Telerik RadInput Inox skin */
+
+.radInput_Inox
+{
+	font:bold 11px verdana,tahoma,sans-serif;
+	vertical-align: middle;
+}
+
+.radInput_Inox table,
+.radInput_Inox table td
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow: visible;
+}
+
+.radInput_Inox textarea
+{
+	vertical-align:bottom;
+	overflow:auto;
+}
+
+.radInput_Inox td.inputCell
+{
+	padding-right:4px;
+}
+
+.radHoverCss_Inox,
+.radEnabledCss_Inox,
+.radDisabledCss_Inox,
+.radEmptyMessageCss_Inox,
+.radFocusedCss_Inox,
+.radNegativeCss_Inox,
+.radInvalidCss_Inox
+{
+	padding:2px 0 2px 1px;
+	font:bold 11px verdana,tahoma,sans-serif;
+	border:1px solid #c5c5c5;
+}
+
+.radHoverCss_Inox
+{
+	background:url(Img/hover.gif);
+	color: #333;	
+}
+.radEnabledCss_Inox,
+.radEmptyMessageCss_Inox,
+.radNegativeCss_Inox
+{
+	background:url(Img/default.gif);
+	color: #b7b7b7;
+}
+
+.radFocusedCss_Inox
+{
+	background:#fff;
+	color: #333;
+}
+
+.radEmptyMessageCss_Inox
+{
+	color: gray;
+}
+
+.radNegativeCss_Inox
+{
+	color: #900;
+}
+
+.radInvalidCss_Inox
+{
+	background:url(Img/error.gif) no-repeat 98% 1px;
+	color: red;
+}
+
+.radLabelCss_Inox 
+{
+	font: normal 10px Verdana, Arial, Sans-serif; 
+	color: #b7b7b7; 
+	padding-right: 5px;
+	white-space:nowrap;
+}
+
+.radDisabledCss_Inox
+{
+	background:#ccc;
+}
+
+/* input buttons */
+
+/* SPIN BUTTONS */
+.radInput_Inox  .spinImgCell
+{		
+	vertical-align:middle;
+}
+
+.radInput_Inox a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 8px; 
+	line-height: 8px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;	
+	z-index:2;
+}
+*+html .radInput_Inox a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Inox a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Inox a.down
+{
+	background-position: center -7px;
+}
+
+.radInput_Inox a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 18px; 
+	line-height: 18px;
+	background: transparent url('Img/button.gif') no-repeat center center;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_Inox a.gobutton
+{
+	position: static;
+}
+
+/* end of input buttons */

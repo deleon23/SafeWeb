@@ -1,0 +1,153 @@
+/* WRAPPER SETTINGS */
+
+.radInput_Windows
+{
+	color: #242424;
+	font:12px Arial, Verdana, Tahoma, Sans-Serif;
+	vertical-align: middle;
+}
+
+.radInput_Windows table,
+.radInput_Windows table td
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	overflow:visible;
+}
+
+.radInput_Windows td.inputCell 
+{
+	padding: 0 5px 0 0;	
+}
+
+.radInput_Windows .imageCell,
+.radInput_Windows .spinImgCell
+{
+	vertical-align:middle;
+}
+
+/* SPIN BUTTONS */
+
+.radInput_Windows a.spinbutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 12px;
+	height: 9px; 
+	line-height: 9px;
+	background: transparent url('Img/SpinButtonSprites.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+	z-index:2;
+}
+*+html .radInput_Windows a.spinbutton
+{
+	position: static;
+}
+
+.radInput_Windows a.up
+{
+	background-position: center 1px;
+}
+
+.radInput_Windows a.down
+{
+	background-position: center -8px;
+}
+
+.radInput_Windows a.gobutton
+{
+	display: block;
+	text-indent: -9999px;
+	width: 20px;
+	height: 17px; 
+	line-height: 17px;
+	background: transparent url('Img/button.gif') no-repeat;
+	font-size: 1px;
+	position: relative;
+	_position: static; /*IE fix*/
+	outline: none;
+}
+*+html .radInput_Windows a.gobutton
+{
+	position: static;
+}
+
+
+/* END OF WRAPPER SETTINGS */
+
+
+
+/* INPUT STYLES SETTINGS */
+.radEnabledCss_Windows 
+{
+	color: #899aa2;
+	background-color: #fff;
+}
+
+.radHoverCss_Windows 
+{
+	color: #899aa2;
+	background-color: #fff;
+}
+
+.radDisabledCss_Windows
+{
+	background-color: #ccc;
+	color: #424242;
+}
+
+.radEmptyMessageCss_Windows
+{
+	color: #424242;
+	background: #fff;
+}
+
+.radFocusedCss_Windows
+{
+	color: #424242;
+	background-color: #fff;
+}
+
+.radNegativeCss_Windows
+{
+	color: red;
+	border: solid 1px #afbec5;
+	background: #f7f8f9;
+}
+
+.radInvalidCss_Windows
+{
+	color: red;
+	background-color: #f5f5f5;
+}
+
+.radLabelCss_Windows
+{
+	color: #b7b7b7; 
+	font-size: 10px; 
+	padding-right: 5px;
+	white-space:nowrap;
+}
+
+.radHint_Windows 
+{
+	background: infobackground;
+	margin-top: 5px;
+	border: solid 1px black;
+	text-align: left;
+	overflow: auto; 
+}
+
+.radHint_Windows a,
+.radHint_Windows a:visited,
+.radHint_Windows a:hover
+{
+	margin: 2px;
+	color: black;
+	text-decoration: none;
+	font-size: small;
+}

@@ -1,0 +1,40 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Relatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Relatorio\obj\Debug\SafWeb.Model.Relatorio.pdb

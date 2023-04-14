@@ -1,0 +1,39 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb

@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\bin\Release\SafWeb.Model.Colaborador.dll
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\bin\Release\SafWeb.Model.Colaborador.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Release\SafWeb.Model.Colaborador.dll
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Release\SafWeb.Model.Colaborador.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\bin\Debug\SafWeb.Model.Colaborador.dll
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\bin\Debug\SafWeb.Model.Colaborador.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Debug\SafWeb.Model.Colaborador.dll
+C:\Projetos\SafWeb\SafWeb.Model.Colaborador\obj\Debug\SafWeb.Model.Colaborador.pdb

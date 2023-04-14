@@ -1,0 +1,432 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.BusinessLayer.Menu
+</name>
+</assembly>
+<members>
+<member name="M:FrameWork.BusinessLayer.Menu.BLMenuTranslation.Inserir(FrameWork.Model.Menu.MenuTranslation)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjMenuTranslation">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenuTranslation.Excluir(System.Decimal,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Código</param>
+	<param name="pstrLanguage">Idioma</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenuTranslation.Obter(System.Decimal,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Código</param>
+	<param name="pstrLanguage">Idioma</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenuTranslation.Listar(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigo">Código</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Menu.BLMenuTranslation">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Menu
+ Class	 : BusinessLayer.Menu.BLMenuTranslation
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Menu Translation
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.AddMenu(FrameWork.Model.Menu.MenuParams)">
+ -----------------------------------------------------------------------------
+ <summary>
+ AddMenu
+ </summary>
+	<param name="AddParams"></param>
+	<returns>XHTML do Menu</returns>
+	<history>
+ 	[eneves]	15/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.MontaMenu(System.Decimal,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Menu
+ </summary>
+	<param name="pdecMenuId">Id do Menu</param>
+	<param name="pdecEstiloid">Id do Estilo do Menu</param>
+	<returns>XHTML do Menu</returns>
+	<history>
+ 	[eneves]	15/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.MontaEstiloPadrao(FrameWork.Model.Menu.ConfPadraoMenu,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Monta Estilo Padrao
+ </summary>
+	<param name="pobjPadraoMenu">Model Configuração Padrão</param>
+	<param name="pstrNome">Nome Menu</param>
+	<returns>HTML</returns>
+	<history>
+ 	[eneves]	15/8/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.InserirConfMenu(FrameWork.Model.Menu.ConfItemMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjConfMenu">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.ExcluirConfMenu(System.Decimal,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<param name="pstrCodigos">Codigos a serem excluidos</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.ObterConfMenu(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Model Corpo Email</returns>
+	<history>
+ 	[eneves]	6/6/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.ListarConfMenu(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna uma datatable com os itens de menu 
+ </summary>
+	<param name="pdecCodigoMenu">Código do Menu</param>
+	<returns>DataTable</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.ListarConfMenu(System.Decimal,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna uma datatable com os itens de menu 
+ </summary>
+	<param name="pdecCodigoMenu">Código do Menu</param>
+	<param name="pdecCodigoItemPai">Código Item Pai</param>
+	<returns>DataTable</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.AlterarConfMenu(FrameWork.Model.Menu.ConfItemMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjConfMenu">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.UpdateHierarquia(System.String,System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Atualiza a hierarquia de uma série de itens de menu
+ </summary>
+	<param name="pstrCodigos">Código da Hierarquia</param>
+	<param name="pdecCodigoPai">Código Id Pai</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	23/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Inserir(FrameWork.Model.Menu.Menus)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjMenus">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Obter(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para leitura de um registro da base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Listar(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Listar(System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Sobrecarga do método Listar para listar os menus do ContentManager ou os que não são do Content Manager
+ </summary>
+	<param name="pblnContentManager">Menu do CMS</param>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	26/3/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLMenu.Alterar(FrameWork.Model.Menu.Menus)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjMenus">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	26/02/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Menu.BLMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Menu
+ Class	 : BusinessLayer.Menu.BLMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Menu
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLEstilosMenu.Inserir(FrameWork.Model.Menu.ConfEstiloMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjEstiloMenu">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLEstilosMenu.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLEstilosMenu.Obter(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Codigo</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLEstilosMenu.Listar">
+ -----------------------------------------------------------------------------
+ <summary>
+     Lista registros da base em uma Table
+ </summary>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLEstilosMenu.Alterar(FrameWork.Model.Menu.ConfEstiloMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjEstiloMenu">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Menu.BLEstilosMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Menu
+ Class	 : BusinessLayer.Menu.BLEstilosMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Módulo de Estilos de Menus
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLPadroesMenu.Inserir(FrameWork.Model.Menu.ConfPadraoMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para insert de campo na base de dados
+ </summary>
+	<param name="pobjConfPadraoMenu">Objeto com dados para inserir</param>
+	<returns>Retorna o Id do registro criado</returns>
+	<history>
+ 	[eneves]	28/06/2004	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLPadroesMenu.Excluir(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para exclusão de campo na base de dados
+ </summary>
+	<param name="pdecCodigo">Código</param>
+	<returns>Retorna TRUE se conseguir excluir ou FALSE se der algum erro</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLPadroesMenu.Obter(System.Decimal)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Funcao para popular o Model do Objeto
+ </summary>
+	<param name="pdecCodigo">Código</param>
+	<returns>Retorna um objeto com as informações buscadas</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLPadroesMenu.Listar">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lista registros da base em uma Table
+ </summary>
+	<returns>Retorna uma table com os registros</returns>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.BusinessLayer.Menu.BLPadroesMenu.Alterar(FrameWork.Model.Menu.ConfPadraoMenu)">
+ -----------------------------------------------------------------------------
+ <summary>
+     Funcao para update de campo na base de dados
+ </summary>
+	<param name="pobjConfPadraoMenu">Objeto com dados para inserir</param>
+	<returns>Retorna TRUE caso o Update seja bem sucedido ou FALSE caso ocorra algum erro</returns>
+	<history>
+ 	[eneves]	14/03/2006	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.BusinessLayer.Menu.BLPadroesMenu">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.BusinessLayer.Menu
+ Class	 : BusinessLayer.Menu.BLPadroesMenu
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Negócio do Modulo de Padrões de Menu
+ </summary>
+	<history>
+ 	[eneves]	21/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Pages>
+	<Rodape>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblRodape><![CDATA[Makesys | 2008 | Todos direitos reservados © ]]></lblRodape>
+	</Rodape>
+	<Rodape>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblRodape><![CDATA[Makesys | 2008 | Todos direitos reservados © ]]></lblRodape>
+	</Rodape>
+	<Rodape>		
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblRodape><![CDATA[Makesys | 2008 | All Rights Reserved © ]]></lblRodape>
+	</Rodape>
+</Pages>

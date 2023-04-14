@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\bin\Release\SafWeb.Model.Acesso.dll
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\bin\Release\SafWeb.Model.Acesso.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Release\SafWeb.Model.Acesso.dll
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Release\SafWeb.Model.Acesso.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.dll
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\bin\Debug\SafWeb.Model.Acesso.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.dll
+C:\Projetos\SafWeb\SafWeb.Model.Acesso\obj\Debug\SafWeb.Model.Acesso.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<DataGrid>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<radGridDados_ToolTip><![CDATA[Click para ordenar]]></radGridDados_ToolTip>
+		<radGridDados_ToolTipDragDrop><![CDATA[Drag to Panel Group]]></radGridDados_ToolTipDragDrop>
+		<radGridDados_ToolTipCollapse><![CDATA[Collapse]]></radGridDados_ToolTipCollapse>
+		<radGridDados_ToolTipExpand><![CDATA[Expand]]></radGridDados_ToolTipExpand>
+		<radGridDados_ToolTipDragPanel><![CDATA[Drag to Panel Group]]></radGridDados_ToolTipDragPanel>
+		<radGridDados_GroupContinuedFormatString><![CDATA[... group continued from the previous page.]]></radGridDados_GroupContinuedFormatString>
+		<radGridDados_GroupContinuesFormatString><![CDATA[Group continues on the next page.]]></radGridDados_GroupContinuesFormatString>
+		<radGridDados_GroupSplitDisplayFormat><![CDATA[Showing {0} of {1} items.]]></radGridDados_GroupSplitDisplayFormat>
+	</DataGrid>
+	<DataGrid>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<radGridDados_ToolTip><![CDATA[Click para ordenar]]></radGridDados_ToolTip>
+		<radGridDados_ToolTipDragDrop><![CDATA[Drag to Panel Group]]></radGridDados_ToolTipDragDrop>
+		<radGridDados_ToolTipCollapse><![CDATA[Collapse]]></radGridDados_ToolTipCollapse>
+		<radGridDados_ToolTipExpand><![CDATA[Expand]]></radGridDados_ToolTipExpand>
+		<radGridDados_ToolTipDragPanel><![CDATA[Drag to Panel Group]]></radGridDados_ToolTipDragPanel>
+		<radGridDados_GroupContinuedFormatString><![CDATA[... group continued from the previous page.]]></radGridDados_GroupContinuedFormatString>
+		<radGridDados_GroupContinuesFormatString><![CDATA[Group continues on the next page.]]></radGridDados_GroupContinuesFormatString>
+		<radGridDados_GroupSplitDisplayFormat><![CDATA[Showing {0} of {1} items.]]></radGridDados_GroupSplitDisplayFormat>
+	</DataGrid>
+	<DataGrid>
+		<idioma><![CDATA[en-US]]></idioma>
+		<radGridDados_ToolTip><![CDATA[Click para ordenar - en-US]]></radGridDados_ToolTip>
+		<radGridDados_ToolTipDragDrop><![CDATA[Drag to Panel Group - en-US]]></radGridDados_ToolTipDragDrop>
+		<radGridDados_ToolTipCollapse><![CDATA[Collapse - en-US]]></radGridDados_ToolTipCollapse>
+		<radGridDados_ToolTipExpand><![CDATA[Expand - en-US]]></radGridDados_ToolTipExpand>
+		<radGridDados_ToolTipDragPanel><![CDATA[Drag to Panel Group - en-US]]></radGridDados_ToolTipDragPanel>
+		<radGridDados_GroupContinuedFormatString><![CDATA[... group continued from the previous page. - en-US]]></radGridDados_GroupContinuedFormatString>
+		<radGridDados_GroupContinuesFormatString><![CDATA[Group continues on the next page. - en-US]]></radGridDados_GroupContinuesFormatString>
+		<radGridDados_GroupSplitDisplayFormat><![CDATA[Showing {0} of {1} items. - en-US]]></radGridDados_GroupSplitDisplayFormat>
+	</DataGrid>
+</Pages>

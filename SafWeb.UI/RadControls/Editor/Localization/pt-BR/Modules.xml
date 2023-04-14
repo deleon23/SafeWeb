@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="RadEditorXhtmlValidator">Validador de XHTML</string>
+	<string id="RadEditorStatistics">Estatísticas</string>
+	<string id="RadEditorNodeInspector">Inspetor de Propriedades</string>
+	<string id="RadEditorDomInspector">Inspetor de tags</string>
+	<string id="RadEditorHtmlInspector">Visualizador em Tempo Real de HTML</string>
+	<string id="StatisticsWords">Palavras:</string>
+	<string id="StatisticsCharacters">Caracteres:</string>
+	<string id="NodeInspectorSelectedElement">O elemento selecionado é:</string>
+	<string id="NodeInspectorInvalidValue">Valor Inválido. Insira um número.</string>
+	<string id="className">Nome da Classe.</string>
+	<string id="borderColor">Cor da Borda.</string>
+	<string id="bgColor">Fundo</string>
+	<string id="width">Largura</string>
+	<string id="height">Altura</string>
+	<string id="align">Alinhamento</string>
+	<string id="vAlign">Alinhamento Vertical</string>
+	<string id="cellSpacing">Espaçamento da Célula</string>
+	<string id="cellPadding">Margem da Célula</string>
+	<string id="border">Largura da borda</string>
+	<string id="noWrap">Sem borda em volta.</string>
+	<string id="value">Valor</string>
+	<string id="id">Id</string>
+	<string id="name">Nome</string>
+	<string id="href">Endereço</string>
+	<string id="title">ToolTip</string>
+	<string id="target">Destino</string>
+	<string id="alt">ToolTip</string>
+	<string id="_blank">Nova Janela</string>
+	<string id="_self">Mesma Janela</string>
+	<string id="_parent">Janela Pai</string>
+	<string id="_top">Janela do Navegador</string>
+	<string id="_search">Painel de Busca</string>
+	<string id="_media">Painel de Mídia</string>
+	<string id="DomInspectorRemoveElement">Remover Elemento</string>
+	<string id="NAME">Nome</string>
+	<string id="action">Ação</string>
+	<string id="ValidateXHTML">Validar XHTML</string>
+	<string id="ExpandValidator">Expandir Report Pane</string>
+	<string id="Doctype">Selecionar Tipo de Documento</string>
+	<string id="rows">Linhas</string>
+	<string id="cols">Colunas</string>
+</localization>

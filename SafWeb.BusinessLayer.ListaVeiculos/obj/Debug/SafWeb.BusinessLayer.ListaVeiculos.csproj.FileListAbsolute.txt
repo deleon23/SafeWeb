@@ -1,0 +1,229 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csprojResolveAssemblyReference.cache
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.ProviderBase.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Model.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.BusinessLayer.ListaVeiculos\obj\Debug\SafWeb.BusinessLayer.ListaVeiculos.pdb

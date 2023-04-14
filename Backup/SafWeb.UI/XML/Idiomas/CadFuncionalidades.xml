@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+  <CadFuncionalidades>
+    <idioma><![CDATA[pt-BR]]></idioma>
+    <lblTituloCadastro><![CDATA[Cadastro de Funcionalidades]]></lblTituloCadastro>
+    <lblTituloListagem><![CDATA[Listagem de Funcionalidades]]></lblTituloListagem>
+    <lblModuloListagem><![CDATA[<u>M</u>ódulo:]]></lblModuloListagem>
+    <lblModulo><![CDATA[M<u>ó</u>dulo:]]></lblModulo>
+    <lblFuncionalidadeListagem><![CDATA[<u>F</u>uncionalidade:]]></lblFuncionalidadeListagem>
+    <radGridDados_Coluna_0><![CDATA[Funcionalidade]]></radGridDados_Coluna_0>
+    <radGridDados_Coluna_1><![CDATA[Módulo]]></radGridDados_Coluna_1>
+    <btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+    <btnAnterior><![CDATA[Anterior]]></btnAnterior>
+    <lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+    <lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+    <btnIr><![CDATA[Ir]]></btnIr>
+    <btnProxima><![CDATA[Próxima]]></btnProxima>
+    <btnUltima><![CDATA[Última]]></btnUltima>
+    <btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+    <btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+    <lblFuncionalidade><![CDATA[<u>F</u>uncionalidade:]]></lblFuncionalidade>
+    <lblURL><![CDATA[<u>U</u>RL Funcionalidade:]]></lblURL>
+    <lblPermissao><![CDATA[<u>P</u>ermissão Principal:]]></lblPermissao>
+    <lblPermissaoSecundaria><![CDATA[<u>P</u>ermissão Secundária:]]></lblPermissaoSecundaria>
+    <lblTipoPermissao><![CDATA[<u>T</u>ipo Permissão:]]></lblTipoPermissao>
+    <btnBuscar><![CDATA[Buscar]]></btnBuscar>
+    <btnInserir><![CDATA[Inserir]]></btnInserir>
+    <btnRemover><![CDATA[Excluir]]></btnRemover>
+    <btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+    <btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+    <btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+    <rfvModulo><![CDATA[- Seleção Obrigatória: Módulo]]></rfvModulo>
+    <rfvFuncionalidade><![CDATA[- Campo Obrigatório: Funcionalidade]]></rfvFuncionalidade>
+    <rfvURLFuncionalidade><![CDATA[- Campo Obrigatório: URL Funcionalidade]]></rfvURLFuncionalidade>
+    <rfvPermissao><![CDATA[- Campo Obrigatório: Permissão]]></rfvPermissao>
+  </CadFuncionalidades>
+  
+</Pages>

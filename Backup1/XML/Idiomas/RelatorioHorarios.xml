@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<RelatorioHorarios>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Relatórios de Horários]]></lblTitulo>
+		<lblGrupos><![CDATA[<u>G</u>rupo:]]></lblGrupos>
+		<lblUsuario><![CDATA[<u>U</u>suário:]]></lblUsuario>
+		<lblDataInicial><![CDATA[Data <u>I</u>nicial:]]></lblDataInicial>
+		<lblGrafico><![CDATA[G<u>r</u>áfico:]]></lblGrafico>
+		<btnGerar><![CDATA[Gerar Relatório]]></btnGerar>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+    <rfvDataInicial><![CDATA[- Campo Obrigatório: Data]]></rfvDataInicial>
+    <cpvtxtInicioPeriodo><![CDATA[- Data Inválida: Data Cadastro]]></cpvtxtInicioPeriodo>
+    <rgvtxtInicioPeriodo><![CDATA[- Data inválida: A data deve estar entre 01/01/1900 e 31/12/2099: Data Cadastro]]></rgvtxtInicioPeriodo>
+	</RelatorioHorarios>
+</Pages>

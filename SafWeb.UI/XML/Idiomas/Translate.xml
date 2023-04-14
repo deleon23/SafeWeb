@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+  <Translate>
+    <idioma><![CDATA[pt-BR]]></idioma>
+    <btnok><![CDATA[Ok]]></btnok>
+  </Translate>
+  <Translate>
+    <idioma><![CDATA[es-ES]]></idioma>
+    <btnok><![CDATA[Ok]]></btnok>
+  </Translate>
+  <Translate>
+    <idioma><![CDATA[en-US]]></idioma>
+    <btnok><![CDATA[Ok]]></btnok>
+  </Translate>
+</Pages>

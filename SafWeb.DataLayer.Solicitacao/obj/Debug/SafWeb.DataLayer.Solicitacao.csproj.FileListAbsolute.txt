@@ -1,0 +1,124 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csprojResolveAssemblyReference.cache
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.DataLayer.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.ProviderBase.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Solicitacao\obj\Debug\SafWeb.DataLayer.Solicitacao.pdb

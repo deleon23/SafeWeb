@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\bin\Release\SafWeb.Model.Empresa.dll
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\bin\Release\SafWeb.Model.Empresa.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Release\SafWeb.Model.Empresa.dll
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Release\SafWeb.Model.Empresa.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.dll
+C:\Projetos\SafWeb\SafWeb.Model.Empresa\obj\Debug\SafWeb.Model.Empresa.pdb

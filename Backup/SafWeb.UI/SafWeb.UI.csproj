@@ -1,0 +1,2326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{560ECC70-2CE2-4228-9374-DFD1DE7B377F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SafWeb.UI</RootNamespace>
+    <AssemblyName>SafWeb.UI</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FilesToIncludeForPublish>AllFilesInTheProject</FilesToIncludeForPublish>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FrameWork.BusinessLayer.Email, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Idioma, Version=3.1.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Idioma.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Menu, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Menu.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Usuarios, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Usuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Utilitarios, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Utilitarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.BusinessLayer.Utilitarios.XmlSerializers, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.DataAccess, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.DataLayer.Idioma, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.DataLayer.Idioma.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.DataLayer.Menu, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.DataLayer.Menu.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.DataLayer.Usuarios, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.DataLayer.Usuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.DataLayer.Utilitarios, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.DataLayer.Utilitarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.LibraryProvider, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.LibraryProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Email, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Model.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Idioma, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Model.Idioma.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Menu, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Model.Menu.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Usuarios, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Model.Usuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Model.Utilitarios, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Model.Utilitarios.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.Provider, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.Provider.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.ProviderBase, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.ProviderBase.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.UI, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.WebControl, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.WebControl.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork.ZipLib, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\FrameWork.ZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="RadAjax.Net2, Version=1.8.5.0, Culture=neutral, PublicKeyToken=3f7b438d1c762d0b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadAjax.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadCalendar.Net2, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a1432cd341173140, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadCalendar.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadComboBox.Net2, Version=2.8.5.0, Culture=neutral, PublicKeyToken=175e9829b585f1f6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadComboBox.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadEditor.Net2, Version=7.3.3.0, Culture=neutral, PublicKeyToken=852c9eb6525c1b53, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadEditor.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadGrid.Net2, Version=5.1.3.0, Culture=neutral, PublicKeyToken=ec87bc2939ec45df, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadGrid.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadInput.Net2, Version=2.1.5.0, Culture=neutral, PublicKeyToken=a1432cd341173140, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadInput.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadPanelbar.Net2, Version=4.3.5.0, Culture=neutral, PublicKeyToken=e0d16f6f4c7e05de, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadPanelbar.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadTreeView.Net2, Version=6.3.5.0, Culture=neutral, PublicKeyToken=dbd98e0feff9f06b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadTreeView.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="RadWindow.Net2, Version=1.9.5.0, Culture=neutral, PublicKeyToken=a3055f084732468e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\RadWindow.Net2.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.BusinessLayer.Regional, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.BusinessLayer.Regional\bin\Debug\SafWeb.BusinessLayer.Regional.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.Model.Empresa, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.Model.Empresa\bin\Debug\SafWeb.Model.Empresa.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.Model.Filial, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.Model.Filial\bin\Debug\SafWeb.Model.Filial.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.Model.Lista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.Model.Lista\bin\Debug\SafWeb.Model.Lista.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.Model.Regional, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.BusinessLayer.Regional\bin\Debug\SafWeb.Model.Regional.dll</HintPath>
+    </Reference>
+    <Reference Include="SafWeb.Model.Relatorio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SafWeb.Model.Relatorio\bin\Debug\SafWeb.Model.Relatorio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\Framework.DLL\System.Web.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\Framework.DLL\System.Web.Extensions.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="Telerik.Web.UI, Version=2008.2.723.20, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Framework.DLL\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Acesso.aspx" />
+    <Content Include="AcessoAdm.aspx" />
+    <Content Include="Admin\Admin.aspx" />
+    <Content Include="Admin\Email\CadEmail.aspx" />
+    <Content Include="Admin\Email\CadEmailAlertaRH.aspx" />
+    <Content Include="Admin\FrameWork\CabecalhoAdm.ascx" />
+    <Content Include="Admin\FrameWork\ParametroSistema.aspx" />
+    <Content Include="Admin\FrameWork\RodapeAdm.ascx" />
+    <Content Include="Admin\FrameWork\Versoes.aspx" />
+    <Content Include="Admin\HorarioEscala\CadEscalaRonda.aspx" />
+    <Content Include="Admin\HorarioEscala\CadHorarioRonda.aspx" />
+    <Content Include="Admin\Idiomas\CadIdioma.aspx" />
+    <Content Include="Admin\Idiomas\CadTraducoes.aspx" />
+    <Content Include="Admin\Log\ListaAcesso.aspx" />
+    <Content Include="Admin\Log\ListaLog.aspx" />
+    <Content Include="Admin\Log\ListaTrace.aspx" />
+    <Content Include="Admin\Log\RelatorioHorarios.aspx" />
+    <Content Include="Admin\Log\RelatorioPaginas.aspx" />
+    <Content Include="Admin\Menu\CadMenu.aspx" />
+    <Content Include="Admin\Menu\ColorPicker.ascx" />
+    <Content Include="Admin\Menu\ConfEstilo.aspx" />
+    <Content Include="Admin\Menu\ConfMenu.aspx" />
+    <Content Include="Admin\Menu\ConfPadrao.aspx" />
+    <Content Include="Admin\Menu\MenuTemplate.xml" />
+    <Content Include="Admin\Menu\Translate.aspx" />
+    <Content Include="Admin\Permissao\CadLimitePermissao.aspx" />
+    <Content Include="Admin\Permissao\CadLimitePrmColaborador.aspx" />
+    <Content Include="Admin\Seguranca\Usuarios\ListColaboradores.aspx" />
+    <Content Include="Imagens\icones\ico_entrar.gif" />
+    <Content Include="Imagens\icones\ico_sair.gif" />
+    <Content Include="Modulos\Escala\ListColaboradoresEscala.aspx" />
+    <Content Include="Modulos\HelpDesk\CadPermissaoCrachaTitular.aspx" />
+    <Content Include="Modulos\HelpDesk\ManutencaoPermissaoCrachaTitular.aspx" />
+    <Content Include="Modulos\HelpDesk\ListSolicitacaoPendente.aspx" />
+    <Content Include="Admin\Permissao\ListLimitePermissao.aspx" />
+    <Content Include="Admin\Permissao\ListLimitePrmColaborador.aspx" />
+    <Content Include="Admin\Seguranca\Funcionalidades\CadFuncionalidades.aspx" />
+    <Content Include="Admin\Seguranca\Grupos\CadGrupos.aspx" />
+    <Content Include="Admin\Seguranca\Grupos\CadSuperGrupo.aspx" />
+    <Content Include="Admin\Seguranca\ModuloFuncionalidade\CadModuloFunc.aspx" />
+    <Content Include="Admin\Seguranca\Permissoes\CadPermissoes.aspx" />
+    <Content Include="Estilos\PopUp.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Imagens\Bandeiras\Default.gif" />
+    <Content Include="Imagens\comum\button100px_verde.jpg" />
+    <Content Include="Imagens\comum\button100px_vermelho.jpg" />
+    <Content Include="Imagens\icones\ico_btn_adiconar.png" />
+    <Content Include="Imagens\icones\ico_btn_remover.png" />
+    <Content Include="Admin\Filial\CadFilial.aspx" />
+    <Content Include="Admin\AprovadorFilial\CadAtributosAprovador.aspx" />
+    <Content Include="Modulos\Aprovacao\ListSolicitacaoListaVeiculos.aspx" />
+    <Content Include="Modulos\Aprovacao\ListHistoricoCrachaTitular.aspx" />
+    <Content Include="Modulos\CadHorario.aspx" />
+    <Content Include="Admin\Seguranca\Usuarios\CadUsuario.aspx" />
+    <Content Include="Agenda\agenda.js" />
+    <Content Include="Agenda\agenda_EN.js" />
+    <Content Include="Agenda\agenda_ES.js" />
+    <Content Include="Agenda\agenda_PT.js" />
+    <Content Include="Agenda\arrowl.gif" />
+    <Content Include="Agenda\arrowr.gif" />
+    <Content Include="Agenda\bigCross.gif" />
+    <Content Include="Agenda\calbtn.gif" />
+    <Content Include="Agenda\calendario.htm" />
+    <Content Include="Agenda\calendariocomp.htm" />
+    <Content Include="Agenda\contrast.css" />
+    <Content Include="Agenda\contrast.js" />
+    <Content Include="Agenda\contrastcomp.css" />
+    <Content Include="Agenda\contrastcomp.js" />
+    <Content Include="Agenda\contrastcomp_EN.css" />
+    <Content Include="Agenda\contrastcomp_EN.js" />
+    <Content Include="Agenda\contrastcomp_ES.css" />
+    <Content Include="Agenda\contrastcomp_ES.js" />
+    <Content Include="Agenda\contrastcomp_PT.css" />
+    <Content Include="Agenda\contrastcomp_PT.js" />
+    <Content Include="Agenda\contrast_EN.css" />
+    <Content Include="Agenda\contrast_EN.js" />
+    <Content Include="Agenda\contrast_ES.css" />
+    <Content Include="Agenda\contrast_ES.js" />
+    <Content Include="Agenda\contrast_PT.css" />
+    <Content Include="Agenda\contrast_PT.js" />
+    <Content Include="Agenda\DateRangeDemo.htm" />
+    <Content Include="Agenda\plugins.js" />
+    <Content Include="Cadastro.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Erro.aspx" />
+    <Content Include="ErroAdm.aspx" />
+    <Content Include="ErroAjax.aspx" />
+    <Content Include="ErroPopup.aspx" />
+    <Content Include="Estilos\Brinks.css" />
+    <Content Include="Estilos\FrameWork.css" />
+    <Content Include="Estilos\FrameWorkPublico.css" />
+    <Content Include="Imagens\admin\aba_off.gif" />
+    <Content Include="Imagens\admin\aba_on.gif" />
+    <Content Include="Imagens\admin\back_menuh.jpg" />
+    <Content Include="Imagens\admin\bg_barra_cabecalho.gif" />
+    <Content Include="Imagens\admin\bg_button.gif" />
+    <Content Include="Imagens\admin\bg_itens.gif" />
+    <Content Include="Imagens\admin\bg_itens.jpg" />
+    <Content Include="Imagens\admin\bg_mensagem.gif" />
+    <Content Include="Imagens\admin\bg_msg.gif" />
+    <Content Include="Imagens\admin\campos.gif" />
+    <Content Include="Imagens\admin\cantoDireito.jpg" />
+    <Content Include="Imagens\admin\cantoEsquerdo.jpg" />
+    <Content Include="Imagens\admin\header1.gif" />
+    <Content Include="Imagens\admin\header3.jpg" />
+    <Content Include="Imagens\admin\header4.jpg" />
+    <Content Include="Imagens\admin\header5.gif" />
+    <Content Include="Imagens\admin\icones\deletar.gif" />
+    <Content Include="Imagens\admin\icones\editar.gif" />
+    <Content Include="Imagens\admin\icones\filho.gif" />
+    <Content Include="Imagens\admin\icones\menos.gif" />
+    <Content Include="Imagens\admin\icones\minus.gif" />
+    <Content Include="Imagens\admin\icones\plus.gif" />
+    <Content Include="Imagens\admin\icones\seta-baixo.gif" />
+    <Content Include="Imagens\admin\icones\seta-cima.gif" />
+    <Content Include="Imagens\admin\ico_areaadmin.gif" />
+    <Content Include="Imagens\admin\ico_bemvindo_off.gif" />
+    <Content Include="Imagens\admin\ico_bemvindo_on.gif" />
+    <Content Include="Imagens\admin\ico_logoff.gif" />
+    <Content Include="Imagens\admin\linha-horizontal.gif" />
+    <Content Include="Imagens\admin\linha-vertical.gif" />
+    <Content Include="Imagens\admin\listmenu_o.gif" />
+    <Content Include="Imagens\admin\login1.gif" />
+    <Content Include="Imagens\admin\login2.gif" />
+    <Content Include="Imagens\admin\login3.gif" />
+    <Content Include="Imagens\admin\login4.gif" />
+    <Content Include="Imagens\admin\login4.jpg" />
+    <Content Include="Imagens\admin\Login_back.jpg" />
+    <Content Include="Imagens\admin\login_base.gif" />
+    <Content Include="Imagens\admin\login_base.jpg" />
+    <Content Include="Imagens\admin\login_titulo.gif" />
+    <Content Include="Imagens\admin\login_titulo.jpg" />
+    <Content Include="Imagens\admin\logo.jpg" />
+    <Content Include="Imagens\admin\manutencao\top1.jpg" />
+    <Content Include="Imagens\admin\manutencao\top3.gif" />
+    <Content Include="Imagens\admin\manutencao\top4.gif" />
+    <Content Include="Imagens\admin\menuh2_b.jpg" />
+    <Content Include="Imagens\admin\pastas\abinha-off.gif" />
+    <Content Include="Imagens\admin\pastas\abinha-on.gif" />
+    <Content Include="Imagens\admin\pastas\barra-back.gif" />
+    <Content Include="Imagens\admin\pastas\barra-canto-direito.gif" />
+    <Content Include="Imagens\admin\pastas\barra-canto-esquerdo.gif" />
+    <Content Include="Imagens\admin\reemprimir.gif" />
+    <Content Include="Imagens\admin\top.jpg" />
+    <Content Include="Imagens\ajax-loader.gif" />
+    <Content Include="Imagens\ajax-loaderPik.gif" />
+    <Content Include="Imagens\ajaxLoaderFactors.gif" />
+    <Content Include="Imagens\bullet.gif" />
+    <Content Include="Imagens\comum\arrow_down.gif" />
+    <Content Include="Imagens\comum\arrow_up.gif" />
+    <Content Include="Imagens\comum\back.jpg" />
+    <Content Include="Imagens\comum\backBoxConteudo.jpg" />
+    <Content Include="Imagens\comum\backhome.jpg" />
+    <Content Include="Imagens\comum\backinput.gif" />
+    <Content Include="Imagens\comum\backinput.jpg" />
+    <Content Include="Imagens\comum\backInputForms.jpg" />
+    <Content Include="Imagens\comum\backmenu.jpg" />
+    <Content Include="Imagens\comum\back_brinks.gif" />
+    <Content Include="Imagens\comum\back_brinks.jpg" />
+    <Content Include="Imagens\comum\bemvindoADM.gif" />
+    <Content Include="Imagens\comum\bg_fundo.gif" />
+    <Content Include="Imagens\comum\bt-mail.gif" />
+    <Content Include="Imagens\comum\btn_aprovar.gif" />
+    <Content Include="Imagens\comum\btn_reprovar.gif" />
+    <Content Include="Imagens\comum\bulletbarra.gif" />
+    <Content Include="Imagens\comum\button100px.jpg" />
+    <Content Include="Imagens\comum\button120px.jpg" />
+    <Content Include="Imagens\comum\button150px.jpg" />
+    <Content Include="Imagens\comum\button80px.jpg" />
+    <Content Include="Imagens\comum\cantoEsquerdo_r1_c1.jpg" />
+    <Content Include="Imagens\comum\cantoEsquerdo_r2_c1.jpg" />
+    <Content Include="Imagens\comum\cantoEsquerdo_r3_c1.jpg" />
+    <Content Include="Imagens\comum\canto_tabdireito.gif" />
+    <Content Include="Imagens\comum\canto_tabesquerda.gif" />
+    <Content Include="Imagens\comum\Collapse.jpg" />
+    <Content Include="Imagens\comum\divCabecalho.gif" />
+    <Content Include="Imagens\comum\divMenu.gif" />
+    <Content Include="Imagens\comum\Expand.jpg" />
+    <Content Include="Imagens\comum\fd-top.gif" />
+    <Content Include="Imagens\comum\fd-top.jpg" />
+    <Content Include="Imagens\comum\guiavisualcss.gif" />
+    <Content Include="Imagens\comum\logo.gif" />
+    <Content Include="Imagens\comum\MainBox\MainBox_Top2.gif" />
+    <Content Include="Imagens\comum\makesys.gif" />
+    <Content Include="Imagens\comum\manutencao.gif" />
+    <Content Include="Imagens\icones\aletar.png" />
+    <Content Include="Imagens\icones\bullet.gif" />
+    <Content Include="Imagens\icones\bullet.png" />
+    <Content Include="Imagens\icones\calcular.gif" />
+    <Content Include="Imagens\icones\ic-home.gif" />
+    <Content Include="Imagens\icones\ico_alerta.gif" />
+    <Content Include="Imagens\icones\ico_alertaold.gif" />
+    <Content Include="Imagens\icones\ico_areaAdm.gif" />
+    <Content Include="Imagens\icones\ico_ativar.gif" />
+    <Content Include="Imagens\icones\ico_ativo.gif" />
+    <Content Include="Imagens\icones\ico_ativo2.gif" />
+    <Content Include="Imagens\icones\ico_calendario.gif" />
+    <Content Include="Imagens\icones\ico_deletar.gif" />
+    <Content Include="Imagens\icones\ico_doc.gif" />
+    <Content Include="Imagens\icones\ico_editar.gif" />
+    <Content Include="Imagens\icones\ico_email.gif" />
+    <Content Include="Imagens\icones\ico_help.jpg" />
+    <Content Include="Imagens\icones\ico_inativo.gif" />
+    <Content Include="Imagens\icones\ico_inativo2.gif" />
+    <Content Include="Imagens\icones\ico_logoff.gif" />
+    <Content Include="Imagens\icones\ico_pdf.gif" />
+    <Content Include="Imagens\icones\ico_reemprimir.gif" />
+    <Content Include="Imagens\icones\ico_selLocais.gif" />
+    <Content Include="Imagens\icones\ico_seta-baixo.gif" />
+    <Content Include="Imagens\icones\ico_seta-cima.gif" />
+    <Content Include="Imagens\icones\ico_setadir.gif" />
+    <Content Include="Imagens\icones\ico_setadir2.gif" />
+    <Content Include="Imagens\icones\ico_setaesq.gif" />
+    <Content Include="Imagens\icones\ico_setaesq2.gif" />
+    <Content Include="Imagens\icones\ico_sucesso.gif" />
+    <Content Include="Imagens\icones\ico_sucesso2.gif" />
+    <Content Include="Imagens\icones\ico_sucesso2old.gif" />
+    <Content Include="Imagens\icones\ico_Visualizar.gif" />
+    <Content Include="Imagens\icones\ico_xls.gif" />
+    <Content Include="Imagens\icones\reemprimir.gif" />
+    <Content Include="Imagens\loading.gif" />
+    <Content Include="Imagens\logotipo.jpg" />
+    <Content Include="Imagens\menuballs\AnaliseComparacao_off.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r2_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r2_c12.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r3_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r3_c11.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r4_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r4_c10.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r4_c5.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r5_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r5_c9.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r6_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r6_c6.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r7_c1.jpg" />
+    <Content Include="Imagens\menuballs\backBoxConteudo_r7_c6.jpg" />
+    <Content Include="Imagens\menuballs\background_capaBrinks.jpg" />
+    <Content Include="Imagens\menuballs\botao_alpha.gif" />
+    <Content Include="Imagens\menuballs\Calibragem_off.jpg" />
+    <Content Include="Imagens\menuballs\Fatores_off.jpg" />
+    <Content Include="Imagens\menuballs\graficos_off.jpg" />
+    <Content Include="Imagens\menuballs\notit_analise.jpg" />
+    <Content Include="Imagens\menuballs\notit_calibragem.jpg" />
+    <Content Include="Imagens\menuballs\notit_fatores.jpg" />
+    <Content Include="Imagens\menuballs\notit_previsoes.jpg" />
+    <Content Include="Imagens\menuballs\operacao_off.jpg" />
+    <Content Include="Imagens\menuballs\perfil_off.jpg" />
+    <Content Include="Imagens\menuballs\Previsoes_off.jpg" />
+    <Content Include="Imagens\menuballs\relatorios_off.jpg" />
+    <Content Include="Imagens\menuballs\tit_AnaliseComparacao.jpg" />
+    <Content Include="Imagens\menuballs\tit_calibragem.jpg" />
+    <Content Include="Imagens\menuballs\tit_calibragm.jpg" />
+    <Content Include="Imagens\menuballs\tit_fatores.jpg" />
+    <Content Include="Imagens\menuballs\tit_graficos.jpg" />
+    <Content Include="Imagens\menuballs\tit_operacao.jpg" />
+    <Content Include="Imagens\menuballs\tit_perfil.jpg" />
+    <Content Include="Imagens\menuballs\tit_previsoes.jpg" />
+    <Content Include="Imagens\menuballs\tit_relatorios.jpg" />
+    <Content Include="Imagens\menus\fundos\header.gif" />
+    <Content Include="Imagens\menus\fundos\Sub.gif" />
+    <Content Include="Imagens\menus\icones\frente.gif" />
+    <Content Include="Imagens\menus\icones\menu-setinha.gif" />
+    <Content Include="Imagens\menus\icones\subleft.gif" />
+    <Content Include="Imagens\right-aba.gif" />
+    <Content Include="Imagens\right-abaAtiva.gif" />
+    <Content Include="Imagens\right-abaInativa.gif" />
+    <Content Include="Imagens\right-abaWhite.gif" />
+    <Content Include="Imagens\seta-abaixo.gif" />
+    <Content Include="Imagens\seta-acima.gif" />
+    <Content Include="Imagens\Top_BemVindo.jpg" />
+    <Content Include="Imagens\top_Logon.jpg" />
+    <Content Include="Imagens\transparente.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="manutencao.htm" />
+    <Content Include="Modulos\Aprovacao\CadCaixaEntrada.aspx" />
+    <Content Include="Modulos\Aprovacao\CadFluxoAprovacao.aspx" />
+    <Content Include="Modulos\Aprovacao\HelpCaixaEntrada.aspx" />
+    <Content Include="Modulos\Aprovacao\HelpFluxoCadastro.aspx" />
+    <Content Include="Modulos\Aprovacao\HelpFluxoListagem.aspx" />
+    <Content Include="Modulos\Aprovacao\ListHistorico.aspx" />
+    <Content Include="Modulos\Aprovacao\ListSolicitacaoLista.aspx" />
+    <Content Include="Modulos\Escala\CadEscalaHorario.aspx" />
+    <Content Include="Modulos\Escala\CadTrocaEscalaHorario.aspx" />
+    <Content Include="Modulos\Escala\ImportarEscalaRonda.aspx" />
+    <Content Include="Modulos\Escala\ImportarEscalaRondaVisualizar.aspx" />
+    <Content Include="Modulos\Escala\ImportarEscalaCrewVisualizar.aspx" />
+    <Content Include="Modulos\Escala\ImportarEscalaCrew.aspx" />
+    <Content Include="Modulos\Escala\CadEscalaDepartamental.aspx" />
+    <Content Include="Modulos\Escala\CadEscalaFinalizacao.aspx" />
+    <Content Include="Modulos\Escala\CadEscalaHorarioColaborador.aspx" />
+    <Content Include="Modulos\Escala\CadJornadaEscala.aspx" />
+    <Content Include="Modulos\Escala\CadSelecaoEscalaColaborador.aspx" />
+    <Content Include="Admin\HorarioVerao\CadHorarioVerao.aspx" />
+    <Content Include="Modulos\Escala\ListHorarioColaboradores.aspx" />
+    <Content Include="Modulos\Escala\ListJornadaColaboradores.aspx" />
+    <Content Include="Modulos\Escala\teste.aspx" />
+    <Content Include="Modulos\FrameWork\CabecalhoBrinks.ascx" />
+    <Content Include="Modulos\FrameWork\CabecalhoLogin.ascx" />
+    <Content Include="Modulos\FrameWork\Idioma.ascx" />
+    <Content Include="Modulos\FrameWork\Menu.ascx" />
+    <Content Include="Modulos\FrameWork\ModuloLogin.ascx" />
+    <Content Include="Modulos\FrameWork\RodapeBrinks.ascx" />
+    <Content Include="Modulos\Portaria\CadCracha.aspx" />
+    <Content Include="Modulos\Portaria\CadEntrada.aspx" />
+    <Content Include="Modulos\Portaria\CadSaida.aspx" />
+    <Content Include="Modulos\Portaria\CapturarFoto.aspx" />
+    <Content Include="Modulos\Portaria\ConfirmaVariosEntrada.aspx" />
+    <Content Include="Modulos\Portaria\ConfirmaVariosSaida.aspx" />
+    <Content Include="Modulos\Portaria\ConfirmaEntrada.aspx" />
+    <Content Include="Modulos\Portaria\HelpCrachaCadastro.aspx" />
+    <Content Include="Modulos\Portaria\HelpCrachaListagem.aspx" />
+    <Content Include="Modulos\Portaria\HelpEntradaCadastro.aspx" />
+    <Content Include="Modulos\Portaria\HelpEntradaListagem.aspx" />
+    <Content Include="Modulos\Portaria\HelpSaidaCadastro.aspx" />
+    <Content Include="Modulos\Portaria\HelpSaidaListagem.aspx" />
+    <Content Include="Modulos\Portaria\ImageConversions.aspx" />
+    <Content Include="Modulos\Portaria\ImageFoto.aspx" />
+    <Content Include="Modulos\Portaria\ListAgendados.aspx" />
+    <Content Include="Modulos\Portaria\ListCracha.aspx" />
+    <Content Include="Modulos\Portaria\ListLista.aspx" />
+    <Content Include="Modulos\Portaria\WebcamResources\save_picture.swf" />
+    <Content Include="Modulos\Relatorio\RelAcessoContingencia.aspx" />
+    <Content Include="Modulos\Relatorio\RelEntrada.aspx" />
+    <Content Include="Modulos\Relatorio\RelEscalasAgendadas.aspx" />
+    <Content Include="Modulos\Relatorio\RelVisitasAgendas.aspx" />
+    <Content Include="Modulos\Solicitacao\CadLista.aspx" />
+    <Content Include="Modulos\Solicitacao\CadListaVeiculos.aspx" />
+    <Content Include="Modulos\Solicitacao\CadSolicitacao.aspx" />
+    <Content Include="Modulos\Solicitacao\CadSolicitacaoPermissaoCrachaTitular.aspx" />
+    <Content Include="Modulos\Solicitacao\HelpListaCadastro.aspx" />
+    <Content Include="Modulos\Solicitacao\HelpListaListagem.aspx" />
+    <Content Include="Modulos\Solicitacao\HelpSolCadastro.aspx" />
+    <Content Include="Modulos\Solicitacao\HelpSolListagem.aspx" />
+    <Content Include="Modulos\Solicitacao\ListColaboradores.aspx" />
+    <Content Include="Modulos\Solicitacao\ListColaboradoresLista.aspx" />
+    <Content Include="Modulos\Solicitacao\ListColaboradoresSol.aspx" />
+    <Content Include="Modulos\Solicitacao\ListColaboradoresVis.aspx" />
+    <Content Include="Office2007\Grid.Office2007.css" />
+    <Content Include="Office2007\Grid\AddRecord.gif" />
+    <Content Include="Office2007\Grid\Cancel.gif" />
+    <Content Include="Office2007\Grid\Delete.gif" />
+    <Content Include="Office2007\Grid\Edit.gif" />
+    <Content Include="Office2007\Grid\Filter.gif" />
+    <Content Include="Office2007\Grid\Grid.Office2007.css" />
+    <Content Include="Office2007\Grid\loading.gif" />
+    <Content Include="Office2007\Grid\Office2007.gif" />
+    <Content Include="Office2007\Grid\PagingFirst.gif" />
+    <Content Include="Office2007\Grid\PagingLast.gif" />
+    <Content Include="Office2007\Grid\PagingNext.gif" />
+    <Content Include="Office2007\Grid\PagingPrev.gif" />
+    <Content Include="Office2007\Grid\Refresh.gif" />
+    <Content Include="Office2007\Grid\SingleMinus.gif" />
+    <Content Include="Office2007\Grid\SinglePlus.gif" />
+    <Content Include="Office2007\Grid\SortAsc.gif" />
+    <Content Include="Office2007\Grid\SortDesc.gif" />
+    <Content Include="Office2007\Grid\sprite.gif" />
+    <Content Include="Office2007\Grid\Update.gif" />
+    <Content Include="RadControls\Ajax\Scripts\1_8_5\RadAjax.js" />
+    <Content Include="RadControls\Ajax\Scripts\1_8_5\RadAjaxNamespace.js" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading1.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading2.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading3.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading4.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading5.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading6.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\loading7.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\LoadingProgressBar.gif" />
+    <Content Include="RadControls\Ajax\Skins\Default\LoadingVerticalBar.gif" />
+    <Content Include="RadControls\Editor\FrameWorkFile.xml" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\BottomLine.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\BottomMinus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\BottomPlus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\contextMenu.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\MiddleCrossLine.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\MiddleLine.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\MiddleMinus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\MiddlePlus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\SingleMinus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\SinglePlus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\Style.css" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\TopLine.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\TopMinus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\TopPlus.gif" />
+    <Content Include="RadControls\Treeview\Skins\Makesys\WhiteSpace.gif" />
+    <Content Include="RadControls\Window\Localization\de-DE\Main.xml" />
+    <Content Include="RadControls\Window\Localization\en-US\Main.xml" />
+    <Content Include="RadControls\Window\Localization\fr-FR\Main.xml" />
+    <Content Include="RadControls\Window\Localization\pt-BR\Main.xml" />
+    <Content Include="RadControls\Window\Opera.html" />
+    <Content Include="RadControls\Window\Scripts\1_9_5\RadWindowClient.js" />
+    <Content Include="RadControls\Window\Skins\Black\Black.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Black\CssImg\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Black.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\ModalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\Splash.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Black\Window.css" />
+    <Content Include="RadControls\Window\Skins\Blue\Blue.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Blue\Window.css" />
+    <Content Include="RadControls\Window\Skins\Brown\Brown.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\pageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterCenter.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterLeft.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperFooterRight.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderCenter.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderCenterMinimized.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\confirmIcon.png" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\guiBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\pageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Brown\Window.css" />
+    <Content Include="RadControls\Window\Skins\Default2006\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Default2006\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Default2006.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Default2006\Window.css" />
+    <Content Include="RadControls\Window\Skins\Default\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Default\CssImg\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Default.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\ModalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\Splash.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Default\Window.css" />
+    <Content Include="RadControls\Window\Skins\eMail\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperFooterLeft.png" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperFooterRight.png" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\eMail\eMail.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\modalDlgBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\modalDlgTxtBoxBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\eMail\Window.css" />
+    <Content Include="RadControls\Window\Skins\Golden\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Golden\Golden.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Golden\Window.css" />
+    <Content Include="RadControls\Window\Skins\Inox\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperHeaderCenterTBOD.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\CssImg\TableBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\modalDlgBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\modalDlgTxtBoxBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Inox.gif" />
+    <Content Include="RadControls\Window\Skins\Inox\Window.css" />
+    <Content Include="RadControls\Window\Skins\Mac\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderCenter.png" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\modalDlgBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\modalDlgTxtBoxBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Mac.gif" />
+    <Content Include="RadControls\Window\Skins\Mac\Window.css" />
+    <Content Include="RadControls\Window\Skins\Makesys\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Makesys\Window.css" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\footerBg.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Monochrome.gif" />
+    <Content Include="RadControls\Window\Skins\Monochrome\Window.css" />
+    <Content Include="RadControls\Window\Skins\Office2007\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Office2007\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Office2007.gif" />
+    <Content Include="RadControls\Window\Skins\Office2007\Window.css" />
+    <Content Include="RadControls\Window\Skins\Olive\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\footerBg.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Olive.gif" />
+    <Content Include="RadControls\Window\Skins\Olive\Window.css" />
+    <Content Include="RadControls\Window\Skins\Outlook\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Outlook.gif" />
+    <Content Include="RadControls\Window\Skins\Outlook\Window.css" />
+    <Content Include="RadControls\Window\Skins\System\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperFooterLeft.png" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperFooterRight.png" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\System\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\System\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\System\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\modalDlgBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\modalDlgTxtBoxBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\System\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\System\System.gif" />
+    <Content Include="RadControls\Window\Skins\System\Window.css" />
+    <Content Include="RadControls\Window\Skins\Telerik\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperFooterLeft.png" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperFooterRight.png" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\modalDlgBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\modalDlgTxtBoxBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Telerik.gif" />
+    <Content Include="RadControls\Window\Skins\Telerik\Window.css" />
+    <Content Include="RadControls\Window\Skins\Vista\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\RadWHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\CssImg\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\ModalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\Splash.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Vista.gif" />
+    <Content Include="RadControls\Window\Skins\Vista\Window.css" />
+    <Content Include="RadControls\Window\Skins\Web20\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperBody.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Web20.gif" />
+    <Content Include="RadControls\Window\Skins\Web20\Window.css" />
+    <Content Include="RadControls\Window\Skins\WebBlue\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\WebBlue\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\AlertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\ConfirmIcon.GIF" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\Splash.jpg" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\WebBlue.gif" />
+    <Content Include="RadControls\Window\Skins\WebBlue\Window.css" />
+    <Content Include="RadControls\Window\Skins\WebChat\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\pageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\confirmIcon.png" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\guiBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\WebChat.gif" />
+    <Content Include="RadControls\Window\Skins\WebChat\Window.css" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWMinimizedBg.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Window.css" />
+    <Content Include="RadControls\Window\Skins\Windows2000\Windows2000.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\Window.css" />
+    <Content Include="RadControls\Window\Skins\WinnXPOlive\WinnXPOlive.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\Window.css" />
+    <Content Include="RadControls\Window\Skins\WinnXPSilver\WinnXPSilver.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\Window.css" />
+    <Content Include="RadControls\Window\Skins\WinXPLuna\WinXPLuna.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CoreTemplates.xml" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\dialogueHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\dialogueHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\draggedToolbarTitleBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\footerResize.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\pageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWStatus.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperBodyLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperBodyRight.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterCenter.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterLeft.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterRight.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperFooterRight.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderCenter.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderCenter.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderLeft.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderRight.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\RadWWrapperHeaderRight.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabLeft.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabLeftSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabMiddle.GIF" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabMiddleSelected.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabRight.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\CssImg\TabRightSelected.GIF" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\alert.wav" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\alertIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Close.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\confirmIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\confirmIcon.png" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\defaultIcon.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\guiBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\loading.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Maximize.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Minimize.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\modalBtnBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\ModalImageBg.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\PinOff.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\PinOn.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Refresh.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Reload.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\Restore.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\splash.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\transp.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Img\transpFake.gif" />
+    <Content Include="RadControls\Window\Skins\Wizard\Window.css" />
+    <Content Include="RadControls\Window\Skins\Wizard\Wizard.gif" />
+    <Content Include="Scripts\DataGrid.js" />
+    <Content Include="Scripts\Genericos.js" />
+    <Content Include="Scripts\jquery-1.7.2-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.7.2.js" />
+    <Content Include="Scripts\jquery-1.7.2.min.js" />
+    <Content Include="Scripts\jquery-popup.js" />
+    <Content Include="Scripts\jquery.event.drag-2.2.js" />
+    <Content Include="Scripts\jquery.js" />
+    <Content Include="Scripts\jquery.meio.mask.js" />
+    <Content Include="Scripts\Mascara.js" />
+    <Content Include="Scripts\menuctrl.js" />
+    <Content Include="Scripts\menuns4.js" />
+    <Content Include="Scripts\menuoutros.js" />
+    <Content Include="Web20\Calendar.Web20.css" />
+    <Content Include="Web20\Calendar\arrowLeft.gif" />
+    <Content Include="Web20\Calendar\arrowRight.gif" />
+    <Content Include="Web20\Calendar\calendarBg.gif" />
+    <Content Include="Web20\Calendar\clock.gif" />
+    <Content Include="Web20\Calendar\clockHover.gif" />
+    <Content Include="Web20\Calendar\ContextMenuInputBg.gif" />
+    <Content Include="Web20\Calendar\datePickerPopup.gif" />
+    <Content Include="Web20\Calendar\datePickerPopupHover.gif" />
+    <Content Include="Web20\Calendar\fastNavLeft.gif" />
+    <Content Include="Web20\Calendar\fastNavRight.gif" />
+    <Content Include="Web20\Calendar\HoverBg.gif" />
+    <Content Include="Web20\Calendar\HoverBgTime.gif" />
+    <Content Include="Web20\Calendar\selectBg.gif" />
+    <Content Include="Web20\Calendar\selectDateBg.png" />
+    <Content Include="Web20\Calendar\TodayBg.gif" />
+    <Content Include="Web20\Calendar\Web20.gif" />
+    <Content Include="XML\Idiomas\Acesso.xml" />
+    <Content Include="XML\Idiomas\AcessoAdm.xml" />
+    <Content Include="XML\Idiomas\Cabecalho.xml" />
+    <Content Include="XML\Idiomas\CabecalhoAdm.xml" />
+    <Content Include="XML\Idiomas\Cadastro.xml" />
+    <Content Include="XML\Idiomas\CadEmail.xml" />
+    <Content Include="XML\Idiomas\CadFuncionalidades.xml" />
+    <Content Include="XML\Idiomas\CadGrupos.xml" />
+    <Content Include="XML\Idiomas\CadIdioma.xml" />
+    <Content Include="XML\Idiomas\CadMenu.xml" />
+    <Content Include="XML\Idiomas\CadModuloFunc.xml" />
+    <Content Include="XML\Idiomas\CadPermissoes.xml" />
+    <Content Include="XML\Idiomas\CadSuperGrupo.xml" />
+    <Content Include="XML\Idiomas\CadTraducoes.xml" />
+    <Content Include="XML\Idiomas\CadUsuario.xml" />
+    <Content Include="XML\Idiomas\ConfEstilo.xml" />
+    <Content Include="XML\Idiomas\ConfMenu.xml" />
+    <Content Include="XML\Idiomas\ConfPadrao.xml" />
+    <Content Include="XML\Idiomas\DataGrid.xml" />
+    <Content Include="XML\Idiomas\Erro.xml" />
+    <Content Include="XML\Idiomas\ErroAdm.xml" />
+    <Content Include="XML\Idiomas\Idioma.xml" />
+    <Content Include="XML\Idiomas\ListaAcesso.xml" />
+    <Content Include="XML\Idiomas\ListaLog.xml" />
+    <Content Include="XML\Idiomas\ListaTrace.xml" />
+    <Content Include="XML\Idiomas\Login.xml" />
+    <Content Include="XML\Idiomas\Mensagens.xml" />
+    <Content Include="XML\Idiomas\ParametroSistema.xml" />
+    <Content Include="XML\Idiomas\RelatorioHorarios.xml" />
+    <Content Include="XML\Idiomas\RelatorioPaginas.xml" />
+    <Content Include="XML\Idiomas\Rodape.xml" />
+    <Content Include="XML\Idiomas\RodapeAdm.xml" />
+    <Content Include="XML\Idiomas\Translate.xml" />
+    <Content Include="XML\Idiomas\Versoes.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Email\CadEmailAlertaRH.aspx.cs">
+      <DependentUpon>CadEmailAlertaRH.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Email\CadEmailAlertaRH.aspx.designer.cs">
+      <DependentUpon>CadEmailAlertaRH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Filial\CadFilial.aspx.cs">
+      <DependentUpon>CadFilial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Filial\CadFilial.aspx.designer.cs">
+      <DependentUpon>CadFilial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AprovadorFilial\CadAtributosAprovador.aspx.cs">
+      <DependentUpon>CadAtributosAprovador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AprovadorFilial\CadAtributosAprovador.aspx.designer.cs">
+      <DependentUpon>CadAtributosAprovador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\HorarioEscala\CadEscalaRonda.aspx.cs">
+      <DependentUpon>CadEscalaRonda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\HorarioEscala\CadEscalaRonda.aspx.designer.cs">
+      <DependentUpon>CadEscalaRonda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\HorarioEscala\CadHorarioRonda.aspx.cs">
+      <DependentUpon>CadHorarioRonda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\HorarioEscala\CadHorarioRonda.aspx.designer.cs">
+      <DependentUpon>CadHorarioRonda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Permissao\CadLimitePermissao.aspx.cs">
+      <DependentUpon>CadLimitePermissao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Permissao\CadLimitePermissao.aspx.designer.cs">
+      <DependentUpon>CadLimitePermissao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Permissao\CadLimitePrmColaborador.aspx.cs">
+      <DependentUpon>CadLimitePrmColaborador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Permissao\CadLimitePrmColaborador.aspx.designer.cs">
+      <DependentUpon>CadLimitePrmColaborador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Seguranca\Usuarios\ListColaboradores.aspx.cs">
+      <DependentUpon>ListColaboradores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Seguranca\Usuarios\ListColaboradores.aspx.designer.cs">
+      <DependentUpon>ListColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListColaboradoresEscala.aspx.cs">
+      <DependentUpon>ListColaboradoresEscala.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListColaboradoresEscala.aspx.designer.cs">
+      <DependentUpon>ListColaboradoresEscala.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\CadPermissaoCrachaTitular.aspx.cs">
+      <DependentUpon>CadPermissaoCrachaTitular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\CadPermissaoCrachaTitular.aspx.designer.cs">
+      <DependentUpon>CadPermissaoCrachaTitular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\ManutencaoPermissaoCrachaTitular.aspx.cs">
+      <DependentUpon>ManutencaoPermissaoCrachaTitular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\ManutencaoPermissaoCrachaTitular.aspx.designer.cs">
+      <DependentUpon>ManutencaoPermissaoCrachaTitular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\ListSolicitacaoPendente.aspx.cs">
+      <DependentUpon>ListSolicitacaoPendente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\HelpDesk\ListSolicitacaoPendente.aspx.designer.cs">
+      <DependentUpon>ListSolicitacaoPendente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Permissao\ListLimitePermissao.aspx.cs">
+      <DependentUpon>ListLimitePermissao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Permissao\ListLimitePermissao.aspx.designer.cs">
+      <DependentUpon>ListLimitePermissao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Permissao\ListLimitePrmColaborador.aspx.cs">
+      <DependentUpon>ListLimitePrmColaborador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Permissao\ListLimitePrmColaborador.aspx.designer.cs">
+      <DependentUpon>ListLimitePrmColaborador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListSolicitacaoListaVeiculos.aspx.cs">
+      <DependentUpon>ListSolicitacaoListaVeiculos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListSolicitacaoListaVeiculos.aspx.designer.cs">
+      <DependentUpon>ListSolicitacaoListaVeiculos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListHistoricoCrachaTitular.aspx.cs">
+      <DependentUpon>ListHistoricoCrachaTitular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListHistoricoCrachaTitular.aspx.designer.cs">
+      <DependentUpon>ListHistoricoCrachaTitular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\CadHorario.aspx.cs">
+      <DependentUpon>CadHorario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\CadHorario.aspx.designer.cs">
+      <DependentUpon>CadHorario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\ExceptionHandler.cs" />
+    <Compile Include="Classes\FWPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Classes\Idioma.cs" />
+    <Compile Include="Classes\Permissoes.cs" />
+    <Compile Include="Modulos\Aprovacao\CadCaixaEntrada.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>CadCaixaEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\CadCaixaEntrada.aspx.designer.cs">
+      <DependentUpon>CadCaixaEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\CadFluxoAprovacao.aspx.cs">
+      <DependentUpon>CadFluxoAprovacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\CadFluxoAprovacao.aspx.designer.cs">
+      <DependentUpon>CadFluxoAprovacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpCaixaEntrada.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpCaixaEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpCaixaEntrada.aspx.designer.cs">
+      <DependentUpon>HelpCaixaEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpFluxoCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpFluxoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpFluxoCadastro.aspx.designer.cs">
+      <DependentUpon>HelpFluxoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpFluxoListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpFluxoListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\HelpFluxoListagem.aspx.designer.cs">
+      <DependentUpon>HelpFluxoListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListHistorico.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListHistorico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListHistorico.aspx.designer.cs">
+      <DependentUpon>ListHistorico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListSolicitacaoLista.aspx.cs">
+      <DependentUpon>ListSolicitacaoLista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Aprovacao\ListSolicitacaoLista.aspx.designer.cs">
+      <DependentUpon>ListSolicitacaoLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaHorario.aspx.cs">
+      <DependentUpon>CadEscalaHorario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaHorario.aspx.designer.cs">
+      <DependentUpon>CadEscalaHorario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadTrocaEscalaHorario.aspx.cs">
+      <DependentUpon>CadTrocaEscalaHorario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadTrocaEscalaHorario.aspx.designer.cs">
+      <DependentUpon>CadTrocaEscalaHorario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaRonda.aspx.cs">
+      <DependentUpon>ImportarEscalaRonda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaRonda.aspx.designer.cs">
+      <DependentUpon>ImportarEscalaRonda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaRondaVisualizar.aspx.cs">
+      <DependentUpon>ImportarEscalaRondaVisualizar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaRondaVisualizar.aspx.designer.cs">
+      <DependentUpon>ImportarEscalaRondaVisualizar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaCrewVisualizar.aspx.cs">
+      <DependentUpon>ImportarEscalaCrewVisualizar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaCrewVisualizar.aspx.designer.cs">
+      <DependentUpon>ImportarEscalaCrewVisualizar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaCrew.aspx.cs">
+      <DependentUpon>ImportarEscalaCrew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\ImportarEscalaCrew.aspx.designer.cs">
+      <DependentUpon>ImportarEscalaCrew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaDepartamental.aspx.cs">
+      <DependentUpon>CadEscalaDepartamental.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaDepartamental.aspx.designer.cs">
+      <DependentUpon>CadEscalaDepartamental.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaFinalizacao.aspx.cs">
+      <DependentUpon>CadEscalaFinalizacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaFinalizacao.aspx.designer.cs">
+      <DependentUpon>CadEscalaFinalizacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaHorarioColaborador.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>CadEscalaHorarioColaborador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadEscalaHorarioColaborador.aspx.designer.cs">
+      <DependentUpon>CadEscalaHorarioColaborador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadJornadaEscala.aspx.cs">
+      <DependentUpon>CadJornadaEscala.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadJornadaEscala.aspx.designer.cs">
+      <DependentUpon>CadJornadaEscala.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadSelecaoEscalaColaborador.aspx.cs">
+      <DependentUpon>CadSelecaoEscalaColaborador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\CadSelecaoEscalaColaborador.aspx.designer.cs">
+      <DependentUpon>CadSelecaoEscalaColaborador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\HorarioVerao\CadHorarioVerao.aspx.cs">
+      <DependentUpon>CadHorarioVerao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\HorarioVerao\CadHorarioVerao.aspx.designer.cs">
+      <DependentUpon>CadHorarioVerao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListHorarioColaboradores.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListHorarioColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListHorarioColaboradores.aspx.designer.cs">
+      <DependentUpon>ListHorarioColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListJornadaColaboradores.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListJornadaColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\ListJornadaColaboradores.aspx.designer.cs">
+      <DependentUpon>ListJornadaColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Escala\teste.aspx.cs">
+      <DependentUpon>teste.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Escala\teste.aspx.designer.cs">
+      <DependentUpon>teste.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\FrameWork\RodapeBrinks.ascx.cs">
+      <DependentUpon>RodapeBrinks.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\FrameWork\RodapeBrinks.ascx.designer.cs">
+      <DependentUpon>RodapeBrinks.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CadCracha.aspx.cs">
+      <DependentUpon>CadCracha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CadCracha.aspx.designer.cs">
+      <DependentUpon>CadCracha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CadEntrada.aspx.cs">
+      <DependentUpon>CadEntrada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CadEntrada.aspx.designer.cs">
+      <DependentUpon>CadEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\cadSaida.aspx.cs">
+      <DependentUpon>CadSaida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\cadSaida.aspx.designer.cs">
+      <DependentUpon>CadSaida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CapturarFoto.aspx.cs">
+      <DependentUpon>CapturarFoto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\CapturarFoto.aspx.designer.cs">
+      <DependentUpon>CapturarFoto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ColaboradoresData.cs" />
+    <Compile Include="Modulos\Portaria\ConfirmaVariosEntrada.aspx.cs">
+      <DependentUpon>ConfirmaVariosEntrada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ConfirmaVariosEntrada.aspx.designer.cs">
+      <DependentUpon>ConfirmaVariosEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ConfirmaVariosSaida.aspx.cs">
+      <DependentUpon>ConfirmaVariosSaida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ConfirmaVariosSaida.aspx.designer.cs">
+      <DependentUpon>ConfirmaVariosSaida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ConfirmaEntrada.aspx.cs">
+      <DependentUpon>ConfirmaEntrada.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ConfirmaEntrada.aspx.designer.cs">
+      <DependentUpon>ConfirmaEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpCrachaCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpCrachaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpCrachaCadastro.aspx.designer.cs">
+      <DependentUpon>HelpCrachaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpCrachaListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpCrachaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpCrachaListagem.aspx.designer.cs">
+      <DependentUpon>HelpCrachaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpEntradaCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpEntradaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpEntradaCadastro.aspx.designer.cs">
+      <DependentUpon>HelpEntradaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpEntradaListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpEntradaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpEntradaListagem.aspx.designer.cs">
+      <DependentUpon>HelpEntradaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpSaidaCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpSaidaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpSaidaCadastro.aspx.designer.cs">
+      <DependentUpon>HelpSaidaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpSaidaListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpSaidaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\HelpSaidaListagem.aspx.designer.cs">
+      <DependentUpon>HelpSaidaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ImageConversions.aspx.cs">
+      <DependentUpon>ImageConversions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ImageConversions.aspx.designer.cs">
+      <DependentUpon>ImageConversions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ImageFoto.aspx.cs">
+      <DependentUpon>ImageFoto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ImageFoto.aspx.designer.cs">
+      <DependentUpon>ImageFoto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListAgendados.aspx.cs">
+      <DependentUpon>ListAgendados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListAgendados.aspx.designer.cs">
+      <DependentUpon>ListAgendados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListCracha.aspx.cs">
+      <DependentUpon>ListCracha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListCracha.aspx.designer.cs">
+      <DependentUpon>ListCracha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListLista.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Portaria\ListLista.aspx.designer.cs">
+      <DependentUpon>ListLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelAcessoContingencia.aspx.cs">
+      <DependentUpon>RelAcessoContingencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelAcessoContingencia.aspx.designer.cs">
+      <DependentUpon>RelAcessoContingencia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelEntrada.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>RelEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelEntrada.aspx.designer.cs">
+      <DependentUpon>RelEntrada.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelEscalasAgendadas.aspx.cs">
+      <DependentUpon>RelEscalasAgendadas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelEscalasAgendadas.aspx.designer.cs">
+      <DependentUpon>RelEscalasAgendadas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelVisitasAgendas.aspx.cs">
+      <DependentUpon>RelVisitasAgendas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Relatorio\RelVisitasAgendas.aspx.designer.cs">
+      <DependentUpon>RelVisitasAgendas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadLista.aspx.cs">
+      <DependentUpon>CadLista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadLista.aspx.designer.cs">
+      <DependentUpon>CadLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadListaVeiculos.aspx.cs">
+      <DependentUpon>CadListaVeiculos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadListaVeiculos.aspx.designer.cs">
+      <DependentUpon>CadListaVeiculos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadSolicitacao.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>CadSolicitacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadSolicitacao.aspx.designer.cs">
+      <DependentUpon>CadSolicitacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadSolicitacaoPermissaoCrachaTitular.aspx.cs">
+      <DependentUpon>CadSolicitacaoPermissaoCrachaTitular.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\CadSolicitacaoPermissaoCrachaTitular.aspx.designer.cs">
+      <DependentUpon>CadSolicitacaoPermissaoCrachaTitular.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ColaboradoresData.cs" />
+    <Compile Include="Modulos\Solicitacao\HelpListaCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpListaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpListaCadastro.aspx.designer.cs">
+      <DependentUpon>HelpListaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpListaListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpListaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpListaListagem.aspx.designer.cs">
+      <DependentUpon>HelpListaListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpSolCadastro.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpSolCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpSolCadastro.aspx.designer.cs">
+      <DependentUpon>HelpSolCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpSolListagem.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HelpSolListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\HelpSolListagem.aspx.designer.cs">
+      <DependentUpon>HelpSolListagem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradores.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradores.aspx.designer.cs">
+      <DependentUpon>ListColaboradores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresLista.aspx.cs">
+      <DependentUpon>ListColaboradoresLista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresLista.aspx.designer.cs">
+      <DependentUpon>ListColaboradoresLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresSol.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>ListColaboradoresSol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresSol.aspx.designer.cs">
+      <DependentUpon>ListColaboradoresSol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresVis.aspx.cs">
+      <DependentUpon>ListColaboradoresVis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Solicitacao\ListColaboradoresVis.aspx.designer.cs">
+      <DependentUpon>ListColaboradoresVis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\icones\ico_doc2007" />
+    <None Include="Imagens\icones\ico_xls2007" />
+    <None Include="Modulos\Portaria\WebcamResources\com\adobe\images\BitString.as" />
+    <None Include="Modulos\Portaria\WebcamResources\com\adobe\images\JPGEncoder.as" />
+    <None Include="Modulos\Portaria\WebcamResources\com\adobe\images\PNGEncoder.as" />
+    <None Include="Modulos\Portaria\WebcamResources\com\dynamicflash\.DS_Store" />
+    <None Include="Modulos\Portaria\WebcamResources\com\dynamicflash\util\.DS_Store" />
+    <None Include="Modulos\Portaria\WebcamResources\com\dynamicflash\util\Base64.as" />
+    <None Include="Modulos\Portaria\WebcamResources\com\dynamicflash\util\tests\Base64Test.as" />
+    <None Include="Modulos\Suporte\Manual SAF WEB v2 %282%29.pdf" />
+    <Content Include="packages.config" />
+    <None Include="RadControls\Ajax\IntelliSense\RadAjax.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RadControls\Window\IntelliSense\RadWindow.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="XML\Log\Erros.xsc">
+      <DependentUpon>Erros.xsd</DependentUpon>
+    </None>
+    <None Include="XML\Log\Erros.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XML\Log\Erros.xss">
+      <DependentUpon>Erros.xsd</DependentUpon>
+    </None>
+    <None Include="XML\Log\Erros.xsx">
+      <DependentUpon>Erros.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Acesso\SafWeb.BusinessLayer.Acesso.csproj">
+      <Project>{0C506F5B-4293-4644-87CD-5B50C411977E}</Project>
+      <Name>SafWeb.BusinessLayer.Acesso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Area\SafWeb.BusinessLayer.Area.csproj">
+      <Project>{5BF86224-84B6-4D64-9A99-A110FCAC3EF3}</Project>
+      <Name>SafWeb.BusinessLayer.Area</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Colaborador\SafWeb.BusinessLayer.Colaborador.csproj">
+      <Project>{834EB551-E652-4232-B886-CFCC3BE52E02}</Project>
+      <Name>SafWeb.BusinessLayer.Colaborador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Cracha\SafWeb.BusinessLayer.Cracha.csproj">
+      <Project>{3C1EB823-42DA-463A-A932-90C8D49D73A8}</Project>
+      <Name>SafWeb.BusinessLayer.Cracha</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Email\SafWeb.BusinessLayer.Email.csproj">
+      <Project>{73A83C5B-D603-4866-B50E-020CD0AEDE63}</Project>
+      <Name>SafWeb.BusinessLayer.Email</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Empresa\SafWeb.BusinessLayer.Empresa.csproj">
+      <Project>{630D4F8D-AAA6-4482-960D-E0A43C98B792}</Project>
+      <Name>SafWeb.BusinessLayer.Empresa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Escala\SafWeb.BusinessLayer.Escala.csproj">
+      <Project>{4E3E0B65-06E0-422D-8CC2-DB3DF42F9179}</Project>
+      <Name>SafWeb.BusinessLayer.Escala</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Filial\SafWeb.BusinessLayer.Filial.csproj">
+      <Project>{FF07E420-EF02-4C6E-B527-7DD79B4BDC17}</Project>
+      <Name>SafWeb.BusinessLayer.Filial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.HelpDesk\SafWeb.BusinessLayer.HelpDesk.csproj">
+      <Project>{7A574FE5-96BE-4943-BF81-1EC65A75D5D1}</Project>
+      <Name>SafWeb.BusinessLayer.HelpDesk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.ListaVeiculos\SafWeb.BusinessLayer.ListaVeiculos.csproj">
+      <Project>{D37E81E2-3B97-40AE-AD88-1DE641D042ED}</Project>
+      <Name>SafWeb.BusinessLayer.ListaVeiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Lista\SafWeb.BusinessLayer.Lista.csproj">
+      <Project>{B7040524-025D-40DF-9E73-74B229E0F463}</Project>
+      <Name>SafWeb.BusinessLayer.Lista</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Permissao\SafWeb.BusinessLayer.Permissao.csproj">
+      <Project>{46E58173-264B-44D1-BD7B-B10FFC96D11D}</Project>
+      <Name>SafWeb.BusinessLayer.Permissao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Relatorio\SafWeb.BusinessLayer.Relatorio.csproj">
+      <Project>{106C5E03-FDBB-46C7-A47A-09737C677D68}</Project>
+      <Name>SafWeb.BusinessLayer.Relatorio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Solicitacao\SafWeb.BusinessLayer.Solicitacao.csproj">
+      <Project>{063C7D31-7D4F-4A13-9657-D67409461B9F}</Project>
+      <Name>SafWeb.BusinessLayer.Solicitacao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.BusinessLayer.Veiculo\SafWeb.BusinessLayer.Veiculo.csproj">
+      <Project>{F31729CE-4F27-4179-B6C8-695DFE180195}</Project>
+      <Name>SafWeb.BusinessLayer.Veiculo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.FrameWork.UI\SafWeb.FrameWork.UI.csproj">
+      <Project>{924F6A3B-5E30-41D8-9128-37196DEA56C5}</Project>
+      <Name>SafWeb.FrameWork.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Acesso\SafWeb.Model.Acesso.csproj">
+      <Project>{96F5DC38-F40A-4996-9B57-BA7ABC6DB162}</Project>
+      <Name>SafWeb.Model.Acesso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Area\SafWeb.Model.Area.csproj">
+      <Project>{3ED52789-87BF-48AC-9940-F0084DE4EF03}</Project>
+      <Name>SafWeb.Model.Area</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Colaborador\SafWeb.Model.Colaborador.csproj">
+      <Project>{07979E71-83D9-4503-905F-3EE8A98B2B44}</Project>
+      <Name>SafWeb.Model.Colaborador</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Cracha\SafWeb.Model.Cracha.csproj">
+      <Project>{832E326A-3202-4C0D-ACD1-AA01DB2A963C}</Project>
+      <Name>SafWeb.Model.Cracha</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Escala\SafWeb.Model.Escala.csproj">
+      <Project>{C8E4D077-8B5B-4604-9F4B-996B1EE0030A}</Project>
+      <Name>SafWeb.Model.Escala</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.HelpDesk\SafWeb.Model.HelpDesk.csproj">
+      <Project>{6E5A284F-D6E3-4B44-B89A-3EA9E5A6AB26}</Project>
+      <Name>SafWeb.Model.HelpDesk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.ListaVeiculos\SafWeb.Model.ListaVeiculos.csproj">
+      <Project>{728057C5-A307-4BBA-8206-6DF5E6B6B7C5}</Project>
+      <Name>SafWeb.Model.ListaVeiculos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Permissao\SafWeb.Model.Permissao.csproj">
+      <Project>{1FC562C2-235A-49C6-B098-ED9F76544B9A}</Project>
+      <Name>SafWeb.Model.Permissao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Solicitacao\SafWeb.Model.Solicitacao.csproj">
+      <Project>{0B1ACD59-E458-473D-A5E5-CA9D2CF94025}</Project>
+      <Name>SafWeb.Model.Solicitacao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Util\SafWeb.Model.Util.csproj">
+      <Project>{BFB01EA7-F740-4D91-855B-DC758AEF30FF}</Project>
+      <Name>SafWeb.Model.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Model.Veiculo\SafWeb.Model.Veiculo.csproj">
+      <Project>{A241D411-074F-4252-8527-ABC6E0467300}</Project>
+      <Name>SafWeb.Model.Veiculo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafWeb.Util\SafWeb.Util.csproj">
+      <Project>{B647B6A9-6530-4FC3-908D-DD07438395C7}</Project>
+      <Name>SafWeb.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+    <Folder Include="RadControls\Grid\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>4902</DevelopmentServerPort>
+          <DevelopmentServerVPath>/safweb</DevelopmentServerVPath>
+          <IISUrl>http://localhost/SafWeb/</IISUrl>
+          <NTLMAuthentication>True</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

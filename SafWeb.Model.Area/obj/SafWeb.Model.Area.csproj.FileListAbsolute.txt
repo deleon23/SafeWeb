@@ -1,0 +1,10 @@
+C:\Projetos\SafWeb\SafWeb.Model.Area\bin\Release\SafWeb.Model.Area.dll
+C:\Projetos\SafWeb\SafWeb.Model.Area\bin\Release\SafWeb.Model.Area.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Release\SafWeb.Model.Area.dll
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Release\SafWeb.Model.Area.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.dll
+C:\Projetos\SafWeb\SafWeb.Model.Area\bin\Debug\SafWeb.Model.Area.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.dll
+C:\Projetos\SafWeb\SafWeb.Model.Area\obj\Debug\SafWeb.Model.Area.pdb

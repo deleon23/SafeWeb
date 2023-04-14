@@ -1,0 +1,133 @@
+﻿.PopUp
+{
+	padding: 30px 0px;
+	position: absolute;
+	left: 50%;
+	z-index: 3010;
+	top: 50%;
+	display: none;
+}
+
+.canto
+{
+	position: absolute;
+	height: 30px;
+	width: 6px;
+}
+
+.cantoLT
+{
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperHeaderLeft.gif') no-repeat scroll 0px 0px transparent;
+	top: 0px;
+	left: 0px;
+}
+
+.cantoRT
+{
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperHeaderRight.gif') no-repeat scroll 0px 0px transparent;
+	top: 0px;
+	right: 0px;
+}
+
+.cantoLB
+{
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperFooterLeft.gif') no-repeat scroll 0px 0px transparent;
+	left: 0px;
+	bottom: 0px;
+}
+
+.cantoRB
+{
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperFooterRight.gif') no-repeat scroll 0px 0px transparent;
+	right: 0px;
+	bottom: 0px;
+}
+
+.centroConteudo
+{
+	display: block;
+	background: none repeat scroll 0% 0% rgb(255, 255, 255);
+	border-right: 1px solid rgb(59, 90, 130);
+	border-left: 1px solid rgb(59, 90, 130);
+	height: 100%;
+	padding: 6px;
+}
+
+.centro
+{
+	position: absolute;
+	height: 30px;
+}
+
+.centroRT
+{
+	top: 0px;
+	right: 6px;
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperHeaderCenter.gif') repeat-x scroll 0px 0px transparent;
+	width: 60%;
+}
+
+.centroRL
+{
+	width: 60%;
+	top: 0px;
+	left: 6px;
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperHeaderCenter.gif') repeat-x scroll 0px 0px transparent;
+}
+
+.centroLB
+{
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperFooterCenter.gif') repeat-x scroll 0px 0px transparent;
+	left: 6px;
+	bottom: 0px;
+	width: 60%;
+}
+
+.centroRB
+{
+	right: 6px;
+	background: url('../RadControls/Window/Skins/Office2007/CssImg/RadWWrapperFooterCenter.gif') repeat-x scroll 0px 0px transparent;
+	width: 60%;
+	bottom: 0px;
+}
+
+
+.tituloPopup
+{
+	white-space: nowrap;
+	color: #3B5A82;
+	display: block;
+	font: bold 10px Verdana,Arial,Sans-Serif;
+	height: 30px;
+	margin-top: 9px;
+	text-align: left;
+}
+
+.modalPopup
+{
+	display: none;
+	left: 0px;
+	top: 0px;
+	z-index: 3003;
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url('../RadControls/Window/Skins/Office2007/Img/ModalImageBg.gif') repeat scroll 0 0 transparent;
+}
+
+
+.fecharIcon
+{
+	text-decoration: none;
+	position: absolute;
+	z-index: 4000;
+	right: 0;
+	top: 6px;
+	cursor: pointer;
+}
+
+/*Para o Drag*/
+.handle {
+	cursor: move;
+}

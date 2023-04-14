@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FrameWork.WebControl
+</name>
+</assembly>
+<members>
+<member name="T:FrameWork.WebControl.FWServerControl.Controles">
+ -----------------------------------------------------------------------------
+ <summary>
+ Controles 
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:FrameWork.WebControl.FWServerControl.#ctor">
+ -----------------------------------------------------------------------------
+ <summary>
+ Construtor da classe
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.WebControl.FWServerControl.Controle">
+ -----------------------------------------------------------------------------
+ <summary>
+ Controle
+ </summary>
+	<value>Enum Controles</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.WebControl.FWServerControl.Parametro">
+ -----------------------------------------------------------------------------
+ <summary>
+ Parametro
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.WebControl.FWServerControl.Arquivo">
+ -----------------------------------------------------------------------------
+ <summary>
+ Arquivo
+ </summary>
+	<value>String</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.WebControl.FWServerControl">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.WebControl
+ Class	 : WebControl.FWServerControl
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Server Control FWServerControl
+ Dependendo do código de control coloca um item diferente
+       - controle = 0 --&gt; PageBanner
+       - controle = 1 --&gt; Menu
+       - controle = 2 --&gt; Rodape
+       - controle = 3 --&gt; Login
+       - controle = 4 --&gt; PageBannerAdmin
+       - controle = 5 --&gt; RodapeAdmin
+       - controle = 6 --&gt; MenuAdmin
+       - controle = 7 --&gt; Idioma
+ Poderá ser passado também um parametro para execucao que será interpretado da seguinte forma
+       - PageBanner   --&gt; 0 : Mostra Banner / 1 : Não mostra Banner
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="F:FrameWork.WebControl.FWMascara.strScript">
+	<summary>Nome do Script da Mascara</summary>
+</member><member name="F:FrameWork.WebControl.FWMascara.objMascara">
+	<summary>Objeto Tipo Mascara</summary>
+</member><member name="T:FrameWork.WebControl.FWMascara.TipoMascara">
+ -----------------------------------------------------------------------------
+ <summary>
+ Tipo de Mascara
+ </summary>
+	<remarks>
+	</remarks>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="P:FrameWork.WebControl.FWMascara.Mascara">
+ -----------------------------------------------------------------------------
+ <summary>
+ Tipo Mascara
+ </summary>
+	<value>Enum TipoMascara</value>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="T:FrameWork.WebControl.FWMascara">
+ -----------------------------------------------------------------------------
+ Project	 : FrameWork.WebControl
+ Class	 : WebControl.FWMascara
+ 
+ -----------------------------------------------------------------------------
+ <summary>
+ Classe de Webcontrols - Máscara de TextBox
+ </summary>
+	<history>
+ 	[eneves]	24/5/2007	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

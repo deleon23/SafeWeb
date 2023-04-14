@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<CadEmail>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem Corpo de Email]]></lblTituloListagem>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<radGridDados_Coluna_0><![CDATA[Corpo email]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro Corpo de Email]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<lblCorpoEmail><![CDATA[Corpo Email:]]></lblCorpoEmail>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<rfvDescricao><![CDATA[- Campo Obrigatório: Descrição]]></rfvDescricao>
+	</CadEmail>
+	<CadEmail>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem Corpo de Email]]></lblTituloListagem>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<radGridDados_Coluna_0><![CDATA[Corpo email]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro Corpo de Email]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<lblCorpoEmail><![CDATA[Corpo Email:]]></lblCorpoEmail>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<rfvDescricao><![CDATA[- Campo Obrigatório: Descrição]]></rfvDescricao>
+	</CadEmail>
+	<CadEmail>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem Corpo de Email - en-US]]></lblTituloListagem>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<radGridDados_Coluna_0><![CDATA[Corpo email - en-US]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro Corpo de Email - en-US]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição: - en-US]]></lblDescricao>
+		<lblCorpoEmail><![CDATA[Corpo Email: - en-US]]></lblCorpoEmail>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<rfvDescricao><![CDATA[- Campo Obrigatório: Descrição - en-US]]></rfvDescricao>
+	</CadEmail>
+</Pages>

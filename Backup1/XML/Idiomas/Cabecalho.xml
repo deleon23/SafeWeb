@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<Cabecalho>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblMensagem><![CDATA[Bem-vindo,]]></lblMensagem>
+		<lnkAdmin><![CDATA[<img src="%%PATH%%/imagens/admin/ico_areaadmin.gif" border="0" align="absMiddle">Área Administrativa]]></lnkAdmin>
+		<lnkLogOff><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logoff]]></lnkLogOff>
+		<lnkLogOn><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logon]]></lnkLogOn>
+	</Cabecalho>
+	<Cabecalho>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblMensagem><![CDATA[Bem-vindo,]]></lblMensagem>
+		<lnkAdmin><![CDATA[<img src="%%PATH%%/imagens/admin/ico_areaadmin.gif" border="0" align="absMiddle">Área Administrativa]]></lnkAdmin>
+		<lnkLogOff><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logoff]]></lnkLogOff>
+		<lnkLogOn><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logon]]></lnkLogOn>
+	</Cabecalho>
+	<Cabecalho>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblMensagem><![CDATA[Welcome, - en-US]]></lblMensagem>
+		<lnkAdmin><![CDATA[<img src="%%PATH%%/imagens/admin/ico_areaadmin.gif" border="0" align="absMiddle">Área Administrativa - en-US]]></lnkAdmin>
+		<lnkLogOff><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logoff - en-US]]></lnkLogOff>
+		<lnkLogOn><![CDATA[<img src="%%PATH%%/imagens/admin/ico_logoff.gif" border="0" align="absMiddle">Logon - en-US]]></lnkLogOn>
+	</Cabecalho>
+</Pages>

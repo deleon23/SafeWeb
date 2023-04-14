@@ -1,0 +1,5 @@
+C:\Projetos\SafWeb\SafWeb.Model.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.dll
+C:\Projetos\SafWeb\SafWeb.Model.Solicitacao\bin\Debug\SafWeb.Model.Solicitacao.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Solicitacao\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Solicitacao\obj\Debug\SafWeb.Model.Solicitacao.dll
+C:\Projetos\SafWeb\SafWeb.Model.Solicitacao\obj\Debug\SafWeb.Model.Solicitacao.pdb

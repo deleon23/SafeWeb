@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Title">Gerenciador de Link</string>
+	<string id="Tab1HeaderText">Link</string>
+	<string id="Tab2HeaderText">Ancora</string>
+	<string id="Tab3HeaderText">E-mail</string>
+	<string id="LinkUrl">Endereço:</string>
+	<string id="LinkType">Tipo:</string>
+	<string id="Other">Outro</string>
+	<string id="LinkTarget">Destino:</string>
+	<string id="Target">Destino</string>
+	<string id="LinkTooltip">Tooltip:</string>
+	<string id="LinkName">Nome:</string>
+	<string id="LinkAddress">Endereço:</string>
+	<string id="LinkSubject">Assunto:</string>
+	<string id="OK">OK</string>
+	<string id="Cancel">Cancelar</string>
+	<string id="CssClass">Classe CSS:</string>
+	<string id="AnchorCss">Link CSS</string>
+	<string id="LinkText">Link Text:</string>
+	<string id="ClearStyle">Sem Classe</string>
+	<string id="LinkToAnchor">Âncora Existente</string>
+	<string id="AnchorNone">Sem Âncora</string>
+</localization>

@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+  <Mensagens>
+    <idioma><![CDATA[pt-BR]]></idioma>
+    <M1><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Registro gravado com sucesso!]]></M1>
+    <M2><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Erro ao gravar registro!]]></M2>
+    <M3><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso2.gif' align='absmiddle'>Registro excluido com sucesso!]]></M3>
+    <M4><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Erro ao excluir registro!]]></M4>
+    <M5><![CDATA[Confirma a exclusão do registro?]]></M5>
+    <M6><![CDATA[- Nenhum registro encontrado.]]></M6>
+    <M7><![CDATA[Selecionado]]></M7>
+    <M8><![CDATA[<br>E-mail enviado com sucesso !<br>]]></M8>
+    <M9><![CDATA[<br>Erro no envio do e-mail !<br>]]></M9>
+    <M10><![CDATA[<-- Selecione -->]]></M10>
+    <M11><![CDATA[ * Campos obrigatórios.]]></M11>
+    <M12><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Você não preencheu os campos em vermelho abaixo!]]></M12>
+    <M13><![CDATA[Cadastro]]></M13>
+    <M14><![CDATA[Listagem]]></M14>
+    <M15><![CDATA[Erro de Hierarquia]]></M15>
+    <M16><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Grupo já existe!]]></M16>
+    <M17><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Email já existe!]]></M17>
+    <M18><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Login já existe!]]></M18>
+    <M19><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>WinLogon já existe!]]></M19>
+    <M20><![CDATA[Editar]]></M20>
+    <M21><![CDATA[Excluir]]></M21>
+    <M22><![CDATA[para cima]]></M22>
+    <M23><![CDATA[para baixo]]></M23>
+    <M24><![CDATA[filho]]></M24>
+    <M25><![CDATA[Solução:]]></M25>
+    <M26><![CDATA[Mensagem de Erro:]]></M26>
+    <M27><![CDATA[Mensagem Original:]]></M27>
+    <M28><![CDATA[Senha inválida !]]></M28>
+    <M29><![CDATA[A senha não foi alterada pois é necessário digitar a nova senha e a confirmação identicas.]]></M29>
+    <M30><![CDATA[A senha deve ter no mínimo:]]></M30>
+    <M31><![CDATA[ números, ]]></M31>
+    <M32><![CDATA[ caracteres, ]]></M32>
+    <M33><![CDATA[ 1 caracter especial]]></M33>
+    <M34><![CDATA[A senha expirou, é necessário digitar a nova senha.]]></M34>
+    <M35><![CDATA[O login deve ser informado !]]></M35>
+    <M36><![CDATA[Usuário sem e-mail ou login não encontrado !]]></M36>
+    <M37><![CDATA[Login inválido !]]></M37>
+    <M38><![CDATA[Login bloqueado !]]></M38>
+    <M39><![CDATA[<-- Todos -->]]></M39>
+    <M40><![CDATA[Visualizar]]></M40>
+    <M41><![CDATA[Login:]]></M41>
+    <M42><![CDATA[Email:]]></M42>
+    <M43><![CDATA[- O login do usuário deve ser informado!<br>]]></M43>
+    <M44><![CDATA[- O e-mail do usuário deve ser informado!<br>]]></M44>
+    <M45><![CDATA[Senha de Acesso]]></M45>
+    <M46><![CDATA[Renomear]]></M46>
+    <M47><![CDATA[Novo SubMenu]]></M47>
+    <M48><![CDATA[Novo Menu]]></M48>
+    <M49><![CDATA[Excluir]]></M49>
+    <M50><![CDATA[Editar]]></M50>
+    <M51><![CDATA[Exportar para o Excel]]></M51>
+    <M52><![CDATA[Exportar para o Word]]></M52>
+    <M53><![CDATA[Estatísticas de Acesso]]></M53>
+    <M54><![CDATA[Estatísticas de Páginas]]></M54>
+    <M55><![CDATA[Qtde]]></M55>
+    <M56><![CDATA[Horários]]></M56>
+    <M57><![CDATA[Páginas]]></M57>
+    <M58><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Super Grupo já existe!]]></M58>
+    <M59><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Modulo Funcionalidade já existe!]]></M59>
+    <M60><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Funcionalidade já existe!]]></M60>
+    <M61><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão Principal já existe!]]></M61>
+    <M62><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Menu já existe!]]></M62>
+    <M63><![CDATA[Listagem de Estilos]]></M63>
+    <M64><![CDATA[Cadastro de Estilos]]></M64>
+    <M65><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Idioma já existe!]]></M65>
+    <M66><![CDATA[Listagem de Padrões de Estilos]]></M66>
+    <M67><![CDATA[Cadastro de Padrões de Estilos]]></M67>
+    <M68><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Corpo Email já existe!]]></M68>
+    <M69><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Estilo já existe!]]></M69>
+    <M70><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Padrões de Estilos já existe!]]></M70>
+    <M71><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Registro não pode ser excluído pois existem informações relacionadas]]></M71>
+    <M72><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Existe grupo administrador com o mesmo nome do super grupo]]></M72>
+    <M73><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária repetida]]></M73>
+    <M74><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Sigla do idioma inválida]]></M74>
+    <M75><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Registro gravado com sucesso! Aguarde liberação de seu usuário pelo administrador.]]></M75>
+    <M76><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária já existe em outra funcionalidade]]></M76>
+	<M77><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Baixa realizada com sucesso!]]></M77>
+  </Mensagens>
+  <Mensagens>
+    <idioma><![CDATA[es-ES]]></idioma>
+    <M1><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>¡Registro registrado con éxito!]]></M1>
+    <M2><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>¡Error al registrar el registro!]]></M2>
+    <M3><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso2.gif' align='absmiddle'>¡Registro con éxito excluido!]]></M3>
+    <M4><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>¡Error al excluir el registro!]]></M4>
+    <M5><![CDATA[¿Confirma la exclusión del registro?]]></M5>
+    <M6><![CDATA[Ningún registro unido.]]></M6>
+    <M7><![CDATA[Selecionado]]></M7>
+    <M8><![CDATA[¡Email con éxito enviado!]]></M8>
+    <M9><![CDATA[¡Error en enviar del email!]]></M9>
+    <M10><![CDATA[<-- Seleccione -->]]></M10>
+    <M11><![CDATA[ * Campos de Obligator.]]></M11>
+    <M12><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Você não preencheu os campos em vermelho abaixo!]]></M12>
+    <M13><![CDATA[Cadastro]]></M13>
+    <M14><![CDATA[Listagem]]></M14>
+    <M15><![CDATA[Erro de Hierarquia]]></M15>
+    <M16><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Grupo já existe!]]></M16>
+    <M17><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Email já existe!]]></M17>
+    <M18><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Login já existe!]]></M18>
+    <M19><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>WinLogin já existe!]]></M19>
+    <M20><![CDATA[Editar]]></M20>
+    <M21><![CDATA[Excluir]]></M21>
+    <M22><![CDATA[para cima]]></M22>
+    <M23><![CDATA[para baixo]]></M23>
+    <M24><![CDATA[filho]]></M24>
+    <M25><![CDATA[Solução:]]></M25>
+    <M26><![CDATA[Mensagem de Erro:]]></M26>
+    <M27><![CDATA[Mensagem Original:]]></M27>
+    <M28><![CDATA[Senha inválida !]]></M28>
+    <M29><![CDATA[A senha não foi alterada pois é necessário digitar a nova senha e a confirmação identicas.]]></M29>
+    <M30><![CDATA[A senha deve ter no mínimo:]]></M30>
+    <M31><![CDATA[ números, ]]></M31>
+    <M32><![CDATA[ caracteres, ]]></M32>
+    <M33><![CDATA[ 1 caracter especial]]></M33>
+    <M34><![CDATA[A senha expirou, é necessário digitar a nova senha.]]></M34>
+    <M35><![CDATA[O login deve ser informado !]]></M35>
+    <M36><![CDATA[Usuário sem e-mail ou login não encontrado !]]></M36>
+    <M37><![CDATA[Login inválido !]]></M37>
+    <M38><![CDATA[Login bloqueado !]]></M38>
+    <M39><![CDATA[<-- Todos -->]]></M39>
+    <M40><![CDATA[Visualizar]]></M40>
+    <M41><![CDATA[Login:]]></M41>
+    <M42><![CDATA[Email:]]></M42>
+    <M43><![CDATA[- O login do usuário deve ser informado!<br>]]></M43>
+    <M44><![CDATA[- O e-mail do usuário deve ser informado!<br>]]></M44>
+    <M45><![CDATA[Senha de Acesso]]></M45>
+    <M46><![CDATA[Renomear]]></M46>
+    <M47><![CDATA[Novo SubMenu]]></M47>
+    <M48><![CDATA[Novo Menu]]></M48>
+    <M49><![CDATA[Excluir]]></M49>
+    <M50><![CDATA[Editar]]></M50>
+    <M51><![CDATA[Exportar para o Excel]]></M51>
+    <M52><![CDATA[Exportar para o Word]]></M52>
+    <M53><![CDATA[Estatísticas de Acesso]]></M53>
+    <M54><![CDATA[Estatísticas de Páginas]]></M54>
+    <M55><![CDATA[Qtde]]></M55>
+    <M56><![CDATA[Horários]]></M56>
+    <M57><![CDATA[Páginas]]></M57>
+    <M58><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Super Grupo já existe!]]></M58>
+    <M59><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Modulo Funcionalidade já existe!]]></M59>
+    <M60><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Funcionalidade já existe!]]></M60>
+    <M61><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão Principal já existe!]]></M61>
+    <M62><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Menu já existe!]]></M62>
+    <M63><![CDATA[Listagem de Estilos]]></M63>
+    <M64><![CDATA[Cadastro de Estilos]]></M64>
+    <M65><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Idioma já existe!]]></M65>
+    <M66><![CDATA[Listagem de Padrões de Estilos]]></M66>
+    <M67><![CDATA[Cadastro de Padrões de Estilos]]></M67>
+    <M68><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Corpo Email já existe!]]></M68>
+    <M69><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Estilo já existe!]]></M69>
+    <M70><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Padrões de Estilos já existe!]]></M70>
+    <M71><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Registro não pode ser excluído pois existem informações relacionadas]]></M71>
+    <M72><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Existe grupo administrador com o mesmo nome do super grupo]]></M72>
+    <M73><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária repetida]]></M73>
+    <M74><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Sigla do idioma inválida]]></M74>
+    <M75><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Registro gravado com sucesso! Aguarde liberação de seu usuário pelo administrador.]]></M75>
+    <M76><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária já existe em outra funcionalidade]]></M76>
+	<M77><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Baixa realizada com sucesso!]]></M77>
+  </Mensagens>
+  <Mensagens>
+    <idioma><![CDATA[en-US]]></idioma>
+    <M1><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Record Save Successfully!]]></M1>
+    <M2><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Error saving Record!]]></M2>
+    <M3><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso2.gif' align='absmiddle'>Record Delete Successfully!]]></M3>
+    <M4><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Error Deleting Record]]></M4>
+    <M5><![CDATA[Confirm Delete the Record?]]></M5>
+    <M6><![CDATA[No record Find.]]></M6>
+    <M7><![CDATA[Selected]]></M7>
+    <M8><![CDATA[E-mail sent Successfully!]]></M8>
+    <M9><![CDATA[Error sending E-mail!]]></M9>
+    <M10><![CDATA[<-- Select -->]]></M10>
+    <M11><![CDATA[ * Required Filed.]]></M11>
+    <M12><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>You didn't fill the fields below marked in red!]]></M12>
+    <M13><![CDATA[Registration]]></M13>
+    <M14><![CDATA[List]]></M14>
+    <M15><![CDATA[Hierarchy Error]]></M15>
+    <M16><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Group already exists!]]></M16>
+    <M17><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>E-mail already exists!]]></M17>
+    <M18><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Login already exists!]]></M18>
+    <M19><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>WinLogin already exists!]]></M19>
+    <M20><![CDATA[Edit]]></M20>
+    <M21><![CDATA[Delete]]></M21>
+    <M22><![CDATA[up]]></M22>
+    <M23><![CDATA[down]]></M23>
+    <M24><![CDATA[child]]></M24>
+    <M25><![CDATA[Solution:]]></M25>
+    <M26><![CDATA[Error Message:]]></M26>
+    <M27><![CDATA[Original Message:]]></M27>
+    <M28><![CDATA[Senha inválida !]]></M28>
+    <M29><![CDATA[The new password couldn't be changed because you need to type the new password and confirmation as the same.]]></M29>
+    <M30><![CDATA[The password must have at least:]]></M30>
+    <M31><![CDATA[ numbers, ]]></M31>
+    <M32><![CDATA[ characters, ]]></M32>
+    <M33><![CDATA[ 1 especial character]]></M33>
+    <M34><![CDATA[The password has expired, it's necessary to change you password.]]></M34>
+    <M35><![CDATA[You must type you login!]]></M35>
+    <M36><![CDATA[User without email or login not founded!]]></M36>
+    <M37><![CDATA[Login inválido ! - en-US]]></M37>
+    <M38><![CDATA[Login bloqueado ! - en-US]]></M38>
+    <M39><![CDATA[<-- All -->]]></M39>
+    <M40><![CDATA[View]]></M40>
+    <M41><![CDATA[Login: - en-US]]></M41>
+    <M42><![CDATA[Email: - en-US]]></M42>
+    <M43><![CDATA[- O login do usuário deve ser informado!<br>]]></M43>
+    <M44><![CDATA[- O e-mail do usuário deve ser informado!<br>]]></M44>
+    <M45><![CDATA[Senha de Acesso - en-US]]></M45>
+    <M46><![CDATA[Renomear - en-US]]></M46>
+    <M47><![CDATA[Novo SubMenu - en-US]]></M47>
+    <M48><![CDATA[Novo Menu - en-US]]></M48>
+    <M49><![CDATA[Deleted - en-US]]></M49>
+    <M50><![CDATA[Edit - en-US]]></M50>
+    <M51><![CDATA[Export to Excel - en-US]]></M51>
+    <M52><![CDATA[Export to Word - en-US]]></M52>
+    <M53><![CDATA[Estatísticas de Acesso - en-US]]></M53>
+    <M54><![CDATA[Estatísticas de Páginas - en-US]]></M54>
+    <M55><![CDATA[Qtde - en-US]]></M55>
+    <M56><![CDATA[Horários - en-US]]></M56>
+    <M57><![CDATA[Páginas - en-US]]></M57>
+    <M58><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Super Grupo já existe!]]></M58>
+    <M59><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Modulo Funcionalidade já existe!]]></M59>
+    <M60><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Funcionalidade já existe!]]></M60>
+    <M61><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão Principal já existe!]]></M61>
+    <M62><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Menu já existe!]]></M62>
+    <M63><![CDATA[Listagem de Estilos]]></M63>
+    <M64><![CDATA[Cadastro de Estilos]]></M64>
+    <M65><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Idioma já existe!]]></M65>
+    <M66><![CDATA[Listagem de Padrões de Estilos]]></M66>
+    <M67><![CDATA[Cadastro de Padrões de Estilos]]></M67>
+    <M68><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Corpo Email já existe!]]></M68>
+    <M69><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Estilo já existe!]]></M69>
+    <M70><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Padrões de Estilos já existe!]]></M70>
+    <M71><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Registro não pode ser excluído pois existem informações relacionadas.]]></M71>
+    <M72><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Existe grupo administrador com o mesmo nome do super grupo]]></M72>
+    <M73><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária repetida]]></M73>
+    <M74><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Sigla do idioma inválida]]></M74>
+    <M75><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Registro gravado com sucesso! Aguarde liberação de seu usuário pelo administrador.]]></M75>
+    <M76><![CDATA[<img src='%%PATH%%/imagens/icones/ico_alerta.gif' align='absmiddle'>Permissão secundária já existe em outra funcionalidade]]></M76>
+	<M77><![CDATA[<img src='%%PATH%%/imagens/icones/ico_sucesso.gif' align='absmiddle'>Baixa realizada com sucesso!]]></M77>
+  </Mensagens>
+</Pages>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="AreaFieldSet">Propriedades da Area Selecionada</string>
+	<string id="ImageFieldSet">Propriedades da Imagem</string>
+	<string id="Update">Atualizar Area</string>
+	<string id="Remove">Remover Area</string>
+	<string id="RemoveAll">Remover Tudo</string>
+	<string id="NewArea">Criar Area</string>
+	<string id="Left">Esquerda</string>
+	<string id="Top">Superior</string>
+	<string id="Width">Largura</string>
+	<string id="Height">Altura</string>
+	<string id="Url">Caminho:</string>
+	<string id="Target">Destino:</string>
+	<string id="Comment">Comentário</string>
+	<string id="ImageSrc">Caminho da Imagem</string>
+	<string id="AlertInvalidProperties">Propriedades Inválidas!</string>
+	<string id="AlertInvalidAreaProperties">Propriedades Inválidasde área! Por Favor insira o Caminho:</string>
+	<string id="AlertDeleteArea">Confirma exclusão desta área?</string>
+	<string id="AlertDeleteAllAreas">Confirma exclusão de TODAS as areas?</string>
+	<string id="AlertWrongAreaDimensions">Detectadas Dimensoes inválidas de areas. Ignorando esta área.</string>
+	<string id="ShapeAlt">Arraste o canto inferior direito para redimensionar a area.</string>
+	<string id="HowToAdd">Voce pode arrastar imagens para criar uma nova area.</string>
+	<string id="RectangleShapeName">Retangulo</string>
+	<string id="CircleShapeName">Circulo</string>
+	<string id="PolygonShapeName">Poligono</string>
+	<string id="SelectImage">Escolha uma imagem para criar o mapa da imagem</string>
+	<string id="_blank">Nova Janela</string>
+	<string id="_self">Mesma Janela</string>
+	<string id="_parent">Janela Pai</string>
+	<string id="_top">Janela do Navegador</string>
+	<string id="_search">Painel de Busca</string>
+	<string id="_media">Painel de Mídia</string>
+</localization>

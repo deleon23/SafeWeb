@@ -1,0 +1,41 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Cracha\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\bin\Debug\SafWeb.Model.Cracha.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.Model.Cracha\obj\Debug\SafWeb.Model.Cracha.pdb

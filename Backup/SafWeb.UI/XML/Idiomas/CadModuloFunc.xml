@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<CadModuloFunc>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Módulos]]></lblTituloListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<lblDescricaoListagem><![CDATA[<u>D</u>escrição:]]></lblDescricaoListagem>
+		<radGridDados_Coluna_0><![CDATA[Módulos]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblTituloCadastro><![CDATA[Cadastro de Módulos]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<rfvNome><![CDATA[- Campo Obrigatório: Descrição]]></rfvNome>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadModuloFunc>
+	<CadModuloFunc>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Módulos]]></lblTituloListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<lblDescricaoListagem><![CDATA[<u>D</u>escrição:]]></lblDescricaoListagem>
+		<radGridDados_Coluna_0><![CDATA[Módulos]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblTituloCadastro><![CDATA[Cadastro de Módulos]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<rfvNome><![CDATA[- Campo Obrigatório: Descrição]]></rfvNome>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadModuloFunc>
+	<CadModuloFunc>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Módulos - en-US]]></lblTituloListagem>
+		<btnBuscar><![CDATA[Buscar - en-US]]></btnBuscar>
+		<lblDescricaoListagem><![CDATA[<u>D</u>escrição: - en-US]]></lblDescricaoListagem>
+		<radGridDados_Coluna_0><![CDATA[Módulos - en-US]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<lblTituloCadastro><![CDATA[Cadastro de Módulos - en-US]]></lblTituloCadastro>
+		<lblDescricao><![CDATA[<u>D</u>escrição: - en-US]]></lblDescricao>
+		<rfvNome><![CDATA[- Campo Obrigatório: Descrição - en-US]]></rfvNome>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+	</CadModuloFunc>
+</Pages>

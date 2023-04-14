@@ -1,0 +1,148 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csprojResolveAssemblyReference.cache
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.DataLayer.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Colaborador.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Model.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\bin\Debug\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.DataLayer.Lista\obj\Debug\SafWeb.DataLayer.Lista.pdb

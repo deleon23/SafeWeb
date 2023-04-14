@@ -1,0 +1,5 @@
+C:\Projetos\SafWeb\SafWeb.Model.Usuarios\bin\Debug\SafWeb.Model.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.Model.Usuarios\bin\Debug\SafWeb.Model.Usuarios.pdb
+C:\Projetos\SafWeb\SafWeb.Model.Usuarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SafWeb\SafWeb.Model.Usuarios\obj\Debug\SafWeb.Model.Usuarios.dll
+C:\Projetos\SafWeb\SafWeb.Model.Usuarios\obj\Debug\SafWeb.Model.Usuarios.pdb

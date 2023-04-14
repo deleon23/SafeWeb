@@ -1,0 +1,326 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Redirect.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfseguranca.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cflibrary.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cfdataaccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\cftools.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\IBM.Data.Informix.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csprojResolveAssemblyReference.cache
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\SafWeb.FrameWork.UI.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadGrid.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ProviderBase.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadAjax.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.WebControl.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadEditor.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadWindow.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\netchartdir.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Model.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\RadTreeView.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.ZipLib.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataLayer.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\bin\Debug\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.FrameWork.UI\obj\Debug\SafWeb.FrameWork.UI.pdb

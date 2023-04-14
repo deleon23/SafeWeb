@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<CadGrupos>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloCadastro><![CDATA[Cadastro de Perfis de Acesso]]></lblTituloCadastro>
+		<lblTituloListagem><![CDATA[Listagem de Perfis de Acesso]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Perfil:]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupo>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<radGridDados_Coluna_0><![CDATA[Perfis de Acesso]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblUsuarios><![CDATA[Usuários:]]></lblUsuarios>
+		<rfvNome><![CDATA[- Campo Obrigatório: Descrição]]></rfvNome>
+		<lblSuperGrupoCadastro><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupoCadastro>
+		<lblUsuariosSelecionados><![CDATA[Usuários Selecionados:]]></lblUsuariosSelecionados>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadGrupos>
+	<CadGrupos>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloCadastro><![CDATA[Cadastro de Perfis]]></lblTituloCadastro>
+		<lblTituloListagem><![CDATA[Listagem de Perfis]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Perfil:]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupo>
+		<btnNovoListagem><![CDATA[Novo]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<lblDescricao><![CDATA[<u>D</u>escrição:]]></lblDescricao>
+		<radGridDados_Coluna_0><![CDATA[Perfis]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblUsuarios><![CDATA[Usuários:]]></lblUsuarios>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome]]></rfvNome>
+		<lblSuperGrupoCadastro><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupoCadastro>
+		<lblUsuariosSelecionados><![CDATA[Usuários Selecionados:]]></lblUsuariosSelecionados>
+		<btnNovoCadastro><![CDATA[Novo]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadGrupos>
+	<CadGrupos>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloCadastro><![CDATA[Cadastro de Grupos - en-US]]></lblTituloCadastro>
+		<lblTituloListagem><![CDATA[Listagem de Grupos - en-US]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Grupo: - en-US]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Grupo: - en-US]]></lblSuperGrupo>
+		<btnNovoListagem><![CDATA[Novo - en-US]]></btnNovoListagem>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<btnBuscar><![CDATA[Buscar - en-US]]></btnBuscar>
+		<lblDescricao><![CDATA[<u>D</u>escrição: - en-US]]></lblDescricao>
+		<radGridDados_Coluna_0><![CDATA[Grupos - en-US]]></radGridDados_Coluna_0>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<lblUsuarios><![CDATA[Usuários: - en-US]]></lblUsuarios>
+		<rfvNome><![CDATA[- Campo Obrigatório: Nome - en-US]]></rfvNome>
+		<lblSuperGrupoCadastro><![CDATA[<u>S</u>uper Grupo: - en-US]]></lblSuperGrupoCadastro>
+		<lblUsuariosSelecionados><![CDATA[Usuários Selecionados: - en-US]]></lblUsuariosSelecionados>
+		<btnNovoCadastro><![CDATA[Novo - en-US]]></btnNovoCadastro>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+	</CadGrupos>
+</Pages>

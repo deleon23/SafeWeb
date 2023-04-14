@@ -1,0 +1,1475 @@
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\netchartdir.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\Redirect.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\cfseguranca.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\cflibrary.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\cftools.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Fontes\Sistemas\Web\Extranet\branches\SDM11276\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\netchartdir.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\Redirect.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\cfseguranca.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\cflibrary.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\cftools.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Repositorio_SVN\clientes\Brinks\Checkout\Cópia de SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\netchartdir.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\Redirect.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\cfseguranca.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\cflibrary.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\cftools.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Projetos\WEBsite\SAFWEB\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\netchartdir.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\Redirect.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\cfseguranca.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\cflibrary.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\cftools.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Publicados\SAFWEB_Code\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadInput.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Util.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\System.Web.Extensions.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\netchartdir.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\Redirect.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\cfseguranca.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\cflibrary.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\cfdataaccess.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\cftools.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\IBM.Data.Informix.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Projetos\WEBsite\SAFWEB\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\netchartdir.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\Redirect.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\cfseguranca.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\cflibrary.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\cftools.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.Provider.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.WebControl.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.ZipLib.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadAjax.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadCalendar.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadComboBox.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadEditor.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadGrid.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadInput.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadPanelbar.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadTreeView.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\RadWindow.Net2.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.Design.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\System.Web.Extensions.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\Telerik.Web.UI.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\Oracle.DataAccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\netchartdir.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\Redirect.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\cfseguranca.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\cflibrary.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\cfdataaccess.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\cftools.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\IBM.Data.Informix.dll
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Util.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+C:\Documents and Settings\aoliveira\Desktop\New\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\Projetos_Sistemas\SAFWEB\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.csprojResolveAssemblyReference.cache
+D:\Users\mtzkaio\Desktop\Projeto\SafWeb\SafWeb.UI\obj\Debug\SafWeb.UI.csprojResolveAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.dll.config
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadInput.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\netchartdir.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.UI.dll.config
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadInput.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Util.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\netchartdir.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\obj\Debug\SafWeb.UI.csprojAssemblyReference.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CoreCompileInputs.cache
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CopyComplete
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\BRINKS\Operacional\SAFWeb\Main\Code\ProjetoMaquinaKaio - Copia\SafWeb.UI\obj\Debug\SafWeb.UI.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.dll.config
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.UI.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.BusinessLayer.Utilitarios.XmlSerializers.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.LibraryProvider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Idioma.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Menu.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Usuarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Model.Utilitarios.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.Provider.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.ProviderBase.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.WebControl.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.ZipLib.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadAjax.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadCalendar.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadComboBox.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadEditor.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadGrid.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadInput.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadPanelbar.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadTreeView.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\RadWindow.Net2.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.FrameWork.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Acesso.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Area.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Colaborador.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Cracha.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Empresa.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Escala.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Filial.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.HelpDesk.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Permissao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Regional.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Relatorio.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Util.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\Telerik.Web.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Area.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Escala.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Filial.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Lista.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FrameWork.DataLayer.Email.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\Oracle.DataAccess.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\netchartdir.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Regional.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Acesso.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Area.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Colaborador.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Cracha.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Email.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Empresa.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Escala.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Filial.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.HelpDesk.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Permissao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Relatorio.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.FrameWork.UI.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Acesso.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Area.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Colaborador.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Cracha.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Escala.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.HelpDesk.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Permissao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Util.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.BusinessLayer.Regional.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Empresa.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Filial.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Regional.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.Model.Relatorio.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Acesso.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Area.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Colaborador.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Cracha.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Email.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Empresa.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Escala.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Filial.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.HelpDesk.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.ListaVeiculos.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Lista.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Permissao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Relatorio.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Solicitacao.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Veiculo.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\bin\SafWeb.DataLayer.Regional.pdb
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csprojAssemblyReference.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CoreCompileInputs.cache
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.csproj.CopyComplete
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.dll
+D:\wks\Git\ProjetoMaquinaKaio\SafWeb.UI\obj\Debug\SafWeb.UI.pdb

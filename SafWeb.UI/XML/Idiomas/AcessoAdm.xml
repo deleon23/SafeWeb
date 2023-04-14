@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Pages>
+	<AcessoAdm>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo><![CDATA[Erro de Permissão de Acesso]]></lblTitulo>
+		<lblMensagem><![CDATA[O usuário atual não possui permissão de acesso a esta funcionalidade.]]></lblMensagem>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+	</AcessoAdm>
+	<AcessoAdm>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo><![CDATA[Erro de Permissão de Acesso]]></lblTitulo>
+		<lblMensagem><![CDATA[O usuário atual não possui permissão de acesso a esta funcionalidade.]]></lblMensagem>
+		<btnVoltar><![CDATA[Voltar]]></btnVoltar>
+	</AcessoAdm>
+	<AcessoAdm>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo><![CDATA[Erro de Permissão de Acesso - en-US]]></lblTitulo>
+		<lblMensagem><![CDATA[O usuário atual não possui permissão de acesso a esta funcionalidade. - en-US]]></lblMensagem>
+		<btnVoltar><![CDATA[Voltar - en-US]]></btnVoltar>
+	</AcessoAdm>
+</Pages>

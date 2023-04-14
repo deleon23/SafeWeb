@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+	<CadPermissoes>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Permissões]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Perfil:]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Perfil:]]></lblSuperGrupo>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblGrupo><![CDATA[Grupo:]]></lblGrupo>
+		<lblModulo><![CDATA[Módulo:]]></lblModulo>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro de Permissões]]></lblTituloCadastro>
+		<radGridDados_Coluna_0><![CDATA[Perfis]]></radGridDados_Coluna_0>
+		<dtgDados_Coluna_1><![CDATA[Descrição]]></dtgDados_Coluna_1>
+		<dtgDados_Coluna_2><![CDATA[Módulo]]></dtgDados_Coluna_2>
+		<dtgDados_Coluna_3><![CDATA[Listar]]></dtgDados_Coluna_3>
+		<dtgDados_Coluna_4><![CDATA[Inserir]]></dtgDados_Coluna_4>
+		<dtgDados_Coluna_5><![CDATA[Excluir]]></dtgDados_Coluna_5>
+		<dtgDados_Coluna_6><![CDATA[Alterar]]></dtgDados_Coluna_6>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadPermissoes>
+	<CadPermissoes>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Permissões]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Grupo:]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Grupo:]]></lblSuperGrupo>
+		<btnBuscar><![CDATA[Buscar]]></btnBuscar>
+		<btnVoltarListagem><![CDATA[Voltar]]></btnVoltarListagem>
+		<lblGrupo><![CDATA[Grupo:]]></lblGrupo>
+		<lblModulo><![CDATA[Módulo:]]></lblModulo>
+		<btnPrimeira><![CDATA[Primeira]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página:]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir]]></btnIr>
+		<btnProxima><![CDATA[Próxima]]></btnProxima>
+		<btnUltima><![CDATA[Última]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro de Permissões]]></lblTituloCadastro>
+		<radGridDados_Coluna_0><![CDATA[Grupos]]></radGridDados_Coluna_0>
+		<dtgDados_Coluna_1><![CDATA[Descrição]]></dtgDados_Coluna_1>
+		<dtgDados_Coluna_2><![CDATA[Módulo]]></dtgDados_Coluna_2>
+		<dtgDados_Coluna_3><![CDATA[Listar]]></dtgDados_Coluna_3>
+		<dtgDados_Coluna_4><![CDATA[Inserir]]></dtgDados_Coluna_4>
+		<dtgDados_Coluna_5><![CDATA[Excluir]]></dtgDados_Coluna_5>
+		<dtgDados_Coluna_6><![CDATA[Alterar]]></dtgDados_Coluna_6>
+		<btnSalvarCadastro><![CDATA[Salvar]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar]]></btnVoltarCadastro>
+	</CadPermissoes>
+	<CadPermissoes>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTituloListagem><![CDATA[Listagem de Permissões - en-US]]></lblTituloListagem>
+		<lblNomeListagem><![CDATA[<u>N</u>ome Grupo: - en-US]]></lblNomeListagem>
+		<lblSuperGrupo><![CDATA[<u>S</u>uper Grupo: - en-US]]></lblSuperGrupo>
+		<btnBuscar><![CDATA[Buscar - en-US]]></btnBuscar>
+		<btnVoltarListagem><![CDATA[Voltar - en-US]]></btnVoltarListagem>
+		<lblGrupo><![CDATA[Grupo: - en-US]]></lblGrupo>
+		<lblModulo><![CDATA[Módulo: - en-US]]></lblModulo>
+		<btnPrimeira><![CDATA[Primeira - en-US]]></btnPrimeira>
+		<btnAnterior><![CDATA[Anterior - en-US]]></btnAnterior>
+		<lblPaginaDescricao><![CDATA[Página: - en-US]]></lblPaginaDescricao>
+		<lblPaginaDe><![CDATA[de - en-US]]></lblPaginaDe>
+		<btnIr><![CDATA[Ir - en-US]]></btnIr>
+		<btnProxima><![CDATA[Próxima - en-US]]></btnProxima>
+		<btnUltima><![CDATA[Última - en-US]]></btnUltima>
+		<lblTituloCadastro><![CDATA[Cadastro de Permissões - en-US]]></lblTituloCadastro>
+		<radGridDados_Coluna_0><![CDATA[Grupos - en-US]]></radGridDados_Coluna_0>
+		<dtgDados_Coluna_1><![CDATA[Descrição - en-US]]></dtgDados_Coluna_1>
+		<dtgDados_Coluna_2><![CDATA[Módulo - en-US]]></dtgDados_Coluna_2>
+		<dtgDados_Coluna_3><![CDATA[Listar - en-US]]></dtgDados_Coluna_3>
+		<dtgDados_Coluna_4><![CDATA[Inserir - en-US]]></dtgDados_Coluna_4>
+		<dtgDados_Coluna_5><![CDATA[Excluir - en-US]]></dtgDados_Coluna_5>
+		<dtgDados_Coluna_6><![CDATA[Alterar - en-US]]></dtgDados_Coluna_6>
+		<btnSalvarCadastro><![CDATA[Salvar - en-US]]></btnSalvarCadastro>
+		<btnVoltarCadastro><![CDATA[Voltar - en-US]]></btnVoltarCadastro>
+	</CadPermissoes>
+</Pages>

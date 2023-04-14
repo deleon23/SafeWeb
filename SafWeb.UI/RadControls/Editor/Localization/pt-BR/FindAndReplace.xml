@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization>
+	<string id="Title">Localizar e Substituir</string>
+	<string id="Tab1HeaderText">Localizar</string>
+	<string id="Tab2HeaderText">Substituir</string>
+	<string id="SearchText">Localizar:</string>
+	<string id="FindNext">Localizar Proximo:</string>
+	<string id="Replace">Substituir</string>
+	<string id="ReplacementText">Substituir por:</string>
+	<string id="ReplaceAll">Substituir Todos</string>
+	<string id="SearchIn">Procurar:</string>
+	<string id="SearchEntireText">Todo o Texto</string>
+	<string id="SearchSelection">Somente texto selecionado</string>
+	<string id="SearchDirection">Direção:</string>
+	<string id="MatchCase">Diferenciar Maiúsculas/Minúsculas</string>
+	<string id="WholeWordsOnly">Coincidir Palavra inteira</string>
+	<string id="SearchUp">Acima</string>
+	<string id="SearchDown">Abaixo</string>
+	<string id="OK">OK</string>
+	<string id="Cancel">Cancel</string>
+	<string id="SearchCriteriaNotSpecified">Critério de Busca não especificado</string>
+	<string id="NoSearchTarget">Sem conteúdo para buscar</string>
+	<string id="FinishedSearching">r.a.d.editor terminou a busca</string>
+	<string id="AndHasMade">e fez</string>
+	<string id="Replacements">substituições</string>
+</localization>

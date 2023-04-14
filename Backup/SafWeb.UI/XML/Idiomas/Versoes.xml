@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Pages>
+	<Versoes>
+		<idioma><![CDATA[pt-BR]]></idioma>
+		<lblTitulo>Versões</lblTitulo>
+		<btnVoltar>Voltar</btnVoltar>
+		<lblDescricao>Descrição</lblDescricao>
+		<lblArquivo>Arquivo</lblArquivo>
+		<lblDesenvolvedor>Desenvolvedor</lblDesenvolvedor>
+		<lblVersao>Versão</lblVersao>
+	</Versoes>
+	<Versoes>
+		<idioma><![CDATA[es-ES]]></idioma>
+		<lblTitulo>Versión</lblTitulo>
+		<btnVoltar>Volver</btnVoltar>
+		<lblDescricao>Descripción</lblDescricao>
+		<lblArquivo>Arquivo</lblArquivo>
+		<lblDesenvolvedor>Desenvolvedor</lblDesenvolvedor>
+		<lblVersao>Versión</lblVersao>
+	</Versoes>
+	<Versoes>
+		<idioma><![CDATA[en-US]]></idioma>
+		<lblTitulo>Version - en-US</lblTitulo>
+		<btnVoltar>Back - en-US</btnVoltar>
+		<lblDescricao>Description - en-US</lblDescricao>
+		<lblArquivo>File - en-US</lblArquivo>
+		<lblDesenvolvedor>Developer - en-US</lblDesenvolvedor>
+		<lblVersao>Version - en-US</lblVersao>
+	</Versoes>
+</Pages>
